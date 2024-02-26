@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-sidebar_label: 'Zmiany w statystykach przedmiotów'
+sidebar_label: 'Alchemia'
 ---
 
 
