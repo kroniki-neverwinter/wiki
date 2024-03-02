@@ -25,49 +25,70 @@ Korzystanie z błędów gry oraz używanie wszelkich oszustw jest zabronione. Ka
 
 #### 4.1 Item run
 
-Formą oszustwa jest zbieranie przedmiotów ze skrzynek (lub innych kontenerów), **ignorując przy tym potwory**. Niezależnie od tego czy postać używa Ukrywania, Niewidzialności, Przyspieszenia, czy po prostu biegnie (np. Mnich). Mechanicznie otwarcie kontenerka i zabranie przedmiotów (włącznie z np. Pełną Zbroją Płytową) zajmuje 5-6 sekund i nie chcemy sztucznie wydłużać tego czasu, dlatego prosimy o uczciwe podejście przy zbieraniu skarbów.
+Formą oszustwa jest zbieranie przedmiotów ze skrzynek (lub innych kontenerów), **ignorując przy tym potwory**. Niezależnie od tego czy postać używa Ukrywania, Niewidzialności, Przyspieszenia, czy po prostu biegnie (np. Mnich).
+
+Mechanicznie otwarcie kontenerka i zabranie przedmiotów (włącznie z np. Pełną Zbroją Płytową) zajmuje 5-6 sekund i nie chcemy sztucznie wydłużać tego czasu, dlatego prosimy o uczciwe podejście przy zbieraniu skarbów.
 
 ### 5. Przekazywanie przedmiotów własnym postaciom oraz rozdawnictwo
 
-Przerzucanie przedmiotów lub złota pomiędzy swoimi postaciami jest zabronione. Rozdawanie przedmiotów lub złota bez pobudek fabularnych (typu "Masz nową postać? Dam ci 10k golda i adamantowy miecz na start!") jest zabronione. Zasadniczo postać na 2 poziomie nie ma prawa posiadać ekwipunku z mithrillu i każdy MG ma prawo takie przedmioty odebrać, jeżeli gracz nie będzie w stanie udowodnić, że przedmioty zostały zdobyte uczciwie. Jednocześnie nie zabrania się, a wręcz zachęca do wspierania słabszych członków gildii, zakonów itp. Zasadne fabularnie przekazywanie przedmiotów jest jak najbardziej w porządku.
+Przerzucanie przedmiotów lub złota pomiędzy swoimi postaciami jest zabronione. Rozdawanie przedmiotów lub złota bez pobudek fabularnych (typu "Masz nową postać? Dam ci 10k golda i adamantowy miecz na start!") jest zabronione.
+
+Zasadniczo postać na 2 poziomie nie ma prawa posiadać ekwipunku z mithrillu i każdy MG ma prawo takie przedmioty odebrać, jeżeli gracz nie będzie w stanie udowodnić, że przedmioty zostały zdobyte uczciwie. Jednocześnie nie zabrania się, a wręcz zachęca do wspierania słabszych członków gildii, zakonów itp. Zasadne fabularnie przekazywanie przedmiotów jest jak najbardziej w porządku.
 
 ### 6. Odgrywanie
 
-Na serwerze obowiązuje utrzymanie klimatu fantasy, zabrania się zatem stosowania współczesnego słownictwa oraz rozmów o XP, statystykach przedmiotów (np. "wow, zdropiłem miecz +3!") itp. na wszystkich kanałach poza prywatnym (zielony, priv).
+- Na serwerze obowiązuje utrzymanie klimatu fantasy, zabrania się zatem stosowania współczesnego słownictwa oraz rozmów o XP, statystykach przedmiotów (np. "wow, zdropiłem miecz +3!") itp. na wszystkich kanałach poza prywatnym (zielony, priv).
 
-Za współczesne słownictwo uznaje się także wszelkie nowożytne wulgaryzmy. Przeklinanie nie jest zakazane, ale powinno być klimatyczne i nienadużywane.
-Akcje postaci można opisywać w emotkach np. śpi, pije wino. Kategorycznie zabronione jest prowadzenie rozmów czy pisanie komunikatów OOC jako "emotek", np. wcale nie uciąłeś mojej postaci ręki, ponieważ moja postać straciła obie ręce w Q DM Mefisto. Wszelkie niejasności załatwiamy na privie!
-W wyjątkowych sytuacjach, np. kiedy ktoś musi odejść od komputera podczas grupowego Q dopuszczalne jest napisanie: //OOC: wracam za 5 min
+- Za współczesne słownictwo uznaje się także wszelkie nowożytne wulgaryzmy.
+- Przeklinanie nie jest zakazane, ale powinno być klimatyczne i nienadużywane.
+Akcje postaci można opisywać w emotkach np. śpi, pije wino.
+- Kategorycznie zabronione jest prowadzenie rozmów czy pisanie komunikatów OOC jako "emotek", np. wcale nie uciąłeś mojej postaci ręki, ponieważ moja postać straciła obie ręce w Q DM Mefisto. Wszelkie niejasności załatwiamy na privie!
+
+- W wyjątkowych sytuacjach, np. kiedy ktoś musi odejść od komputera podczas grupowego Q dopuszczalne jest napisanie: //OOC: wracam za 5 min
 Jest to jedyny wyjątek od przedstawionych reguł i w żadnych wypadku nie stanowi przyzwolenia do pogaduch OOC na kanale Rozmowa.
-Odgrywanie powinno być zabawą dla wszystkich. Wszelkiego typu sytuacje, które mogą uderzać w godność osobistą, być wyjątkowo okrutne, obsceniczne, szokujące czy po prostu niesmaczne mogą mieć miejsce tylko za zgodą obu stron.
-Nie robimy logoutu w pokojach - zdaje mi się to dość oczywiste, dlaczego? A dlatego, żeby nie było dziwnych przypadków, że ktoś loguje się w pokoju zajętym przez kogoś innego i rzuca emotą, że wychodzi spod łóżka.
-Poleca się stosowanie zasady zdrowego rozsądku wykonując różne akcje w grze. Na przykład, odpoczywanie postacią na środku ulicy, albo wprowadzanie dużych zwierząt do pomieszczeń nie jest zbyt fabularnym zachowaniem i będzie negatywnie odbierane przez straż czy mieszkańców miasta.
+
+- Odgrywanie powinno być zabawą dla wszystkich. Wszelkiego typu sytuacje, które mogą uderzać w godność osobistą, być wyjątkowo okrutne, obsceniczne, szokujące czy po prostu niesmaczne mogą mieć miejsce tylko za zgodą obu stron.
+
+- Nie robimy logoutu w pokojach - zdaje mi się to dość oczywiste, dlaczego? A dlatego, żeby nie było dziwnych przypadków, że ktoś loguje się w pokoju zajętym przez kogoś innego i rzuca emotą, że wychodzi spod łóżka.
+
+- Poleca się stosowanie zasady zdrowego rozsądku wykonując różne akcje w grze. Na przykład, odpoczywanie postacią na środku ulicy, albo wprowadzanie dużych zwierząt do pomieszczeń nie jest zbyt fabularnym zachowaniem i będzie negatywnie odbierane przez straż czy mieszkańców miasta.
 
 ### 7. Zabójstwa
 
-W walkach PvP postacie graczy nie muszą walczyć do śmierci. Mogą stosować Tryb Arenowy, dzięki któremu pokonana postać nie ginie, a jest jedynie przez pewien czas nieprzytomna. Tryb arenowy można uruchomić/wyłączyć poprzez Menu Gracza. Grono MG zaleca stosowanie tego trybu w typowych potyczkach pomiędzy postaciami - pojedynki o honor, napady bandyckie itp. Nie odbieramy opcji, aby "naprawdę" zabić postać przeciwnika, jednak powinny być do tego SOLIDNE podstawy fabularne, udokumentowane screenami, które będzie można w razie wszelkich wątpliwości przedstawić gronu MG.
+- W walkach PvP postacie graczy nie muszą walczyć do śmierci.
 
-Przed atakiem należy ustawić wrogość ("Nie lubi"). Ustawienie wrogości to jedno kliknięcie, a wyklucza naginanie mechaniki gry na swoją korzyść (np. Burze Izaaka nie działają na neutralne cele).
-W przypadku walk w "Trybie Arenowym" muszą go ustawić wszyscy uczestnicy potyczki. Oznacza to, że gracze muszą się dogadać w tej kwestii wcześniej na priv. Jeżeli komuś się "zapomni" ustawić w/w trybu, osoba taka może zostać ukarana za nieodegrane zabójstwo.
-Magia Śmierci oraz inne efekty natychmiastowej śmierci (np. ścięcie głowy) zawsze zabiją przeciwnika, nawet w Trybie Arenowym - zostaliście ostrzeżeni.
+- Mogą stosować Tryb Arenowy, dzięki któremu pokonana postać nie ginie, a jest jedynie przez pewien czas nieprzytomna. Tryb arenowy można uruchomić/wyłączyć poprzez Menu Gracza.
+
+- Grono MG zaleca stosowanie tego trybu w typowych potyczkach pomiędzy postaciami - pojedynki o honor, napady bandyckie itp. Nie odbieramy opcji, aby "naprawdę" zabić postać przeciwnika, jednak powinny być do tego SOLIDNE podstawy fabularne, udokumentowane screenami, które będzie można w razie wszelkich wątpliwości przedstawić gronu MG.
+
+- Przed atakiem należy ustawić wrogość ("Nie lubi"). Ustawienie wrogości to jedno kliknięcie, a wyklucza naginanie mechaniki gry na swoją korzyść (np. Burze Izaaka nie działają na neutralne cele).
+
+- W przypadku walk w "Trybie Arenowym" muszą go ustawić wszyscy uczestnicy potyczki. Oznacza to, że gracze muszą się dogadać w tej kwestii wcześniej na priv. Jeżeli komuś się "zapomni" ustawić w/w trybu, osoba taka może zostać ukarana za nieodegrane zabójstwo.
+
+- Magia Śmierci oraz inne efekty natychmiastowej śmierci (np. ścięcie głowy) zawsze zabiją przeciwnika, nawet w Trybie Arenowym - zostaliście ostrzeżeni.
 W przypadku walk w trybie "normalnym" pokonany ma całkowitą amnezję obejmującą ostatnie 30 minut gry - niezależnie od tego czy się odrodził, czy też został wskrzeszony. Jedyną możliwość zemsty zapewnia żywy świadek zdarzenia (w razie możliwych wątpliwości - np. jeśli świadek stał na ukrywaniu lub niewidzialności, należy sporządzić screena na którym widać zabójcę).
-Nie wolno atakować ciągle tej samej osoby - dotyczy to zarówno trybu normalnego, jak i arenowego (chyba, że gracze ustalą między sobą inaczej). Oznacza to, że atak na postać może nastąpić nie wcześniej niż dobę (czasu realnego) od ostatniej potyczki.
-Magia typu rozproszenie także jest uznawana za atak, dlatego też nie można rozpraszać postaci bez wcześniejszego ustawienia im wrogości (chyba, że na ich wyraźne życzenie).
-Gracz w zmienionej postaci (polimorfia) może być atakowany jak zwykły potwór. Należy przy tym mieć na uwadze, że beztrosko biegający w pobliżu miasta troll jest oczywistym zagrożeniem, ale wróżka już nie. Atak jest dozwolony tylko w przypadku gdy nie widzieliśmy przemiany gracza.
+
+- Nie wolno atakować ciągle tej samej osoby - dotyczy to zarówno trybu normalnego, jak i arenowego (chyba, że gracze ustalą między sobą inaczej). Oznacza to, że atak na postać może nastąpić nie wcześniej niż dobę (czasu realnego) od ostatniej potyczki.
+
+- Magia typu rozproszenie także jest uznawana za atak, dlatego też nie można rozpraszać postaci bez wcześniejszego ustawienia im wrogości (chyba, że na ich wyraźne życzenie).
+
+- Gracz w zmienionej postaci (polimorfia) może być atakowany jak zwykły potwór. Należy przy tym mieć na uwadze, że beztrosko biegający w pobliżu miasta troll jest oczywistym zagrożeniem, ale wróżka już nie. Atak jest dozwolony tylko w przypadku gdy nie widzieliśmy przemiany gracza.
 Ze zwłok postaci można bez konsekwencji wyciągnąć za pomocą kradzieży kieszonkowej dowolną ilość przedmiotów i złota.
 
 ### 8. Pułapki
 
 Zabrania się zastawiania pułapek w określonych przypadkach:
 
-bezcelowo (gracz zastawia pułapkę i ją porzuca/wylogowuje się)
+- bezcelowo (gracz zastawia pułapkę i ją porzuca/wylogowuje się)
 na przejściach pomiędzy lokacjami
 na drzwiach i obiektach interaktywnych (wyjątkiem mogą być np. drzwi i obiekty WEWNĄTRZ posiadłości gracza)
 na traktach, chyba że jest to DOBRZE umotywowane fabularnie
 
 ### 9. Straty spowodowane błędami gry
 
-Administracja nie odpowiada za straty graczy wynikłe z powodu crashów gry, padów neta itp. W przypadku strat wynikających z błędów gry lub serwera czy też czynników wcześniej wymienionych gracz może odzyskać stratę, a jeśli nie będzie to możliwe, to uzyskać rekompensatę - zależy to jednak od werdyktu administracji serwera. Podstawą do ubiegania się o jakiekolwiek odszkodowania są screeny, w innym wypadku istnieje duże prawdopodobieństwo, że wniosek zostanie odrzucony. Ideą serwera jest przede wszystkim wspólne odgrywanie, a nie gromadzenie złota i XP - radzę o tym pamiętać przed składaniem podań o zwrócenie 100 punktów doświadczenia itp.
+Administracja nie odpowiada za straty graczy wynikłe z powodu crashów gry, padów neta itp. W przypadku strat wynikających z błędów gry lub serwera czy też czynników wcześniej wymienionych gracz może odzyskać stratę, a jeśli nie będzie to możliwe, to uzyskać rekompensatę - zależy to jednak od werdyktu administracji serwera.
+
+Podstawą do ubiegania się o jakiekolwiek odszkodowania są screeny, w innym wypadku istnieje duże prawdopodobieństwo, że wniosek zostanie odrzucony. Ideą serwera jest przede wszystkim wspólne odgrywanie, a nie gromadzenie złota i XP - radzę o tym pamiętać przed składaniem podań o zwrócenie 100 punktów doświadczenia itp.
 
 ### 10. Botowanie
 
@@ -77,7 +98,9 @@ Zakazuje się tworzenia postaci typu „bot”, które podążają za główną 
 
 ### 1. Imię postaci
 
-Imię postaci powinno pasować fabularnie do regionu, z którego postać pochodzi (oczywiście niekwestionowalnym faktem jest, że imię musi pasować do ogólnej konwencji fantasy, czyli nie można nazwać postaci Terminator itd.) Korzystanie z imion bohaterów książkowych itd. nie jest zakazane, ale administracja zastrzega sobie prawo do kasowania takich postaci jak Drizzt Do'Urden czy Gandalf Biały. W przypadku niejasnych przypadków decyduje zdanie większości MG.
+Imię postaci powinno pasować fabularnie do regionu, z którego postać pochodzi (oczywiście niekwestionowalnym faktem jest, że imię musi pasować do ogólnej konwencji fantasy, czyli nie można nazwać postaci Terminator itd.)
+
+ Korzystanie z imion bohaterów książkowych itd. nie jest zakazane, ale administracja zastrzega sobie prawo do kasowania takich postaci jak Drizzt Do'Urden czy Gandalf Biały. W przypadku niejasnych przypadków decyduje zdanie większości MG.
 
 ### 2. Opis postaci
 
@@ -177,18 +200,23 @@ Przekonwertowanie na system metryczny najlepiej zrobić już po wybraniu wysoko�
 #### 5.1. Naczelna zasada - ZASADA STARTU
 
 Jeżeli postać chce łączyć dwie klasy podstawowe, na drugim poziomie musi posiadać po jednym poziomie z obu klas. Np. jeżeli chcemy grać wojownikiem/łotrzykiem, na drugim poziomie powinniśmy mieć rozkład klas wojownik 1/ łotrzyk 1 (lub na odwrót, jak kto woli). Dalszy rozwój zależy już tylko od gracza.
+
 Jeżeli chcemy prowadzić postać, która będzie mieć aż trzy klasy podstawowe, należy wpierw wysłać podanie do MG, które będzie zawierało historię uzasadniającą takie wymieszanie klas. Zasada Startu obowiązuje nadal, więc na 3 poziomie postać musi mieć rozkład klas Coś 1/ Inne Coś 1 / Jeszcze inne coś 1. Dalszy rozwój zależy już tylko od gracza.
+
 Zasada Startu nie dotyczy oczywiście klas prestiżowych.
-Od w/w zasady mogą występować wyjątki, jednak muszą one posiadać silne podłoże fabularne. W przypadku podejrzeń o próbę wzmocnienia sobie mechanicznie postaci pod przykrywką fabularną zgody nie będzie (czyli wysokopoziomowy czarownik nigdy nie uzyska zgody awansowanie jako Paladyn).
+Od w/w zasady mogą występować wyjątki, jednak muszą one posiadać silne podłoże fabularne.
+ W przypadku podejrzeń o próbę wzmocnienia sobie mechanicznie postaci pod przykrywką fabularną zgody nie będzie (czyli wysokopoziomowy czarownik nigdy nie uzyska zgody awansowanie jako Paladyn).
 Kapłan MUSI być klasą startową (wybraną na 1 poziomie), jeśli planujesz grę wieloklasowym Kapłanem.
 
 #### 5.2. ZASADA FABULARNOŚCI
 
 Chociaż podczas przygody w "papierowej" sesji D&D Czarownik mógłby prawdopodobnie zostać zarówno Mnichem jak i Paladynem (a może nawet jednym i drugim!), ekipa serwera nakłada pewne ograniczenia w tym zakresie. Połączenia klas postaci graczy powinny w niekwestionowany sposób odzwierciedlać ich fabułę. Aby wykluczyć najbardziej kontrowersyjne połączenia, wprowadzamy następujące zasady:
 
-Kapłan nie może być łączony z klasami podstawowymi, chyba że połączenie klas pasuje fabularnie do bóstwa. Lista dozwolonych połączeń znajduje się w opisie klasy: [Kapłan](../Zmiany%20w%20klasach/kaplan.md)
-Paladyn poświęca swoje życie bóstwu i nie może awansować w żadnej innej klasie podstawowej (wyjątkiem może być Kapłan/Paladyn, o ile opis bóstwa dopuszcza takie połączenie - patrz poprzedni punkt)
-Mnich nie może w żaden sposób zmieniać swojej ścieżki ani filozofii życiowej, oznacza to że nie może się łączyć z klasami podstawowymi (od tej reguły nie ma wyjątków!)
+**Kapłan** nie może być łączony z klasami podstawowymi, chyba że połączenie klas pasuje fabularnie do bóstwa. Lista dozwolonych połączeń znajduje się w opisie klasy: [Kapłan](../09-Zmiany%20w%20Klasach/05-Kaplan.md)
+
+**Paladyn** poświęca swoje życie bóstwu i nie może awansować w żadnej innej klasie podstawowej (wyjątkiem może być Kapłan/Paladyn, o ile opis bóstwa dopuszcza takie połączenie - patrz poprzedni punkt)
+
+**Mnich** nie może w żaden sposób zmieniać swojej ścieżki ani filozofii życiowej, oznacza to że nie może się łączyć z klasami podstawowymi (od tej reguły nie ma wyjątków!)
 Nie można łączyć Ucznia Czerwonego Smoka i Bladego Mistrza. Albo smok, albo nieumarli - wybierz jedno. Nie, uczeń drakolisza to nie jest dobre uzasadnienie.
 
 ### 6. Ograniczenia fabularne poszczególnych klas
@@ -211,10 +239,14 @@ kiedy postać poniesie porażkę podczas próby czynu typu: próba zabójstwa Kr
 ## III. Kary
 
 Mistrzowie Gry posiadają w menu odpowiednie kary dla graczy łamiących regulamin.
-Za poważne oszustwa lub notoryczne łamanie regulaminu karą jest BAN. Ban może być czasowy lub permanentny, w zależności od przewinień.
-Ban na Discord = Ban w grze !!! Zachowuj się kulturalnie.
-Mistrzowie Gry mają prawo do karania gracza poprzez wymierzenie kary z menu MG. Decyzją grona MG lub administratora może zostać nałożona inna kara, np. w postaci odebrania przedmiotów lub poziomów.
-Od decyzji Mistrza Gry można się odwołać. W takim wypadku słuszność decyzji MG będzie przedyskutowana na forum MG, a decyzja podtrzymana lub uchylona. Grono MG ma prawo do zasądzenia łagodniejszej bądź ostrzejszej kary.
+
+- Za poważne oszustwa lub notoryczne łamanie regulaminu karą jest BAN. Ban może być czasowy lub permanentny, w zależności od przewinień.
+
+- **Ban na Discord = Ban w grze !!! Zachowuj się kulturalnie.**
+
+- Mistrzowie Gry mają prawo do karania gracza poprzez wymierzenie kary z menu MG. Decyzją grona MG lub administratora może zostać nałożona inna kara, np. w postaci odebrania przedmiotów lub poziomów.
+
+- Od decyzji Mistrza Gry można się odwołać. W takim wypadku słuszność decyzji MG będzie przedyskutowana na forum MG, a decyzja podtrzymana lub uchylona. Grono MG ma prawo do zasądzenia łagodniejszej bądź ostrzejszej kary.
 
 ## IV. Mistrz Gry
 
