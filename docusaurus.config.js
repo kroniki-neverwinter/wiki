@@ -84,11 +84,11 @@ const config = {
             items: [
               {
                 label: 'Regulamin',
-                to: '/docs/01-Podstawowe informacje/03-Regulamin gry na serwerze.md',
+                to: 'docs/Podstawowe informacje/Regulamin gry na serwerze',
               },
               {
                 label: 'Intro',
-                to: 'docs/01-Podstawowe informacje/01-Intro.md',
+                to: 'docs/category/podstawowe-informacje',
               },
             ],
           },
