@@ -88,7 +88,7 @@ const config = {
               },
               {
                 label: 'Intro',
-                to: '/docs/intro',
+                to: '/docs/01-Podstawowe informacje',
               },
             ],
           },
