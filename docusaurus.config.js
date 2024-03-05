@@ -12,10 +12,10 @@ const config = {
   tagline: '',
   favicon: 'img/KN_logo_min.jpg',
   // Set the production url of your site here
-  url: 'https://pwierzbieniec.github.io',
-  baseUrl: '/neverwinter-nights-wiki/',
-  projectName: 'neverwinter-nights-wiki', // Usually your repo name.
-  organizationName: 'pwierzbieniec', // Usually your GitHub org/user name.
+  url: 'https://kroniki-neverwinter.github.io',
+  baseUrl: '/wiki/',
+  projectName: 'wiki', // Usually your repo name.
+  organizationName: 'kroniki-neverwinter', // Usually your GitHub org/user name.
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
