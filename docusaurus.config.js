@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/KN_logo_min.jpg',
   // Set the production url of your site here
   url: 'https://kroniki-neverwinter.github.io',
-  baseUrl: '/wiki/',
+  baseUrl: '/',
   projectName: 'wiki', // Usually your repo name.
   organizationName: 'kroniki-neverwinter', // Usually your GitHub org/user name.
   trailingSlash: false,
