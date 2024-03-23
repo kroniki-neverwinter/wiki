@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8116],{2566:e=>{e.exports=JSON.parse('{"title":"Podstawowe informacje","slug":"/category/podstawowe-informacje","permalink":"/wiki/docs/category/podstawowe-informacje","navigation":{"next":{"title":"Na dobry pocz\u0105tek","permalink":"/wiki/docs/Podstawowe informacje/Intro"}}}')}}]);
