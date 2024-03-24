@@ -1,6 +1,6 @@
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-import { HomepageHeader } from './HomepageHeader';
+import HomepageHeader from './HomepageHeader';
 
 
 export default function Home() {
