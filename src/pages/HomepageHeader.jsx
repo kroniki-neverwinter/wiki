@@ -7,7 +7,7 @@ import Heading from '@theme/Heading';
 import styles from './index.module.css';
 
 
-export const HomepageHeader = () => {
+export default function HomepageHeader () {
     const {siteConfig} = useDocusaurusContext();
     return (
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
@@ -15,7 +15,7 @@ export const HomepageHeader = () => {
         <Heading as="h1" className="hero__title">
             {siteConfig.title}
           </Heading>
-        <img src={logo} alt="Alt text" />
+        <img src={logo} alt="logo kronik neverwinter" />
           <div>
             <h2>Moduł:</h2><p>KronikiNeverwinter</p>
             <h2>Setting:</h2><p>Zapomniane Krainy, Wybrzeże Mieczy</p>
