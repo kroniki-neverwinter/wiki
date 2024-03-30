@@ -40,7 +40,7 @@ Prowokacja\
 Upadanie\
 Wiedza (Szlachta i Władcy)\
 Wiedza (Tajemna)\
-Zastraszanie\
+Zastraszanie
 
 ### Zdolności klasowe
 
