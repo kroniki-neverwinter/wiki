@@ -3,6 +3,12 @@ sidebar_label: 'Mnich'
 ---
 
 
-# My Markdown page
+### Broń mnicha
 
-This is a Markdown page
+Oprócz Kamy, mnich może także używać następujących broni w trybie **Gradu Ciosów**:
+
+- Katar
+- Kostur
+- Nunczako
+- Sai
+- Shuriken

@@ -3,6 +3,72 @@ sidebar_label: 'Czarny strażnik'
 ---
 
 
-# My Markdown page
+### Wymagania
+**Charakter:** dowolny Zły \
+**Bazowy atak:** +6 \
+**Atuty:** Rozpłatanie \
+**Umiejętności:** Ukrywanie (5), Wiedza Religia (2)
 
-This is a Markdown page
+### Umiejętności
+
+- Dyscyplina
+- Koncentracja
+- Leczenie
+- Parowanie
+- Prowokacja
+- Ukrywanie
+- Wiedza (Religia)
+- Wiedza (Plany)
+- Zastraszanie
+
+### Czarci Sługa
+
+Na **5 poziomie** Czarny Strażnik zyskuje umiejętność przywołania Czarciego Sługi, którego siła następnie rośnie na **9 poziomie**. Do wyboru są dwie opcje: Sukkub (Chaotycznie Zły demon) i Erynia (Praworządnie Zły diabeł). Istnieje także możliwość nadania przezwiska dla Czarciego Sługi (ustawienie wyświetlanego imienia).
+
+![czarny strażnik dialog](../../static/img/wiki/wiki-klasy/cs-przywolaniec.png)
+
+Dodatkową korzyścią z posiadania Czarciego Sługi jest dostęp do specjalnych opcji dialogowych, które pozwalają na otrzymanie zaklęć ochronnych, naukę języka Otchłannego/Piekielnego czy nawet całkowitą zmianę wyglądu towarzysza.
+
+![czarny strażnik przywołaniec](../../static/img/wiki/wiki-klasy/cs-przywolaniec-2.png)
+
+### Zaklęcia
+
+Czarny Strażnik przygotowuje zaklęcia jak Kapłan (oparte o modyfikator Mądrości i księgę zaklęć) i uzyskuje dostęp do następujących zaklęć.
+
+### I
+
+- Błogosławieństwo
+- Boskie Względy
+- Leczenie Lekkich Ran
+- Ochrona przed Wybranym Charakterem
+- Odporność
+- Przełamanie Strachu
+- Przerażenie
+- Wytrzymałość na Żywioły
+- Zadawanie Lekkich Ran
+- Zagłada
+
+### II
+
+- Ciemność
+- Leczenie Średnich Ran
+- Majestat Orła
+- Odporność na Żywioły
+- Siła Byka
+- Ultrawizja
+- Zadawanie Średnich Ran
+
+### III
+
+- Leczenie Poważnych Ran
+- Ochrona przed Energią Negatywną
+- Ochrona przed Żywiołami
+- Zadawanie Poważnych Ran
+- Zakażenie
+
+### IV
+
+- Leczenie Krytycznych Ran
+- Swoboda Ruchu
+- Trucizna
+- Zadawanie Krytycznych Ran
