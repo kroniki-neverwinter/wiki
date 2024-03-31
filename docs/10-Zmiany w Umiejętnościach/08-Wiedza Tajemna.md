@@ -3,6 +3,17 @@ sidebar_label: 'Wiedza - Tajemna'
 ---
 
 
-# My Markdown page
+**Cecha:** Inteligencja.\
+**Wymaga szkolenia:** nie.
 
-This is a Markdown page
+Wiedza reprezentuje wykształcenie w jakiejś dziedzinie, być może znajomość jakiejś gałęzi nauki a nawet wyników poważnych badań.
+
+Wiedza Tajemna dotyczy między innymi takich zagadnień jak:
+
+- kanony magii
+- konstrukty
+- magiczne bestie
+- smoki
+- starożytne tajemnice
+- tajemne symbole
+- zagadkowe sfromułowania

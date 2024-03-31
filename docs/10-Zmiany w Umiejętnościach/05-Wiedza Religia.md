@@ -3,6 +3,15 @@ sidebar_label: 'Wiedza - Religia'
 ---
 
 
-# My Markdown page
+**Cecha:** Inteligencja.\
+**Wymaga szkolenia:** nie.
 
-This is a Markdown page
+Wiedza reprezentuje wykształcenie w jakiejś dziedzinie, być może znajomość jakiejś gałęzi nauki a nawet wyników poważnych badań.
+
+Wiedza Religia dotyczy między innymi takich zagadnień jak:
+
+- bogowie i boginie
+- kościelna tradycja
+- mitologia
+- nieumarli
+- święte symbole
