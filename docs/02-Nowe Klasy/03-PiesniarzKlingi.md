@@ -46,7 +46,7 @@ Zastraszanie
 
 **Poziom 1: Pieśń Klingi**
 
-Pieśniarz Klingi dzierżący w prawej ręce rapier (i nic w drugiej) jest w stanie użyć trzy razy dziennie zdolności czaropodobnej dającej mu +1 premii do KP za unik, za każdy punkt modyfikatora z intelektu. Czas trwania umiejetności to godzina/poziom Pieśniarza Klingi.
+Pieśniarz Klingi dzierżący w prawej ręce rapier (i nic w drugiej) jest w stanie użyć trzy razy dziennie zdolności czaropodobnej dającej mu +1 premii do KP za unik, za każdy punkt modyfikatora z intelektu (ale nie więcej niż poziom w klasie Pieśniarza). Czas trwania umiejetności to godzina/poziom Pieśniarza Klingi.
 
 **Poziom 2: Premiowy Atut**
 
