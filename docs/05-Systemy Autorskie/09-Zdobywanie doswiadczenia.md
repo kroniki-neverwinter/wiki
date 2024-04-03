@@ -7,7 +7,7 @@ sidebar_label: 'Zdobywanie doświadczenia'
 
 ## Limity doświadczenia za zabijanie potworów
 
-Po zabiciu **50 potworów** jednego rodzaju, otrzymywane doświadczenie jest zmniejszone o **50%**. Limit ten obowiązuje przez **4 godziny**.
+Po zabiciu **20 potworów** jednego rodzaju, otrzymywane doświadczenie jest zmniejszone o **50%**. Limit ten obowiązuje przez **2 godziny**.
 
 ## System Autoexpa Mefisto (SAM)
 
