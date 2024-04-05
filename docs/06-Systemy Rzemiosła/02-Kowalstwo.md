@@ -19,7 +19,15 @@ Postać może wytwarzać tylko jeden przedmiot w danym momencie, dotyczy to każ
 
 Nowicjusze w rzemiośle nie znają tajników pracy ze specjalnymi metalami. Aby tworzyć broń adamantową potrzeba przynajmniej 8 poziomu kowalstwa. Mithralowa broń wymaga aż 10 poziomu.
 
-### Specjalne premie
+### Specjalne właściwości
+
+| Typ broni  | Premia  |
+|------------|---------|
+| Stalowa    | +1 Ulepszenie |
+| Adamantowa | +2 Ulepszenie |
+| Mithralowa | +3 Ulepszenie |
+
+### Dodatkowe premie
 
 Każdy kowal posiada zawsze **5% szans na wytworzenie broni z Ostrością**.
 
@@ -68,6 +76,17 @@ Za każde wytworzenie broni postać otrzymuje 1 punkt [cząstkowy] w rzemiośle.
 | 5                | 10              |
 | 6                | 15              |
 | ...              | ...             |
+
+### Przykładowe właściwości
+
+Jakie właściwości ostatecznie otrzyma broń wykuta przez twoją postać? Jest to suma kilku czynników:
+
+- Premia za Ulepszenie (+1/2/3) w zaleności od zastosowanego materiału
+- Dodatkowo, zawsze 5% szans na ostrość, 5% szans na PTK
+- Dodatkowo, zawsze jest szansa na stworzenie broni z runą.
+
+Czyli ostatecznie, w najlepszym wypadku możesz stworzyć, np. Mithralowy Długi Miecz +3, Ostrość, PTK 2k12, z 3 miejscami na runę.
+Taki przedmiot nie posiada innych specjalnych właściwości, takich jak np. premia do obrażeń. Można je dodać później przy pomocy [run](../03-Przedmioty/03-Przedmioty%20runiczne.md). 
 
 ### Krok po kroku
 
