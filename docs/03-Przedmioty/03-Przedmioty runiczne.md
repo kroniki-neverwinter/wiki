@@ -22,32 +22,32 @@ Moc run na przedmiocie kumuluje się, co oznacza, że sztylet, który ma 3 Runy 
 
 #### Runa Mocy
 
-- Na broni: +1 ulepszenie lub +1 ataku i +2 potężny (broń dystansowa)\
+- Na broni: +1 ulepszenie lub +1 ataku i +2 potężny (broń dystansowa)
 - Pozostałe przedmioty: +1 do KP lub +1 do cechy (jeśli przedmiot zapewnia premię do cechy)
 
 #### Runa Ognia
 
-- Na broni: Premia do obrażeń: +1k4 Ogień\
+- Na broni: Premia do obrażeń: +1k4 Ogień
 - Pozostałe przedmioty: Odporność na obrażenia: -5 Ogień
 
 #### Runa Mrozu
 
-- Na broni: Premia do obrażeń: +1k4 Zimno\
+- Na broni: Premia do obrażeń: +1k4 Zimno
 - Pozostałe przedmioty: Odporność na obrażenia: -5 Zimno
 
 #### Runa Ziemi
 
-- Na broni: +2 KP\
+- Na broni: +2 KP
 - Pozostałe przedmioty: Redukcja obrażeń 3/-
 
 #### Runa Błyskawicy
 
-- Na broni: Premia do obrażeń: +1k4 Elektryczność\
+- Na broni: Premia do obrażeń: +1k4 Elektryczność
 - Pozostałe przedmioty: Odporność na obrażenia: -5 Elektryczność
 
 #### Runa Cienia
 
-- Na broni: Premia do obrażeń: +1 Cień, Ciemność 1x dziennie\
+- Na broni: Premia do obrażeń: +1 Cień, Ciemność 1x dziennie
 - Pozostałe przedmioty: Ukrycie 5%
 
 #### Specjalne zasady:
@@ -59,27 +59,27 @@ premia uzyskana z kilku przedmiotów nie sumuje się (czyli maksimum to 15% ukry
 
 #### Runa Trucizny
 
-- Na broni: Premia do obrażeń: +1k4 Kwas\
+- Na broni: Premia do obrażeń: +1k4 Kwas
 - Pozostałe przedmioty: Odporność na obrażenia: -5 Kwas
 
 #### Runa Magii
 
-- Na broni: Premia do obrażeń: +1k4 Magiczne\
+- Na broni: Premia do obrażeń: +1k4 Magiczne
 - Pozostałe przedmioty: Odporność na obrażenia: -5 Magiczne
 
 #### Runa Czaszki
 
-- Na broni: Premia do obrażeń: +1k4 Negatywna Energia\
+- Na broni: Premia do obrażeń: +1k4 Negatywna Energia
 - Pozostałe przedmioty: Odporność na obrażenia: -5 Negatywna Energia
 
 #### Runa Błogosławiona
 
-- Na broni: Premia do obrażeń: +1k6 Pozytywna Energia przeciwko Nieumarłym\
+- Na broni: Premia do obrażeń: +1k6 Pozytywna Energia przeciwko Nieumarłym
 - Pozostałe przedmioty: Odporność na obrażenia: +3 KP przeciwko Nieumarłym
 
 #### Runa Wampira
 
-- Na broni: Wampiryczna Regeneracja 4\
+- Na broni: Wampiryczna Regeneracja 4
 - Pozostałe przedmioty: Szybkie Leczenie +1
 
 #### Specjalne zasady:
