@@ -57,6 +57,7 @@ Zadawanie Krytycznych Ran: Analogicznie do wersji leczącej; zadaje obrażenia l
 - **Potworna Regeneracja:** Czar nie działa na Konstrukty i Nieumarłych
 
 ### Poziom VI
+- **Kontrola nad Nieumarłym:** Zaklęcie trwa 2 rundy na poziom rzucającego, Talent, Większy Talent i Epicki Talent Magiczny Nekromancja zapewniają kolejno wydłużenie czasu działania do 3 / 5 / 10 rund na poziom. 
 - **Krzywda:** Udany rzut obronny na Siłę Woli pozwala otrzymać połowę obrażeń.
 - **Mocarna Dłoń Bigby'ego:** Do obrony przed czarem wykorzystuje się modyfikator Siły lub Zręczności, w zależności który jest wyższy. Zaklęcie trwa 1 rundę na 2 poziomy rzucającego, ale przeciwko postaciom graczy czas trwania jest skrócony do 1 rundy na 11 poziomów rzucającego (maksymalnie 3 rundy na 33 poziomie). Przeciwko postaciom graczy Przedłużenie Zaklęcia wydłuża czas działania o 1 rundę.
 - **Prawdziwe Widzenie:** Zapewnia Widzenie Niewidzialnych, Ultrawizję i 1/2 poziomu rzucającego premii do Spostrzegawczości. Talent, Większy Talent i Epicki Talent Magiczny Poznanie zapewniają dodatkową premię do Spostrzegawczości (odpowiednio +2, +4 i +6; premie się nie kumulują).
