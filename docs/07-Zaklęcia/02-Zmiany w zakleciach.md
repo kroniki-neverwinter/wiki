@@ -38,6 +38,7 @@ title: 'Zmiany w zaklęciach'
 - **Leczenie Poważnych Ran:** Leczy 3k8 PW + 1.5x ilości rang w Leczeniu lub +30 (mikstury). Czar nie działa na Konstrukty. Jeśli rzucane na Nieumarłego, przysługuje mu rzut obronny na Siłę Woli aby otrzymać połowę obrażeń.
 - **Magiczna Szata:** Zapewnia premię za ulepszenie pancerza/tarczy +1 na 5 poziomów rzucającego, maksymalnie +5 na 25 poziomie. Czar działa wyłącznie na przedmioty, a więc nie na przywołane istoty korzystające z pancerza naturalnego.
 - **Mroczny Ogień:** premia 1k4 obrażeń od ognia na broń; 1k6 od 15 poziomu i 1k8 od 30. Czar ten rozprasza Mrożącą Broń. Czar działa wyłącznie na broń, a więc nie na przywołane istoty korzystające z broni naturalnej. Można go stosować również na broń dystansową (łuki, kusze, proce).
+- **Przyspiszenie**: +50% szybkości poruszania się, dodatkowy atak, +2 KP / 3 KP z Talentem Magicznym Przemiany / 4 KP z Większym Talentem Magicznym Przemiany, jedynie zaklęcia kręgów 0-3 mogą być przyspieszone (w oryginale mag dostawał dodatkowy czar na rundę)
 - **Raniące Szepty:** Magiczna tarcza która zadaje 1k10 obrażeń od dźwięku.
 - **Rozproszenie:** Talent, Większy Talent i Epicki Talent Magiczny Odrzucanie zapewniają kolejno premię +2, +4 i +6 do testu rozproszenia (premie się nie sumują, czyli maksymalnie +6)
 - **Większa Magiczna Broń:** Zapewnia premię za ulepszenie broni +1 na 5 poziomów rzucającego, maksymalnie +5 na 25 poziomie. Czar działa wyłącznie na broń, a więc nie na przywołane istoty korzystające z broni naturalnej. Można go stosować również na broń dystansową (łuki, kusze, proce). Czas trwania to 1 runda na poziom. Talent, Większy Talent i Epicki Talent Magiczny Przemiany zwiększają kolejno czas trwania zaklęcia 2x, 3x i 5x.
@@ -45,6 +46,7 @@ title: 'Zmiany w zaklęciach'
 Zadawanie Poważnych Ran: Analogicznie do wersji leczącej; zadaje obrażenia lub leczy nieumarłych.
 
 ### Poziom IV
+- **Boska Moc:** +1 do ataku na 5 poziomów kapłana, max +5; podniesienie Siły do 18 i dodatkowe Punkty Wytrzymałości: 1 / poziom Kapłana (jak w oryginale), dodatkowy atak (nie sumuje się z Przyspieszeniem)
 - **Kamienna Skóra:** Usunięty efekt wizualny, redukcja 10/+3, 10 punktów na poziom rzucającego (max 100 na 10 poziomie; kapłańska domena Ziemii podwaja pochłanianie do max 200 punktów obrażeń).
 - **Leczenie Krytycznych Ran:** Leczy 4k8 PW + 2x ilości rang w Leczeniu lub +40 (mikstury). Czar nie działa na Konstrukty. Jeśli rzucane na Nieumarłego, przysługuje mu rzut obronny na Siłę Woli aby otrzymać połowę obrażeń.
 - **Tarcza Żywiołów:** Magiczna tarcza która zapewnia 50% niewrażliwości na ogień i zimno oraz zadaje 2k6 obrażeń od ognia, Talent, Większy Talent i Epicki Talent Magiczny Wywoływanie zapewniają kolejno premię +1, +2 i +3 do obrażeń
@@ -57,6 +59,7 @@ Zadawanie Krytycznych Ran: Analogicznie do wersji leczącej; zadaje obrażenia l
 - **Potworna Regeneracja:** Czar nie działa na Konstrukty i Nieumarłych
 
 ### Poziom VI
+- **Grupowe Przyspiszenie**: +50% szybkości poruszania się, dodatkowy atak, +2 KP / 3 KP z Talentem Magicznym Zaklinanie / 4 KP z Większym Talentem Magicznym Zaklinanie, jedynie zaklęcia kręgów 0-3 mogą być przyspieszone (w oryginale mag dostawał dodatkowy czar na rundę)
 - **Kontrola nad Nieumarłym:** Zaklęcie trwa 2 rundy na poziom rzucającego, Talent, Większy Talent i Epicki Talent Magiczny Nekromancja zapewniają kolejno wydłużenie czasu działania do 3 / 5 / 10 rund na poziom. 
 - **Krzywda:** Udany rzut obronny na Siłę Woli pozwala otrzymać połowę obrażeń.
 - **Mocarna Dłoń Bigby'ego:** Do obrony przed czarem wykorzystuje się modyfikator Siły lub Zręczności, w zależności który jest wyższy. Zaklęcie trwa 1 rundę na 2 poziomy rzucającego, ale przeciwko postaciom graczy czas trwania jest skrócony do 1 rundy na 11 poziomów rzucającego (maksymalnie 3 rundy na 33 poziomie). Przeciwko postaciom graczy Przedłużenie Zaklęcia wydłuża czas działania o 1 rundę.
