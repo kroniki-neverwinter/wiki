@@ -77,6 +77,7 @@ Zadawanie Krytycznych Ran: Analogicznie do wersji leczącej; zadaje obrażenia l
 
 ### Poziom IX
 - **Czarne Ostrze Klęski:** Ulepszenie ostrza zostaje naliczone zgodnie z opisem czaru (modyfikator cechy czarującej maga, minimalnie +5), zaklęcie zostaje przerwane jeżeli czarujący rzuca jakiekolwiek zaklęcie (także przy użyciu przedmiotu), kontrczaruje, używa obiektów (np. skrzynek), otwiera zamki, wykonuje akcje związane z pułapkami, używa Zastraszania, Kradzieży Kieszonkowej, Leczenia (torby uzdrowiciela) lub oddala się od miejsca rzucenia zaklęcia dalej niż 2 metry (np. ucieczka przed potworem)
+- **Dominacja: Potwór:** Zaklęcie trwa 2 rundy na poziom rzucającego, Talent, Większy Talent i Epicki Talent Magiczny Zaklinanie zapewniają kolejno wydłużenie czasu działania do 3 / 5 / 10 rund na poziom. 
 - **Miażdżąca Dłoń Bigby'ego:** Obrażenia wynoszą 5k8 +30 co rundę. Zaklęcie trwa 1 rundę na 2 poziomy rzucającego, ale przeciwko postaciom graczy czas trwania jest skrócony do 1 rundy na 13 poziomów rzucającego (maksymalnie 3 rundy na 39 poziomie).
 - **Rozproszenie Mordenkainena:** Talent, Większy Talent i Epicki Talent Magiczny Odrzucanie zapewniają kolejno premię +2, +4 i +6 do testu rozproszenia (premie się nie sumują, czyli maksymalnie +6)
 - **Zatrzymanie Czasu:** Zatrzymuje istoty w pobliżu na 1k4 + 5 sekund. Talent, Większy Talent i Epicki Talent Magiczny Przemiany zapewniają kolejno premię +1, +2 i +3 sekundy do czasu trwania zaklęcia.
