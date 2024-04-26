@@ -5,6 +5,8 @@ sidebar_label: 'Szermierz'
 
 # Szermierz
 
+![szermierz](../../static/img/wiki/wiki-klasy/szermierz.png)
+
 ### (KLASA PRESTIŻOWA)
 
 Szermierz (czasem zwany zawadiaką) jest zwinnym i inteligentnym wojownikiem, który umie wyprowadzać precyzyjne ataki bronią lekką, taką jak rapier. W walce przede wszystkim wykorzystuje spryt oraz refleks. Rezygnuje z ciężkich pancerzy, wiedząc, że najlepszy sposób na wygraną to nie dać się w ogóle trafić.

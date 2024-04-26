@@ -2,7 +2,7 @@
 sidebar_label: 'Wyczucie pobudek'
 ---
 
-**Cecha:** brak\
+**Cecha:** Mądrość\
 **Wymaga szkolenia:** nie.
 
 Umiejętność pozwala ci się zorientować czy nie padasz ofiarą oszustwa. Dzięki niej możesz też odkryć czy dana osoba znajduje się pod wpływem magii uroków (zauroczenie i dominacja). Odzwierciedla ona wrażliwość na język ciała, sposób mówienia, oraz maniery innych.
