@@ -25,7 +25,7 @@ Mistyczny Sztukmistrz to osoba samodzielna, korzystająca głównie ze swoich w�
 **Rzucanie zaklęć mistycznych 3 kręgu**\
 **Atak z Zaskoczenia 2k6 (łotrzyk)**\
 **Talent Magiczny:** Iluzje\
-**Umiejętności:** Wiedza Tajemna (4), Upadanie (7), Rozbrajanie Pułapek (7)\
+**Umiejętności:** Wiedza Tajemna (4), Upadanie (7), Rozbrajanie Pułapek (7)
 
 
 ### Umiejętności
