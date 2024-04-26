@@ -29,6 +29,7 @@ Mistyczny Sztukmistrz to osoba samodzielna, korzystająca głównie ze swoich w�
 
 
 ### Umiejętności
+Akrobatyka\
 Blef\
 Cichy Chód\
 Czaroznastwo\
@@ -41,7 +42,6 @@ Przeszukiwanie\
 Rozbrajanie Pułapek\
 Spostrzegawczość\
 Ukrywanie\
-Upadanie\
 Używanie Magicznych Urządzeń\
 Wiedza (Architektura)\
 Wiedza (Geografia)\
@@ -52,7 +52,7 @@ Wiedza (szlachta i Władcy)\
 Wiedza (Tajemna)\
 Wyczucie Pobudek\
 Wycena\
-Zakładanie Pułapek\
+Zakładanie Pułapek
 
 
 ### Zdolności klasowe
