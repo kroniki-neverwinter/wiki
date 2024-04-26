@@ -30,6 +30,7 @@ Większość pieśniarzy klingi to osoby towarzyskie i otwarte na innych tak dł
 
 
 ### Umiejętności
+Akrobatyka\
 Aktorstwo\
 Czaroznastwo\
 Dyscyplina\
@@ -37,7 +38,6 @@ Koncentracja\
 Nasłuchiwanie\
 Parowanie\
 Prowokacja\
-Upadanie\
 Wiedza (Szlachta i Władcy)\
 Wiedza (Tajemna)\
 Zastraszanie
