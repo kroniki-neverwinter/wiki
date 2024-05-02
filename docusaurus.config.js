@@ -57,11 +57,13 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      colorMode: {
+        defaultMode: 'light', // Default color mode
+        disableSwitch: false, // Allow users to switch between light and dark modes
+        respectPrefersColorScheme: true, // Respect user's system color scheme preference
+      },
       navbar: {
         title: 'Main',
-        style: 'dark',
         logo: {
           alt: 'My Site Logo',
           src: 'img/KN_logo_min.jpg',
@@ -77,7 +79,6 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
         links: [
           {
             title: 'Info',
@@ -112,10 +113,6 @@ const config = {
           },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Kroniki Neverwinter`,
-      },
-      prism: {
-        theme: prismThemes.github,
-        darkTheme: prismThemes.dracula,
       },
     }),
 };

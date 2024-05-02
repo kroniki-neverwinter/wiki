@@ -1,7 +1,7 @@
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import logo  from '../../static/img/main_logo.png';
+import darkModeLogo  from '../../static/img/KN_logo_transparent.png';
 
 import Heading from '@theme/Heading';
 import styles from './index.module.css';
@@ -14,8 +14,7 @@ export default function HomepageHeader () {
         <div className="container">
         <Heading as="h1" className="hero__title">
             {siteConfig.title}
-          </Heading>
-        <img src={logo} alt="logo kronik neverwinter" />
+          </Heading> <img src={darkModeLogo} alt="logo kronik neverwinter" width={512} height={512}/>
           <div>
             <h2>Moduł:</h2><p>KronikiNeverwinter</p>
             <h2>Setting:</h2><p>Zapomniane Krainy, Wybrzeże Mieczy</p>
