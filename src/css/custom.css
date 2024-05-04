@@ -15,16 +15,6 @@
   --dark-font-color: rgb(159,138,81);
 }
 
-
-
-span {
-  color: var(--hover-link-root-color);
-}
-
-.table-of-contents__link:hover, .table-of-contents__link:hover code, .table-of-contents__link--active, .table-of-contents__link--active {
-  color: var(--hover-link-root-color);
-}
-
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='light'] {
   /*nav colors*/
@@ -46,14 +36,6 @@ span {
   --ifm-link-color: var(--font-root-color);
   --ifm-menu-color-active: var(--hover-link-root-color);
   --ifm-breadcrumb-color-active: var(--hover-link-root-color);
-
-  p,h1,h2,h3,h4,h5,ul,div,a{
-    color: var(--font-root-color);
-  }
-
-  body {
-    background-color: var(--background-root-color);
-  }
 }
 
 
@@ -76,8 +58,4 @@ span {
   --ifm-link-color: var(--font-root-color);
   --ifm-menu-color-active: var(--hover-link-root-color);
   --ifm-breadcrumb-color-active: var(--hover-link-root-color);
-
-  p,h1,h2,h3,h4,h5,ul,div,a {
-    color:  var(--dark-font-color);
-  }
 }
