@@ -54,9 +54,6 @@ span {
   body {
     background-color: var(--background-root-color);
   }
-  .sidebarItemLinkActive_node_modules-\@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module {
-    color: var(--hover-link-root-color) !important;
-  }
 }
 
 
@@ -82,9 +79,5 @@ span {
 
   p,h1,h2,h3,h4,h5,ul,div,a {
     color:  var(--dark-font-color);
-  }
-
-  .sidebarItemLinkActive_node_modules-\@docusaurus-theme-classic-lib-theme-BlogSidebar-Desktop-styles-module {
-    color: var(--hover-link-root-color) !important;
   }
 }

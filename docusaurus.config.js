@@ -48,7 +48,7 @@ const config = {
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: require.resolve('./src/css/custom.css'),
         },
       }),
     ],
@@ -59,7 +59,6 @@ const config = {
     ({
       colorMode: {
         defaultMode: 'light', // Default color mode
-        disableSwitch: false, // Allow users to switch between light and dark modes
         respectPrefersColorScheme: true, // Respect user's system color scheme preference
       },
       navbar: {
