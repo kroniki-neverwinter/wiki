@@ -12,7 +12,6 @@ steps:
     inputs:
       versionSpec: '18'
     displayName: Install Node.js
-
   - script: |
       git config --global user.name "${GH_NAME}"
       git config --global user.email "${GH_EMAIL}"
@@ -25,3 +24,9 @@ steps:
       GH_EMAIL: $(GH_EMAIL)
       GH_TOKEN: $(GH_TOKEN)
     displayName: Install and build
+  - task: ado-discord-webhook@1
+    inputs:
+        channelId: '1053584023970136076'
+        webhookKey: 'lg4HDINSzABhevGkyFbdG0paNAzLJYqa3x_dkgLBYde342W6uHDsJR8m33vaTIu7vrnH'
+        messageType: 'content'
+        content: 'Azure Pipelines build finished: $(Agent.JobStatus). ```Repository: $(Build.Repository.Name) | Build number: $(Build.BuildNumber) | Message: $(Build.SourceVersionMessage)```'
