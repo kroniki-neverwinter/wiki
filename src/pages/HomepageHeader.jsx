@@ -18,8 +18,8 @@ export default function HomepageHeader () {
           <div>
             <h2>Moduł:</h2><p>KronikiNeverwinter</p>
             <h2>Setting:</h2><p>Zapomniane Krainy, Wybrzeże Mieczy</p>
-            <h2>Adres serwera:</h2><p>18.157.53.102</p>
-            <h2>Port:</h2><p>5121 </p>
+            <h2>Adres serwera:</h2><p>20.52.60.107</p>
+            <h2>Port:</h2><p>30121</p>
           </div>
             <Link
               className="button button--secondary button--lg"
