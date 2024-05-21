@@ -95,3 +95,7 @@ Za każde udane oszlifowanie kamienia postać otrzymuje 1/10 punktu, a za wykona
 **Zwiększenie jakości**
 
 ![dialog jubilerstwo](../../static/img/wiki/wiki-rzemioslo/jubiler-3.png)
+
+**Tworzenie przedmiotów**
+
+![dialog jubilerstwo](../../static/img/wiki/wiki-rzemioslo/jubiler-4.png)
