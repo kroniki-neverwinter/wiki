@@ -38,9 +38,9 @@ Na serwerze zdobywa się doświadczenie znacznie szybciej niż w tradycyjnym D&D
 | Większe bóstwa  | 60        |
 
 
-### 5. Czy będzie możliwość gry duergarem/svirfneblinem/illithidem?
+### 5. Skoro są drowy, to czy planujecie dodawać osobne rasy premium dla innych podras z Podmroku (duergary/svirfnebliny/illithidy/itp.)?
 
-Nie.
+Nie. Jeśli masz pomysł na niestandardową postać, w pierwszej kolejności skonsultuj się z MG. 
 
 ### 6. Kiedy planujecie dodać Menzoberranzan?
 
