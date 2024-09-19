@@ -6,8 +6,6 @@ title: Rasy
 
 ## Dostępne rasy
 
-W tej chwili dostępne są jedynie standardowe rasy.
+Oprócz standardowych ras, obecnie dostępne są również 4 rasy podstawowe (genasi żywiołów) i 3 rasy prestiżowe (wymagają akceptacji karty postaci przez MG).
 
-Planowane rasy prestiżowe: **Aasimar** i **Tiefling**.
-
-Rasy zamieszkujące Podmrok (np. drowy) **nie będą dostępne** dla graczy (więcej szczegółów na stronie [Często zadawane pytania](../01-Podstawowe%20informacje/02-Czesto%20zadawane%20pytania.md)).
+Dostępne rasy prestiżowe: **Aasimar**, **Drow** i **Tiefling**.
