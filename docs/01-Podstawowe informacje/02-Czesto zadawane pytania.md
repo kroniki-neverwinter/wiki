@@ -38,23 +38,14 @@ Na serwerze zdobywa się doświadczenie znacznie szybciej niż w tradycyjnym D&D
 | Większe bóstwa  | 60        |
 
 
-### 5. Czy będzie możliwość gry drowem?
+### 5. Czy będzie możliwość gry duergarem/svirfneblinem/illithidem?
 
 Nie.
 
-### 6. Ja naprawdę MUSZĘ grać drowem. Będę grać kolejnym klonem Drizzt'a/Viconii z Baldura, od tego zależy moje dobre samopoczucie. Ostatecznie, przecież nie powstrzymacie mnie przed zrobieniem elfa o ciemnej karnacji, prawda?
+### 6. Kiedy planujecie dodać Menzoberranzan?
 
-Oloth plynn dos! OK, jeśli naprawdę MUSISZ grać drowem, przyjmij do wiadomości co następuje:
+Oloth plynn dos! Nie planujemy, Drizzt. 
 
-Jedyna możliwość to granie drowem-wyrzutkiem (ale przecież na to liczyłeś, prawda Drizzt?)
-Nie otrzymasz żadnych mechanicznych bonusów z tego tytułu.
-Nie możesz wyznawać Lolth. Dodatkowo, Lolth i jej wyznawcy będą chcieli ciebie zniszczyć.
-Będziesz znienawidzony przez wszystko i wszystkich.
-Na osłodę, otrzymasz język rasowy drowi (podwspólny, !pw) zamiast elfiego.
-Nie zapomnij też skonsultować się z MG przed założeniem postaci.
-
-Pamiętaj także o wpisaniu podrasy "Drow" podczas tworzenia postaci oraz obowiązkowo - wypełnieniu karty postaci.
-
-Miłej gry!
+### 7. Gdzie znajdę wzór karty postaci?
 
 [Karta postaci Kronik Neverwinter](../../static/docs/Karta_Postaci_KN.docx)
