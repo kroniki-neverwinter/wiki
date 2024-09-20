@@ -27,6 +27,9 @@ Istnieją jednak inne ścieżki na uzyskanie skrzydeł, np. udział w przygodzie
 ### Rodowity przybysz
 Aasimar, jako rodowity przybysz, jest odporny na zaklęcia wpływające na humanoidy, takie jak Zauroczenie Osoby. Działają na niego natomiast zaklęcia wpływające na przybyszów oraz specjalna broń wzmocniona przeciwko istotom ze sfer.
 
+### Dostosowanie poziomu
+Obowiązuje dostosowanie poziomu +1 (aasimar na 1 poziomie otrzymuje PD za potwory tak, jakby był postacią 2 poziomu).
+
 ### Cechy rasowe
 **Aasimar otrzymuje następujące właściwości rasowe:**
 

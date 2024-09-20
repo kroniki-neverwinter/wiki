@@ -24,6 +24,9 @@ Dowolna.
 ### Rodowity przybysz
 Genasi powietrza, jako rodowity przybysz, jest odporny na zaklęcia wpływające na humanoidy, takie jak Zauroczenie Osoby. Działają na niego natomiast zaklęcia wpływające na przybyszów oraz specjalna broń wzmocniona przeciwko istotom ze sfer.
 
+### Dostosowanie poziomu
+Obowiązuje dostosowanie poziomu +1 (genasi na 1 poziomie otrzymuje PD za potwory tak, jakby był postacią 2 poziomu).
+
 ### Cechy rasowe
 **Genasi powietrza otrzymuje następujące właściwości rasowe:**
 

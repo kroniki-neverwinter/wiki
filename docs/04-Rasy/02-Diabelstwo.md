@@ -29,6 +29,9 @@ Istnieją jednak inne ścieżki na uzyskanie skrzydeł/ogona, np. udział w przy
 ### Rodowity przybysz
 Diabelstwo, jako rodowity przybysz, jest odporne na zaklęcia wpływające na humanoidy, takie jak Zauroczenie Osoby. Działają na nie natomiast zaklęcia wpływające na przybyszów oraz specjalna broń wzmocniona przeciwko istotom ze sfer.
 
+### Dostosowanie poziomu
+Obowiązuje dostosowanie poziomu +1 (diabelstwo na 1 poziomie otrzymuje PD za potwory tak, jakby było postacią 2 poziomu).
+
 ### Cechy rasowe
 **Diabelstwo otrzymuje następujące właściwości rasowe:**
 
