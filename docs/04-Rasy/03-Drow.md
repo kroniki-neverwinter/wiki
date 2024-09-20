@@ -11,7 +11,7 @@ sidebar_label: 'Drow'
 Przed rozpoczęciem gry Drowem należy wysłać kartę postaci do MG. Ekipa serwera zastrzega sobie prawo do odrzucenia kart, które zawierają niespójne lub dziwne informacje (np. postać nazywa się Drizzt Do'Urden).
 
 ### Opis rasy
-Odpowiadając wyglądem innym elfom, drowy są nieco niższe i smuklejsze od ludzi, a różnice fizyczne między płciami są niewielkie. Ich charakterystyczną cechą są spiczaste uszy. Mają ciemną, niemal czarną skórę oraz jasne, prawie białe włosy i oczy.
+Odpowiadając wyglądem innym elfom, drowy są nieco niższe i smuklejsze od ludzi, a różnice fizyczne między płciami są niewielkie. Ich charakterystyczną cechą są spiczaste uszy. Mają ciemną, niemal czarną skórę oraz jasne, prawie białe włosy. Oczy drowów mogą mieć dowolny kolor, przy czym najczęściej spotykana jest jasna czerwień. Często występują również blade odcienie, które wyglądają niemal na białe, takie jak niebieski, liliowy, różowy czy srebrny.
 
 W świecie serwera Kronik Neverwinter typowy drow jest powiązany z wyznawcami Eilistraee zamieszkującymi Góry Miecza lub miastem Luskan (często oddającymi cześć Vhaeraun'owi).
 
