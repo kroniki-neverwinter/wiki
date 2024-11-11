@@ -8,6 +8,9 @@ sidebar_label: 'Na dobry początek'
 
 Przybywasz do miasta Neverwinter. Co cię tu sprowadziło - wiesz tylko ty. Wychodzisz z kabiny statku, a gdy wychylasz się na pokład, uderza w ciebie zgiełk doków. Liczne rozmowy, przekrzykujący się pracownicy, skrzypienie statków kołyszacych się przy kei.
 
+
+
+
 Wychodzisz dalej, po drewnianym, solidnym pomoście i zaczyna cię otaczać splendor Klejnotu Północy.
 
 Jest tu zaskakująco ciepło jak na tak daleką północ, kojarzysz jak któryś z marynarzy wspominał o gorącej rzece która przepływa przez miasto i ogrzewa otaczającą okolicę. Wspominali też o sześciu dzielnicach, na które podzielone jest Neverwinter: Dokach, Centrum, Czarnymstawie, Dzielnicy Misytków, Półwyspie i Żebraczym Gnieździe.
