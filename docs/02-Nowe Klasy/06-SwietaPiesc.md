@@ -1,11 +1,11 @@
 ---
-sidebar_label: 'Duchowy Przewodnik Harfiarzy'
+sidebar_label: 'Święta Pięść'
 ---
 
 
 # Święta Pięść
 
-![święta pięść](../../static/img/wiki/wiki-klasy/harfiarz.png)
+![święta pięść](../../static/img/wiki/wiki-klasy/swieta-piesc.png)
 
 ### (KLASA PRESTIŻOWA)
 Święte Pięści to niezależne organizacje działające w wielu świątyniach. Ich ascetyczni członkowie skierowali swoją boską magię do wewnątrz, harmonizując swoje ciała i wolę. Święte Pięści wyrzekły się używania broni i ciężkiej zbroi. Uważają swoje ciała i umysły za dary od swojego bóstwa i wierzą, że niewykorzystanie tych darów do ich pełnego potencjału jest grzechem. Rzucanie zaklęć nie jest dla nich ani dla ich bóstwa hańbą. Święte Pięści są silne w wierze, woli i ciele. Klerycy są doskonałymi kandydatami do zakonów Świętych Pięści. Paladyni również mogą do nich dołączyć, ale rzadko czują się komfortowo, rezygnując z zewnętrznych oznak swojego powołania. Wojownicy, łotrzykowie, bardowie, a nawet byli mnisi mogą się sprawdzić w tej roli, pod warunkiem że posiadają wystarczającą liczbę poziomów w klasie zapewniającej boskie zaklęcia.
