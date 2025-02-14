@@ -214,9 +214,10 @@ Chociaż podczas przygody w "papierowej" sesji D&D Czarownik mógłby prawdopodo
 
 **Kapłan** nie może być łączony z klasami podstawowymi, chyba że połączenie klas pasuje fabularnie do bóstwa. Lista dozwolonych połączeń znajduje się w opisie klasy: [Kapłan](../09-Zmiany%20w%20Klasach/05-Kaplan.md)
 
-**Paladyn** poświęca swoje życie bóstwu i nie może awansować w żadnej innej klasie podstawowej (wyjątkiem może być Kapłan/Paladyn, o ile opis bóstwa dopuszcza takie połączenie - patrz poprzedni punkt)
+**Paladyn** poświęca swoje życie bóstwu i nie może awansować w żadnej innej klasie podstawowej (wyjątkiem może być Mnich/Paladyn LUB Kapłan/Paladyn, o ile opis bóstwa dopuszcza takie połączenie - patrz poprzedni punkt)
 
-**Mnich** nie może w żaden sposób zmieniać swojej ścieżki ani filozofii życiowej, oznacza to że nie może się łączyć z klasami podstawowymi (od tej reguły nie ma wyjątków!)
+**Mnich** nie może w żaden sposób zmieniać swojej ścieżki ani filozofii życiowej; dla postaci wieloklasowych oznacza to że ilość poziomów Mnicha musi być większa lub równa łącznym poziomom w pozostałych klasach podstawowych  (np. Mnich 5 / Wojownik 5 - DOZWOLONY, Mnich 5 / Wojownik 6 - NIEDOZWOLONY, Mnich 5 / Wojownik 3 / Łotr 3 - NIEDOZWOLONY). Mnich MUSI być wybrany jako klasa startowa, za wyjątkiem połączenia z Kapłanem (w takim wypadku trzeba wybrać na 1 poziomie Kapłana, aby uzyskać domeny).  
+
 Nie można łączyć Ucznia Czerwonego Smoka i Bladego Mistrza. Albo smok, albo nieumarli - wybierz jedno. Nie, uczeń drakolisza to nie jest dobre uzasadnienie.
 
 ### 6. Ograniczenia fabularne poszczególnych klas
