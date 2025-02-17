@@ -1,0 +1,139 @@
+.body {
+  background-color: #36393f;
+  color: #dcddde;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 20px;
+}
+#container {
+  width: 100%;
+}
+/* Fieldset Widths */
+#container fieldset {
+  max-width: 500px;
+  margin: 0 auto 15px;
+  background-color: #2f3136;
+  border: 1px solid #202225;
+  border-radius: 5px;
+  padding: 15px;
+}
+#container fieldset.wide-section {
+  max-width: 800px;
+}
+legend {
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding: 0 5px;
+}
+/* Login Button Styling */
+button {
+  background-color: #5865f2;
+  color: #fff;
+  border: none;
+  padding: 12px 20px;
+  font-size: 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+button:hover {
+  background-color: #4752c4;
+}
+button:active {
+  background-color: #3c43a1;
+}
+/* Center login button */
+#loginButton {
+  display: block;
+  margin: 20px auto;
+}
+/* Form Container Styling */
+#formContainer {
+  display: none;
+  background-color: #2f3136;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  margin-top: 20px;
+}
+.form-field {
+  margin-bottom: 15px;
+}
+.form-field label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+.form-field input[type="text"],
+.form-field input[type="number"],
+.form-field select,
+.form-field textarea,
+.form-field input[type="file"] {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #202225;
+  border-radius: 3px;
+  background-color: #40444b;
+  color: #dcddde;
+  box-sizing: border-box;
+}
+/* Increase text area height in the wide section */
+.wide-section textarea {
+  min-height: 150px;
+}
+.radio-group {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+.radio-group input[type="radio"] {
+  margin-right: 5px;
+}
+/* Tooltip styling */
+.tooltip-container {
+  position: relative;
+  display: inline-block;
+}
+.tooltip-button {
+  background-color: #5865f2;
+  border: none;
+  color: #fff;
+  border-radius: 50%;
+  width: 20px;
+  height: 20px;
+  font-size: 14px;
+  cursor: default;
+  padding: 0;
+  margin-left: 5px;
+  line-height: 20px;
+  text-align: center;
+}
+.tooltip-text {
+  visibility: hidden;
+  width: 220px;
+  background-color: #2f3136;
+  color: #dcddde;
+  text-align: center;
+  border-radius: 5px;
+  padding: 5px;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  transform: translateX(-50%);
+  opacity: 0;
+  transition: opacity 0.2s;
+  pointer-events: none;
+}
+.tooltip-container:hover .tooltip-text {
+  visibility: visible;
+  opacity: 1;
+}
+/* Center the submit button */
+.submit-container {
+  text-align: center;
+}
