@@ -3,7 +3,7 @@ import styles from "./kp.module.css";
 import { apiUrl, discordAuth, discordMe } from "./const";
 
 const CharacterForm = () => {
-  const [accessToken, setAccessToken] = useState(null);
+  const [accessToken, setAccessToken] = useState(false);
   const [userData, setUserData] = useState(null);
 
   useEffect(() => {
@@ -32,45 +32,7 @@ const CharacterForm = () => {
           Login with Discord
         </button>
       ) : (
-        <div className={styles.formContainer}>
-          <form
-            id="characterForm"
-            action={apiUrl}
-            method="post"
-            encType="multipart/form-data"
-          >
-            <input type="hidden" name="accessToken" value={accessToken} />
-            <fieldset>
-              <legend>Dane postaci:</legend>
-              <div className={styles.formField}>
-                <label htmlFor="characterName">Imię Postaci:</label>
-                <input
-                  type="text"
-                  id="characterName"
-                  name="characterName"
-                  required
-                />
-              </div>
-              <div className={styles.formField}>
-                <label htmlFor="gameLogin">Login w grze:</label>
-                <input type="text" id="gameLogin" name="gameLogin" required />
-              </div>
-              <div className={styles.formField}>
-                <label htmlFor="discordUsername">Discord:</label>
-                <input
-                  type="text"
-                  id="discordUsername"
-                  name="discordUsername"
-                  value={userData?.username || ""}
-                  readOnly
-                />
-              </div>
-            </fieldset>
-            <div className={styles.submitContainer}>
-              <button type="submit">Wyślij</button>
-            </div>
-          </form>
-        </div>
+        <div>Form</div>
       )}
     </div>
   );
