@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import styles from "./kp.module.css";
-import { discordAuth, discordMe } from "./const";
 import CharacterFormContent from "../components/CharacterFormContent";
+import { discordAuth, discordMe } from "../components/const/urls";
 
 const CharacterForm = () => {
   const [accessToken, setAccessToken] = useState(null);

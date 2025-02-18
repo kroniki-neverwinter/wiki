@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./styles.module.css";
-import { apiUrl } from "../pages/const";
+import { apiUrl } from "./const/urls";
 
 const CharacterFormContent = ({ discordUserName }) => {
   return (
