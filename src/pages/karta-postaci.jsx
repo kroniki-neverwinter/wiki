@@ -1,9 +1,10 @@
 import React, { useState, useEffect } from "react";
 import styles from "./kp.module.css";
-import { apiUrl, discordAuth, discordMe } from "./const";
+import { discordAuth, discordMe } from "./const";
+import CharacterFormContent from "../components/CharacterFormContent";
 
 const CharacterForm = () => {
-  const [accessToken, setAccessToken] = useState(false);
+  const [accessToken, setAccessToken] = useState(null);
   const [userData, setUserData] = useState(null);
 
   useEffect(() => {
@@ -32,7 +33,7 @@ const CharacterForm = () => {
           Login with Discord
         </button>
       ) : (
-        <div>Form</div>
+        <CharacterFormContent discordUserName={userData?.username} />
       )}
     </div>
   );
