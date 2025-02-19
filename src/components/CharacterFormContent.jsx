@@ -2,7 +2,7 @@ import React from "react";
 import styles from "./styles.module.css";
 import { apiUrl } from "./const/urls";
 
-const CharacterFormContent = ({ discordUserName }) => {
+const CharacterFormContent = ({ discordUserName, accessToken }) => {
   return (
     <body className={styles.body}>
       <div className={styles.container}>
@@ -17,7 +17,7 @@ const CharacterFormContent = ({ discordUserName }) => {
               type="hidden"
               id="accessTokenField"
               name="accessToken"
-              value=""
+              value={accessToken}
             />
             <fieldset>
               <legend>Dane postaci:</legend>

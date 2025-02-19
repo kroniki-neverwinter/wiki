@@ -33,7 +33,10 @@ const CharacterForm = () => {
           Login with Discord
         </button>
       ) : (
-        <CharacterFormContent discordUserName={userData?.username} />
+        <CharacterFormContent
+          discordUserName={userData?.username}
+          accessToken={accessToken}
+        />
       )}
     </div>
   );
