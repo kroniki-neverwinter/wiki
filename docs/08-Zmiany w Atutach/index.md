@@ -32,16 +32,16 @@ title: 'Zmiany w atutach'
 
 ### Potężny Atak
 
-**Rodzaj atutu**: ogólny.
-**Wymagania**: Siła 13+.
-**Opis**: ten atut pozwala postaci wykonać atak z karą -5 do trafienia, ale z premią +5 do obrażeń. Jest to wyjątkowo przydatne w walce z wytrzymałymi, ale łatwymi do trafienia przeciwnikami. Premia do obrażeń jest podwojona, jeśli postać walczy bronią dwuręczną. 
+**Rodzaj atutu**: ogólny.\
+**Wymagania**: Siła 13+.\
+**Opis**: ten atut pozwala postaci wykonać atak z karą -5 do trafienia, ale z premią +5 do obrażeń. Jest to wyjątkowo przydatne w walce z wytrzymałymi, ale łatwymi do trafienia przeciwnikami. Premia do obrażeń jest podwojona, jeśli postać walczy bronią dwuręczną.\
 **Używanie**: w walce.
 
 ### Ulepszony Potężny Atak
 
-**Rodzaj atutu**: ogólny.
-**Wymagania**: Siła 13+, Potężny Atak.
-**Opis**: ten atut pozwala postaci wykonać atak z karą -10 do trafienia, ale z premią +10 do obrażeń. Jest to wyjątkowo przydatne w walce z wytrzymałymi, ale łatwymi do trafienia przeciwnikami. Premia do obrażeń jest podwojona, jeśli postać walczy bronią dwuręczną. 
+**Rodzaj atutu**: ogólny.\
+**Wymagania**: Siła 13+, Potężny Atak.\
+**Opis**: ten atut pozwala postaci wykonać atak z karą -10 do trafienia, ale z premią +10 do obrażeń. Jest to wyjątkowo przydatne w walce z wytrzymałymi, ale łatwymi do trafienia przeciwnikami. Premia do obrażeń jest podwojona, jeśli postać walczy bronią dwuręczną.\
 **Używanie**: w walce.
 
 ### Wiedza barda
