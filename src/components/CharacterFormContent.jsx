@@ -10,11 +10,11 @@ const CharacterFormContent = ({ discordUserName, accessToken }) => {
 
   const handleFileChange = ({ target }) => {
     const file = target?.files?.[0];
-
     if (file) {
       setFileName(file.name);
+    } else {
+      setFileName("");
     }
-    setFileName("");
   };
 
   return (
