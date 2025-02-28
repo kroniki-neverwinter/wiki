@@ -122,16 +122,25 @@ fieldset.wideSection {
   text-align: center;
 }
 
-.uploadButton {
+.commonUploadStyle {
   font-size: 16px;
   font-weight: bold;
   color: #dcddde;
-  background-color: #2f3136;
   border: 2px solid #666;
   border-radius: 8px;
   cursor: pointer;
   transition: all 0.3s ease;
   text-align: center;
+}
+
+.uploadButton {
+  composes: commonUploadStyle;
+  background-color: #2f3136;
+}
+
+.fileUploaded {
+  composes: commonUploadStyle;
+  background: linear-gradient(135deg, #1abc9c, #36393f);
 }
 
 .uploadButton:hover {

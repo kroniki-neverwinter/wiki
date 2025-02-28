@@ -1,8 +1,22 @@
-import React from "react";
+import React, { useState } from "react";
 import styles from "./styles.module.css";
 import { apiUrl } from "./const/urls";
 
+const MAX_INPUT_LENGTH = 100;
+const MAX_TEXT_AREA_LENGTH = 2000;
+
 const CharacterFormContent = ({ discordUserName, accessToken }) => {
+  const [fileName, setFileName] = useState("");
+
+  const handleFileChange = ({ target }) => {
+    const file = target?.files?.[0];
+
+    if (file) {
+      setFileName(file.name);
+    }
+    setFileName("");
+  };
+
   return (
     <body className={styles.body}>
       <div className={styles.container}>
@@ -28,11 +42,18 @@ const CharacterFormContent = ({ discordUserName, accessToken }) => {
                   id="characterName"
                   name="characterName"
                   required
+                  maxLength={MAX_INPUT_LENGTH}
                 />
               </div>
               <div className={styles.formField}>
                 <label for="gameLogin">Login w grze:</label>
-                <input type="text" id="gameLogin" name="gameLogin" required />
+                <input
+                  type="text"
+                  id="gameLogin"
+                  name="gameLogin"
+                  maxLength={MAX_INPUT_LENGTH}
+                  required
+                />
               </div>
               <div className={styles.formField}>
                 <label for="discordUsername">
@@ -71,6 +92,7 @@ const CharacterFormContent = ({ discordUserName, accessToken }) => {
                   type="text"
                   id="characterClass"
                   name="characterClass"
+                  maxLength={MAX_INPUT_LENGTH}
                   required
                 />
               </div>
@@ -105,6 +127,7 @@ const CharacterFormContent = ({ discordUserName, accessToken }) => {
                   type="text"
                   id="characterRace"
                   name="characterRace"
+                  maxLength={MAX_INPUT_LENGTH}
                   required
                 />
               </div>
@@ -115,6 +138,7 @@ const CharacterFormContent = ({ discordUserName, accessToken }) => {
                   id="characterAge"
                   name="characterAge"
                   min="18"
+                  max="300"
                   required
                 />
               </div>
@@ -124,6 +148,7 @@ const CharacterFormContent = ({ discordUserName, accessToken }) => {
                   type="text"
                   id="characterReligion"
                   name="characterReligion"
+                  maxLength={MAX_INPUT_LENGTH}
                   required
                 />
               </div>
@@ -143,6 +168,7 @@ const CharacterFormContent = ({ discordUserName, accessToken }) => {
                   type="text"
                   id="characterOrigin"
                   name="characterOrigin"
+                  maxLength={MAX_INPUT_LENGTH}
                   required
                 />
               </div>
@@ -189,6 +215,7 @@ const CharacterFormContent = ({ discordUserName, accessToken }) => {
                   type="text"
                   id="characterLanguages"
                   name="characterLanguages"
+                  maxLength={MAX_INPUT_LENGTH}
                 />
               </div>
             </fieldset>
@@ -272,7 +299,7 @@ const CharacterFormContent = ({ discordUserName, accessToken }) => {
                     </button>
                     <span className={styles.tooltipText}>
                       Życiorys, edukacja, osiągnięcia, porażki, traumy, relacje
-                      rodzinne, kontakty społeczne
+                      rodzinne, kontakty społeczne.
                     </span>
                   </span>
                 </label>
@@ -280,6 +307,8 @@ const CharacterFormContent = ({ discordUserName, accessToken }) => {
                   id="characterHistory"
                   name="characterHistory"
                   rows="6"
+                  maxLength={MAX_TEXT_AREA_LENGTH}
+                  placeholder="Maksymalnie 2000 znaków. Dłuższe historie lub opowiadania załącz jako PDF w seksji Załącznik"
                 ></textarea>
               </div>
               <div className={styles.formField}>
@@ -298,6 +327,7 @@ const CharacterFormContent = ({ discordUserName, accessToken }) => {
                 <textarea
                   id="characterAppearance"
                   name="characterAppearance"
+                  maxLength={MAX_TEXT_AREA_LENGTH}
                   rows="6"
                 ></textarea>
               </div>
@@ -322,6 +352,7 @@ const CharacterFormContent = ({ discordUserName, accessToken }) => {
                 <textarea
                   id="characterPsychology"
                   name="characterPsychology"
+                  maxLength={MAX_TEXT_AREA_LENGTH}
                   rows="6"
                 ></textarea>
               </div>
@@ -339,10 +370,20 @@ const CharacterFormContent = ({ discordUserName, accessToken }) => {
                     </span>
                   </span>
                 </label>
-                <textarea id="deityView" name="deityView" rows="6"></textarea>
+                <textarea
+                  id="deityView"
+                  name="deityView"
+                  maxLength={MAX_TEXT_AREA_LENGTH}
+                  rows="6"
+                ></textarea>
               </div>
               <div className={styles.formField}>
-                <label for="attachment" className={styles.uploadButton}>
+                <label
+                  for="attachment"
+                  className={
+                    fileName ? styles.fileUploaded : styles.uploadButton
+                  }
+                >
                   Załącznik:
                   <span className={styles.tooltipContainer}>
                     <button type="button" className={styles.tooltipButton}>
@@ -359,7 +400,13 @@ const CharacterFormContent = ({ discordUserName, accessToken }) => {
                     id="attachment"
                     name="attachment"
                     accept=".jpeg,.jpg,.png,.pdf"
+                    onChange={handleFileChange}
                   />
+                  <p>
+                    {fileName
+                      ? `Wybrany plik: ${fileName}`
+                      : "Nie wybrano pliku"}
+                  </p>
                 </label>
               </div>
             </fieldset>
