@@ -308,7 +308,7 @@ const CharacterFormContent = ({ discordUserName, accessToken }) => {
                   name="characterHistory"
                   rows="6"
                   maxLength={MAX_TEXT_AREA_LENGTH}
-                  placeholder="Maksymalnie 2000 znaków. Dłuższe historie lub opowiadania załącz jako PDF w seksji Załącznik"
+                  placeholder="Maksymalnie 2000 znaków. Dłuższe historie lub opowiadania załącz jako PDF w sekcji Załącznik"
                 ></textarea>
               </div>
               <div className={styles.formField}>
