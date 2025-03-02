@@ -53,7 +53,26 @@ Jest to jedyny wyjątek od przedstawionych reguł i w żadnych wypadku nie stano
 
 - Poleca się stosowanie zasady zdrowego rozsądku wykonując różne akcje w grze. Na przykład, odpoczywanie postacią na środku ulicy, albo wprowadzanie dużych zwierząt do pomieszczeń nie jest zbyt fabularnym zachowaniem i będzie negatywnie odbierane przez straż czy mieszkańców miasta.
 
-### 7. Zabójstwa
+### 7. Karta Postaci
+Napisanie Karty Postaci (poza wyszczególnionymi w regulaminie przypadkami) nie jest obowiązkowe by mieć możliwość gry na serwerze. Jednakże ekipa zachęca do jej przygotowania i wysłania. Karta Postaci pomaga Mistrzom Gry "poczuć" postać gracza, poznać jej motywacje, historie a także przygotować elementy osobiste na prowadzonych wątkach i questach, które trafią bezpośrednio w potrzeby danej postaci.
+
+Dodatkowo, za napisanie Karty Postaci, która zostanie zaakceptowana, przysługują nagrody, w zależności od progu nagrody, który zostanie jej przydzielony:
+- Próg I - 1 punkt SAM, 2000 doświadczenia
+- Próg II - 3 punkty SAM, 5000 doświadczenia, Mapa Skarbów
+- Próg III - 5 punktów SAM, 10000 doświadczenia, 3 Mapy Skarbów
+
+Gdzie:
+**Próg I** oznaczna Karty "dopuszczające", tzn takie, które zawierają najbardziej suche, podstawowe informacje, nie kłócą się z lore świata Faerunu, ale też nie zostawiają pola dla Mistrzów Gry do ewentualnego rozwinięcia osobistych wątków.
+**Próg II** oznacza Karty "dobre", tzn takie, które spełniają wymogi Progu I oraz posiadają rozwiniętą historię, pozwalającą na stworzenie osobistych wątków, oraz przedstawiają postać o bardziej rozbudowanej osobowości.
+**Próg III** oznacza Karty "wybitne", tzn takie, które spełniają wymogi Progu II oraz przedstawiają postać psychologicznie i historycznie spójną, której kreacja fabularna jest stawiana na pierwszym miejscu i "czuć" od niej wysoki poziom dopieszczenia i dbałości o detale.
+
+Należy też zaznaczyć, że długość Karty Postaci nie ma wpływu na ocenę (tzn. dłuższe nie znaczy lepsze). 
+
+Korzystanie z pomocy narzędzi AI do napisania karty postaci nie jest zabronione, ale oczekuje się od gracza, że będzie to jedynie pomocne narzędzie, a nie główny kontrybutor treści. 
+
+Ekipa zastrzega sobie prawo do zwrócenia się do gracza z prośbą o przygotowanie Karty, dla postaci, które swoją kombinacją cech/ras/klas/charakteru/wyznania bądź sposobu odgrywania budzą wątpliwości i ewidentnie odstają od standardów świata przedstawionego.
+
+### 8. Zabójstwa
 
 - W walkach PvP postacie graczy nie muszą walczyć do śmierci.
 
@@ -75,7 +94,7 @@ W przypadku walk w trybie "normalnym" pokonany ma całkowitą amnezję obejmują
 - Gracz w zmienionej postaci (polimorfia) może być atakowany jak zwykły potwór. Należy przy tym mieć na uwadze, że beztrosko biegający w pobliżu miasta troll jest oczywistym zagrożeniem, ale wróżka już nie. Atak jest dozwolony tylko w przypadku gdy nie widzieliśmy przemiany gracza.
 Ze zwłok postaci można bez konsekwencji wyciągnąć za pomocą kradzieży kieszonkowej dowolną ilość przedmiotów i złota.
 
-### 8. Pułapki
+### 9. Pułapki
 
 Zabrania się zastawiania pułapek w określonych przypadkach:
 
@@ -84,13 +103,13 @@ na przejściach pomiędzy lokacjami
 na drzwiach i obiektach interaktywnych (wyjątkiem mogą być np. drzwi i obiekty WEWNĄTRZ posiadłości gracza)
 na traktach, chyba że jest to DOBRZE umotywowane fabularnie
 
-### 9. Straty spowodowane błędami gry
+### 10. Straty spowodowane błędami gry
 
 Administracja nie odpowiada za straty graczy wynikłe z powodu crashów gry, padów neta itp. W przypadku strat wynikających z błędów gry lub serwera czy też czynników wcześniej wymienionych gracz może odzyskać stratę, a jeśli nie będzie to możliwe, to uzyskać rekompensatę - zależy to jednak od werdyktu administracji serwera.
 
 Podstawą do ubiegania się o jakiekolwiek odszkodowania są screeny, w innym wypadku istnieje duże prawdopodobieństwo, że wniosek zostanie odrzucony. Ideą serwera jest przede wszystkim wspólne odgrywanie, a nie gromadzenie złota i XP - radzę o tym pamiętać przed składaniem podań o zwrócenie 100 punktów doświadczenia itp.
 
-### 10. Botowanie
+### 11. Botowanie
 
 Zakazuje się tworzenia postaci typu „bot”, które podążają za główną postacią gracza, np. w celu rzucania czarów wspomagających, ale są kontrolowane przez właściciela głównej postaci. Za „bota” może być uznana postać która nie odgrywa i nie odpisuje na wiadomości od MG.
 
