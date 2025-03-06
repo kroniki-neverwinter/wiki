@@ -28,7 +28,8 @@ Władcy Burz są agentami Talosa, siejącymi spustoszenie i zniszczenie, gdzieko
 Koncentracja\
 Wiedza (Religia)\
 Wiedza (Natura)\
-Wyczucie pobudek
+Wyczucie pobudek\
+Zastraszanie
 
 
 ### Zdolności klasowe
