@@ -27,9 +27,7 @@ sidebar_label: 'Święta Pięść'
 Koncentracja\
 Dyscyplina\
 Leczenie\
-Ukrycie\
 Nasłuchiwanie\
-Cichy chód\
 Spostrzegawczość\
 Parowanie\
 Wiedza (Religia)\
