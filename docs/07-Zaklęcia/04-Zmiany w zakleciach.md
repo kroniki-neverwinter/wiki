@@ -2,8 +2,6 @@
 title: 'Zmiany w zaklęciach'
 ---
 
-## Czary PnP
-**Czary PnP (Pen & Paper)** to specjalne zaklęcia, służące głównie do odgrywania. Oznaczone są gwiazdką w nazwie, np. _Niewykrywalność*_.
 
 ## Czary Leczenia Ran
 Czary leczenia ran nie działają na Konstrukty. Nieumarłym przysługuje rzut obronny na Siłę Woli przeciwko (udany redukuje obrażenia o połowę). Dodatkowo, obowiązuje premia procentowa do efektu:
