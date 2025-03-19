@@ -115,6 +115,9 @@ Zakazuje się tworzenia postaci typu „bot”, które podążają za główną 
 
 ## II. Postać
 
+Niektóre klasy bądź rasy mogą wymagać autoryzacji przed rozpocząciem rozgrywki. Upewnij się, że przed decyzją o postaci znasz wszelkie wymagania.
+Autoryzacja następuje poprzez akceptację Karty Postaci przez Mistrzów Gry, po której DM musi aktywować odpowiednie pozwolenie na postaci w grze.
+
 ### 1. Imię postaci
 
 Imię postaci powinno pasować fabularnie do regionu, z którego postać pochodzi (oczywiście niekwestionowalnym faktem jest, że imię musi pasować do ogólnej konwencji fantasy, czyli nie można nazwać postaci Terminator itd.)
@@ -253,8 +256,6 @@ Postać może zginąć permanentnie w następujących przypadkach:
 kiedy poświęci swoje życie w bohaterskim akcie (wola gracza)
 z własnej inicjatywy/głupoty, na własne życzenie pakując się w poważne tarapaty (np. znieważając króla w jego komnacie tronowej itp.)
 kiedy postać poniesie porażkę podczas próby czynu typu: próba zabójstwa Króla, próba zniewolenia Księcia Piekieł
-
-*Hasło dla Aurory: kosmos.*
 
 ## III. Kary
 
