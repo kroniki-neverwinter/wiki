@@ -44,6 +44,10 @@ title: 'Zmiany w atutach'
 **Opis**: ten atut pozwala postaci wykonać atak z karą -10 do trafienia, ale z premią +10 do obrażeń. Jest to wyjątkowo przydatne w walce z wytrzymałymi, ale łatwymi do trafienia przeciwnikami. Premia do obrażeń jest podwojona, jeśli postać walczy bronią dwuręczną.\
 **Używanie**: w walce.
 
+### Ważenie mikstur
+
+**Zastosowanie w autorskim systemie rzemiosła**: [Alchemia](https://wiki.nwn.net.pl/docs/Systemy%20Rzemios%C5%82a/Alchemia#specjalne-premie)
+
 ### Wiedza barda
 
 **Rodzaj atutu**: Klasowy\
