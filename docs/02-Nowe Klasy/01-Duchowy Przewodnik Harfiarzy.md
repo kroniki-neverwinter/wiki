@@ -14,6 +14,7 @@ Choć większość kapłanów Harfiarzy to ludzcy, pół-elfi lub elfi kapłani,
 
 Duchowych Przewodników można znaleźć podróżujących samotnie lub w towarzystwie innych Harfiarzy lub sojuszników o podobnych poglądach. Nawet w pojedynkę, kapłan Harfiarzy może liczyć na wsparcie ze strony tych, którzy są przyjaźnie nastawieni do sprawy Harfiarzy.
 
+**Maksymalna ilość poziomów:** 5.\
 **Kość Wytrzymałości:** k4.\
 **Punkty Umiejętności:** 5 + Modyfikator Inteligencji.\
 **Bazowa premia do ataku:** średnia (3/4)\
@@ -24,23 +25,24 @@ Duchowych Przewodników można znaleźć podróżujących samotnie lub w towarzy
 **Charakter:** dowolny nie-zły\
 **Rzucanie zaklęć objawień 3 kręgu (druid lub kapłan)**\
 **Atuty:** Czujność, Żelazna Wola\
-**Umiejętności:** Czaroznastwo (8), Dyplomacja (4), Wiedza Religia (8), Wiedza Tajemna (4)
+**Umiejętności:** Czaroznastwo (8), Dyplomacja (4), Wiedza Religia (8), Wiedza Tajemna (4)\
+**Dodatkowo, ta klasa prestiżowa wymaga autoryzacji przez MG (fabularne dołączenie do Harfiarzy lub zatwierdzona Karta Postaci).**
 
 
 ### Umiejętności
 Blef\
-Dyplomacja\
 Czaroznastwo\
+Dyplomacja\
 Koncentracja\
 Leczenie\
 Nasłuchiwanie\
 Przeszukiwanie\
 Spostrzegawczość\
 Używanie Magicznych Urządzeń\
-Wiedza (Geografia)\
 Wiedza (Natura)\
 Wiedza (Religia)\
 Wiedza (Tajemna)\
+Wiedza (Świat)\
 Wyczucie Pobudek\
 Zrozumienie Zwierząt
 
@@ -55,7 +57,7 @@ Co poziom Harfiarz otrzymuje +1 do wszystkich dziedzin wiedzy.
 
 Co poziom Harfiarz otrzymuje atut premiowy z poniższej listy.
 
-**Oko Deneiry**
+**Oko Deneira**
 Rodzaj atutu: Klasowy
 Wymagania: Harfiarz.
 Opis: Harfiarz otrzymuje premię +2 do rzutów obronnych przeciwko pułapkom.
