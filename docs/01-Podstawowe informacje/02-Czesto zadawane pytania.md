@@ -48,8 +48,9 @@ Oloth plynn dos! Nie planujemy, Drizzt.
 
 ### 7. Gdzie znajdę wzór karty postaci?
 
-W naszym formularzu: [Karta postaci Kronik Neverwinter](../../static/docs/Karta_Postaci_KN.docx)
+W naszym formularzu: [Karta postaci Kronik Neverwinter](https://wiki.nwn.net.pl/karta-postaci) - wymagane jest zalogowanie przez konto Discord.
 
-## 8. Dlaczego nie mogę jeździć na koniku? Chcę Płotkę!
+### 8. Dlaczego nie mogę jeździć na koniku? Chcę Płotkę!
 
-Nasz moduł nie jest przystosowany do jeździectwa i zostało ono wyłączone. 
+Nasz moduł nie jest przystosowany do jeździectwa i zostało ono wyłączone.
+
