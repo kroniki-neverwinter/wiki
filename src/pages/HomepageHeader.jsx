@@ -18,7 +18,7 @@ export default function HomepageHeader () {
           <div>
             <h2>Moduł:</h2><p>KronikiNeverwinter</p>
             <h2>Setting:</h2><p>Zapomniane Krainy, Wybrzeże Mieczy</p>
-            <h2>Adres serwera:</h2><p>20.52.60.107</p>
+            <h2>Adres serwera:</h2><p>4.185.28.160</p>
             <h2>Port:</h2><p>30121</p>
           </div>
             <Link
