@@ -16,17 +16,20 @@ Przedstawiciele tej klasy prestiżowej często podrużują, roznosząc opowieśc
 
 Większość pieśniarzy klingi to osoby towarzyskie i otwarte na innych tak długo jak nie pyta się ich o tajemnice fachu. Wtedy stają się tajemniczy i małomówni - strzegą tajemnic swojej profesji, samemu wybierając wartościowe osoby, którym mogą przekazać tą więdzę, by nie zaginęła w ciągu wieków.
 
+**Maksymalna ilość poziomów:** 10.\
 **Kość Wytrzymałości:** k8.\
 **Punkty Umiejętności:** 3 + Modyfikator Inteligencji.\
 **Bazowa premia do ataku:** wysoka\
 **Wysoki rzut obronny:** Refleks, Wola\
-**Czary na dzień/znane czary:** Co drugi poziom Pieśniarza Klingi liczba rzucanych przez niego czarów na dzień zwiększa się tak, jakby zdobył poziom w klasie barda.
+**Czary:** Co drugi poziom Pieśniarza Klingi czas trwania rzucanych zaklęć oraz ich efektywny poziom zwiększa się tak, jakby zdobył poziom w klasie barda, czarodzieja lub czarownika. Liczba znany zaklęć się jednak nie powiększa.
 
 ### Wymagania
 **Bazowa premia do ataku:** +5\
 **Rzucanie zaklęć mistycznych 1 kręgu**\
 **Atuty:** Magia w Walce, Wyspecjalizowanie, Ulubiona broń (rapier lub długi miecz)\
 **Umiejętności:** Koncentracja (4), Upadanie (3), Aktorstwo (3)\
+**Rasa:** Elf lub półelf\
+**Specjalne:** Musi wyznawać bóstwo z Panteonu Elfów
 
 
 ### Umiejętności
