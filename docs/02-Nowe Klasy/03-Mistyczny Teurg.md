@@ -1,7 +1,7 @@
 ---
 sidebar_label: 'Mistyczny Teurg'
 ---
-
+-
 
 # Mistyczny Teurg
 
@@ -15,11 +15,13 @@ Teurgowie bardzo często mają obsesję na punkcie wiedzy magicznej. Potrafią p
 
 Teurgów fascynuje magi niemal w każdej postaci. Niemal nieustannie poszukują coraz to nowych zaklęć i artefaktów. Teurgowie najczęściej skupieni są w kościołach Mystry i Azutha. Niewielka ich część czci Shar i posługuje się magią Cienistego Splotu.
 
+**Maksymalna ilość poziomów:** 30.\
 **Kość Wytrzymałości:** k4.\
 **Punkty Umiejętności:** 3 + Modyfikator Inteligencji.\
 **Bazowa premia do ataku:** niska (1/2)\
 **Wysoki rzut obronny:** Wola\
-**Czary na dzień/znane czary:** Co poziom Teurga liczba rzucanych przez niego czarów na dzień zwiększa się tak, jakby zdobył poziom w klasie rzucającej zarówno zaklęcia wtajemniczeń, jak i objawień.
+**Czary na dzień/znane czary:** Co poziom Teurga liczba rzucanych przez niego czarów na dzień zwiększa się tak, jakby zdobył poziom w klasie rzucającej zarówno zaklęcia wtajemniczeń, jak i objawień.\
+_**Uwaga!** ze względu na ograniczenia silnika gry nie doradzamy łączenia Teurga z Czarownikiem. Taka postać w klasie Czarownika uzyska jedynie bonus do poziomu zaklęć, NIE otrzyma zaklęć ani kręgów zaklęć. Przy łączeniu Teurga z Czarodziejem te ograniczenia silnika gry nie obowiązują._
 
 ### Wymagania
 
@@ -35,5 +37,15 @@ Teurgów fascynuje magi niemal w każdej postaci. Niemal nieustannie poszukują 
 - Leczenie
 - Wiedza (Religia)
 - Wiedza (Tajemna)
-- Wyczucie Pobudek
 - Wycena
+- Wyczucie Pobudek
+
+### Zdolności klasowe
+
+**Poziom 15: Dodatkowy atut**
+
+**Poziom 19: Dodatkowy atut**
+
+**Poziom 23: Dodatkowy atut**
+
+**Poziom 27: Dodatkowy atut**
