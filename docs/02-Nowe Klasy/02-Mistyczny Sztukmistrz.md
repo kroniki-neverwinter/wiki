@@ -14,6 +14,7 @@ Mistyczny Sztukmistrz łączy ze sobą magiczną wiedzę ze zmysłem do intryg, 
 
 Mistyczny Sztukmistrz to osoba samodzielna, korzystająca głównie ze swoich własnych doświadczeń, która święcie wierzy w swoje umiejętności. Większość poszukiwaczy przygód z tej klasy prestiżowej skupia się na czarach zwiększających ich ruchliwość, zdolności krycia się lub manipulowania umysłami innych. Mistyczni Sztukmistrze BN to osoby w typie tych, które najczęściej wpadają na innych w zatłoczonej gospodzie (uwaga na sakiewki!).
 
+**Maksymalna ilość poziomów:** 30.\
 **Kość Wytrzymałości:** k4.\
 **Punkty Umiejętności:** 5 + Modyfikator Inteligencji.\
 **Bazowa premia do ataku:** niska (1/2)\
@@ -22,7 +23,7 @@ Mistyczny Sztukmistrz to osoba samodzielna, korzystająca głównie ze swoich w�
 
 ### Wymagania
 **Charakter:** dowolny niepraworządny\
-**Rzucanie zaklęć mistycznych 3 kręgu**\
+**Rzucanie zaklęć mistycznych 2 kręgu**\
 **Atak z Zaskoczenia 2k6 (łotrzyk)**\
 **Talent Magiczny:** Iluzje\
 **Umiejętności:** Wiedza Tajemna (4), Upadanie (7), Rozbrajanie Pułapek (7)
@@ -44,14 +45,14 @@ Spostrzegawczość\
 Ukrywanie\
 Używanie Magicznych Urządzeń\
 Wiedza (Architektura)\
-Wiedza (Geografia)\
 Wiedza (Natura)\
 Wiedza (Plany)\
 Wiedza (Religia)\
 Wiedza (szlachta i Władcy)\
 Wiedza (Tajemna)\
-Wyczucie Pobudek\
+Wiedza (Świat)\
 Wycena\
+Wyczucie Pobudek\
 Zakładanie Pułapek
 
 
@@ -71,6 +72,14 @@ Mistyczny Sztukmistrz na czas równy tura/2 poziomy dodać sobie premię o warto
 
 Mistyczny Sztukmistrz jest w stanie powołać do istnienia magiczną pułapkę o promieniu 3 metrów. Wszystkie istoty które w nią wejdą zmuszone są do wykonania rzutu obronnego o ST = 10 + połowa wartości zakładania pułapek. W przypadku niepowodzenia wszyscy w zasięgu otrzymują obrażenia magiczne w wysokości k10 na dwa poziomy Mistycznego Sztukmistrza oraz zostają ogłuszeni na k6 rund, powodzenie w rzucie neguje ogłuszenie oraz zmniejsza obrażenia o połowę. Zdolności tej można użyć raz na dzień na 3 poziomie, dwa razy na 6 oraz trzy razy na 9 poziomie.
 
-**Poziom 4: Mistyczmy Atak z Zaskoczenia**
+**Poziom 4: Mistyczny Atak z Zaskoczenia**
 
 Mistyczny Sztukmistrz może raz dziennie wskazać cel, przeciwko któremu ataki z zaskoczenia zostaną wzmocnione o 1k6 obrażeń magicznych na 2 poziomy w tej klasie prestiżowej. Zdolność ta trwa 5 rund + 1 runda na poziom. Od 7 poziomu można jej użyć dwa razy dziennie, a od 10 poziomu w klasie prestiżowej - 3 razy.
+
+**Poziom 15: Dodatkowy atut**
+
+**Poziom 19: Dodatkowy atut**
+
+**Poziom 23: Dodatkowy atut**
+
+**Poziom 27: Dodatkowy atut**
