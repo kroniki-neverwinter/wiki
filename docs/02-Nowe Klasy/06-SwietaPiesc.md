@@ -16,7 +16,7 @@ sidebar_label: 'Święta Pięść'
 **Bazowa premia do ataku:** Wysoka\
 **Wysoki rzut obronny:** Wytrwałość, Refleks\
 **Czary na dzień/znane czary:** Co poziom Świętej Pięści liczba rzucanych przez niego czarów kapłańskich na dzień zwiększa się tak, jakby zdobył poziom w klasie czarującej.\
-**Kodeks postępowania:** Członek zakonu Świętej Pięści odmawia używania jakiejkolwiek broni. Wiąże się to z technicznym ograniczeniem w grze - postać nie może dzierżyć żadnej broni.
+**Ograniczenia:** Święta Pięść wyrzeka się używania broni, również tych które są jednocześnie powszechnie używane w roli narzędzi. Wiąże się to z brakiem możliwości używania Lekkiego Młota do rzemiosła oraz przeróbek wyglądu broni i tarcz na kowadle. Również użycie kilofa do wydobycia rudy nie jest możliwe.
 
 ### Wymagania
 **Bazowa premia do ataku:** +4\
