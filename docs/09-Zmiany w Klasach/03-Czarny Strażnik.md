@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Czarny strażnik'
+sidebar_label: 'Czarny Strażnik'
 ---
 
 
@@ -17,8 +17,8 @@ sidebar_label: 'Czarny strażnik'
 - Parowanie
 - Prowokacja
 - Ukrywanie
-- Wiedza (Religia)
 - Wiedza (Plany)
+- Wiedza (Religia)
 - Zastraszanie
 
 ### Czarci Sługa
@@ -30,6 +30,8 @@ Na **5 poziomie** Czarny Strażnik zyskuje umiejętność przywołania Czarciego
 Dodatkową korzyścią z posiadania Czarciego Sługi jest dostęp do specjalnych opcji dialogowych, które pozwalają na otrzymanie zaklęć ochronnych, naukę języka Otchłannego/Piekielnego czy nawet całkowitą zmianę wyglądu towarzysza.
 
 ![czarny strażnik przywołaniec](../../static/img/wiki/wiki-klasy/cs-przywolaniec-2.png)
+
+_**Uwaga!** Czar "Epicki Czarci Sługa" obecnie nie ma efektu. W dalszym terminie planowane jest wprowadzenie przywołania potężnego pozasferowca._
 
 ### Zaklęcia
 
@@ -72,3 +74,4 @@ Czarny Strażnik przygotowuje zaklęcia jak Kapłan (oparte o modyfikator Mądro
 - Swoboda Ruchu
 - Trucizna
 - Zadawanie Krytycznych Ran
+- Złe Splugawienie
