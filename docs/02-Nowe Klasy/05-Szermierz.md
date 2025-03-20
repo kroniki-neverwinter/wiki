@@ -12,6 +12,7 @@ sidebar_label: 'Szermierz'
 Szermierz (czasem zwany zawadiaką) jest zwinnym i inteligentnym wojownikiem, który umie wyprowadzać precyzyjne ataki bronią lekką, taką jak rapier. W walce przede wszystkim wykorzystuje spryt oraz refleks. Rezygnuje z ciężkich pancerzy, wiedząc, że najlepszy sposób na wygraną to nie dać się w ogóle trafić.
 Typowy BN należący do tej klasy prestiżowej to samotnik szukający przygody oraz szybkiego i łatwego zarobku. Czasem Szermierze działają w grupach, zgranych i wyszkolonych pod względem taktycznym - najczęściej jako najemnicy.
 
+**Maksymalna ilość poziomów:** 10.\
 **Kość Wytrzymałości:** k10.\
 **Punkty Umiejętności:** 3 + Modyfikator Inteligencji.\
 **Bazowa premia do ataku:** wysoka\
