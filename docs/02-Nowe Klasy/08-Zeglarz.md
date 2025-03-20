@@ -16,27 +16,25 @@ sidebar_label: 'Żeglarz'
 **Punkty Umiejętności:** 6 + Modyfikator Inteligencji.\
 **Bazowa premia do ataku:** wysoka\
 **Wysoki rzut obronny:** Refleks, Wytrwałość\
-**Kodeks postępowania:** Nosząc pancerz cięższy niż lekki lub tarcze większą niż mała, żaglarz traci wszystkie swoje premie z atutów.
 
 
 ### Umiejętności
-Dyscyplina\
-Spostrzegawczość\
-Wiedza (Natura)\
-Prowokacja\
-Wycena\
 Akrobatyka\
 Blef\
-Zastraszanie\
+Dyscyplina\
+Prowokacja\
+Spostrzegawczość\
+Wiedza (Natura)\
 Wiedza (Świat)
-
+Wycena\
+Zastraszanie\
 
 
 ### Zdolności klasowe
 
 **Poziom 1: Umiejętności żeglarskie**
 
-Dzięki życiu na statku, żeglarz lepiej opanował umiejętność balansu oraz wiedzy o geografii. Natomiast zła sława korsarzy, sprawia że możesz wywoływać postrach. Żeglarz dostaję premię +1 do umiejętności akrobatyka, zastraszanie oraz wiedza (geografia). Bonus ten rośnie co 4 poziomy w klasie żeglarza maksymalnie do +5.
+Dzięki życiu na statku, żeglarz lepiej opanował umiejętność balansu oraz wiedzy o geografii. Natomiast zła sława korsarzy, sprawia że możesz wywoływać postrach. Żeglarz dostaję premię +1 do umiejętności Akrobatyka, Zastraszanie oraz Wiedza (Świat). Bonus ten rośnie co 4 poziomy w klasie żeglarza.
 
 **Poziom 1: Żeglarska wiedza**
 
@@ -49,9 +47,9 @@ Ten test nie gwarantuje poznania prawdziwych informacji, ponieważ żeglarz czę
 
 Za każdym razem, kiedy żeglarz wykonuje atak na przeciwnika, który jest zaskoczony, nie może widzieć atakującego lub walczy z kimś innym, wykorzystuje okazje by zadać nieczysty cios. Na pierwszym poziomie jest to k4 pkt obrażeń, ale wartość ta wzrasta o dodatkowe k4 co cztery poziomy doświadczenia. Dodatkowo epicki zeglarz począwszy od 22 poziomu dostaje kolejne kostki k4 co 4 poziomy.
 
-**Poziom 4: Back-to-back**
+**Poziom 4: Żeglarskie wyspecjalizowanie**
 
-Umiejętności walki na morzu w załodze, sprawiły że żeglarz opanował umiejętności przy obronie burty statku, przez co kiedy ma włączone wyspecjalizowanie jego premia do KP rośnie. Na 4 poziomie +1, następnie co 4 poziomy w klasie maksymalnie do +5.
+Umiejętności walki na morzu w załodze, sprawiły że żeglarz opanował umiejętności przy obronie burty statku, przez co kiedy ma włączone wyspecjalizowanie jego premia do KP rośnie. Na 4 poziomie +1, następnie co 4 poziomy w klasie maksymalnie do +5. Opisana premia do KP nie działa, gdy żeglarz nosi pancerz cięższy niż lekki lub tarczę większą niż małą.
 
 **Poziom 5: Dodatkowy atut**
 
