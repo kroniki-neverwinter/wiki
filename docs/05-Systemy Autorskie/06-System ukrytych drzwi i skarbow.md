@@ -22,6 +22,7 @@ Tylko gracz, który znalazł drzwi/skarb może je zobaczyć. Dodatkowo, jeśli p
 ### Stopień Trudności
 Stopień trudności nie jest zależny od poziomu postaci czy siły potworów na lokacji. Oznacza to, że nawet na lokacji z niegroźnymi przeciwnikami może znajdować się dobrze zamaskowane ukryte przejście do Epickiego Lochu Zagłady czy Skarbca Krwawych Piratów. Poniżej przykładowe ST.
 
+
 | Ukryty obiekt                        | ST |
 |--------------------------------------|----|
 | Porzucona torba                      | 15 |
