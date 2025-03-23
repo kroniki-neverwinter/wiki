@@ -7,19 +7,12 @@
 /* You can override the default Infima variables here. */
 :root {
   --ifm-code-font-size: 95%;
-  --background-root-color: rgb(216,209,181);
-  --background-second-root-color: rgb(182,193,141);
-  --font-root-color:  rgb(67,36,11);
-  --hover-link-root-color: rgb(136,59,40);
-  --dark--nav-color: rgb(39,20,3);
+  --background-root-color: rgb(218,208,182);
+  --background-second-root-color: rgb(183,192,143);
+  --font-root-color: rgb(71,35,12);
+  --hover-link-root-color: rgb(143,57,40);
+  --dark--nav-color: rgb(41,19,3);
   --dark-font-color: rgb(159,138,81);
-  --light-text-color: rgb(28,30,33);
-  --background-light-color: rgb(255,255,255);
-  --dark-mode-link-color: rgb(186,102,255);
-  --dark-mode-bgr-color: rgb(6,3,1);
-  --dark-link2-color: rgb(155,140,79);
-  --dark-hover2-color: rgb(88,37,134);
-  --dark-text2-color: rgb(227,227,227);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -43,45 +36,26 @@
   --ifm-link-color: var(--font-root-color);
   --ifm-menu-color-active: var(--hover-link-root-color);
   --ifm-breadcrumb-color-active: var(--hover-link-root-color);
-  --ifm-background-color: var(--background-light-color);
-
-  .table-of-contents__link--active, .table-of-contents__link:hover {
-    color: var(--hover-link-root-color)
-  }
 }
 
 
 [data-theme='dark'] {
     /*nav colors*/
     --ifm-navbar-background-color: var(--dark--nav-color);
-    --ifm-navbar-link-color: var(--dark-link2-color);
-    --ifm-navbar-link-hover-color: var(--dark-hover2-color)
+    --ifm-navbar-link-color: var(--dark-font-color);
+    --ifm-navbar-link-hover-color: rgb(88, 44, 133);
       /*main section colors*/
-  --ifm-heading-color: var(--dark-link2-color);
-  --ifm-font-color-base-inverse: var(--dark-link2-color);
-  --ifm-color-primary: var(--dark-mode-bgr-color);
+  --ifm-color-primary: rgb(6,3,1);
+  --ifm-heading-color: var(--dark-font-color);
+  --ifm-font-color-base-inverse: var(--dark-font-color);
   /*footer colors*/
   --ifm-footer-background-color: var(--dark--nav-color);
-  --ifm-footer-link-color: var(--dark-link2-color);
-  --ifm-footer-title-color: var(--dark-link2-color);
+  --ifm-footer-link-color: var(--dark-font-color);
+  --ifm-footer-title-color: var(--dark-font-color);
   --ifm-footer-color:  var(--dark-font-color);
 
   /* other*/
-  --ifm-link-color: var(--dark-link2-color);
+  --ifm-link-color: var(--font-root-color);
   --ifm-menu-color-active: var(--hover-link-root-color);
-  --ifm-breadcrumb-color-active: var(--dark-mode-link-color);
-
-  .table-of-contents__link--active, .table-of-contents__link:hover,.menu__link--active, .breadcrumbs__link:hover,.pagination-nav__label {
-    color: var(--dark-mode-link-color)
-  }
-
-  .navbar__link:hover, .navbar__title:hover {
-    color: var(--dark-hover2-color)
-  }
-
-  .table-of-contents__link, .menu__link {
-    color: var(--dark-text2-color)
-  }
-
-
+  --ifm-breadcrumb-color-active: var(--hover-link-root-color);
 }
