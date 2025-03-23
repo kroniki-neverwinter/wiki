@@ -75,7 +75,7 @@
     color: var(--dark-mode-link-color)
   }
 
-  .navbar__link:hover, .navbar__title:hover {
+  .navbar__link:hover, .navbar__title:hover, .footer__link-item:hover {
     color: var(--dark-hover2-color)
   }
 
