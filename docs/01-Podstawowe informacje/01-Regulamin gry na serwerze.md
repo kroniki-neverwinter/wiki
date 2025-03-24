@@ -15,27 +15,31 @@ Nieznajomość regulaminu nie zwalnia gracza od jego przestrzegania. Administrac
 
 Zalecaną przez administrację kategorią wiekową serwera jest 18+.
 
-### 3. Konflikty pomiędzy graczami
+### 3. Profil serwera
+
+Kroniki Neverwinter skupiają się na odgrywaniu ról i proaktywnym prowadzeniu historii swojej postaci.
+
+### 4. Konflikty pomiędzy graczami
 
 Gra ma być dla wszystkich zabawą, dlatego zakazuje się uprzykrzania gry innym osobom - poprzez niefabularne działania postaci czy wyzwiska na kanale prywatnym (itp).
 
-### 4. Wykorzystywanie błędów gry i oszustwa
+### 5. Wykorzystywanie błędów gry i oszustwa
 
 Korzystanie z błędów gry oraz używanie wszelkich oszustw jest zabronione. Każdy błąd musi zostać zgłoszony do MG lub administratora, bądź poprzez odpowiedni post na forum (pomniejsze bugi).
 
-#### 4.1 Item run
+#### 5.1 Item run
 
 Formą oszustwa jest zbieranie przedmiotów ze skrzynek (lub innych kontenerów), **ignorując przy tym potwory**. Niezależnie od tego czy postać używa Ukrywania, Niewidzialności, Przyspieszenia, czy po prostu biegnie (np. Mnich).
 
 Mechanicznie otwarcie kontenerka i zabranie przedmiotów (włącznie z np. Pełną Zbroją Płytową) zajmuje 5-6 sekund i nie chcemy sztucznie wydłużać tego czasu, dlatego prosimy o uczciwe podejście przy zbieraniu skarbów.
 
-### 5. Przekazywanie przedmiotów własnym postaciom oraz rozdawnictwo
+### 6. Przekazywanie przedmiotów własnym postaciom oraz rozdawnictwo
 
 Przerzucanie przedmiotów lub złota pomiędzy swoimi postaciami jest zabronione. Rozdawanie przedmiotów lub złota bez pobudek fabularnych (typu "Masz nową postać? Dam ci 10k golda i adamantowy miecz na start!") jest zabronione.
 
 Zasadniczo postać na 2 poziomie nie ma prawa posiadać ekwipunku z mithrillu i każdy MG ma prawo takie przedmioty odebrać, jeżeli gracz nie będzie w stanie udowodnić, że przedmioty zostały zdobyte uczciwie. Jednocześnie nie zabrania się, a wręcz zachęca do wspierania słabszych członków gildii, zakonów itp. Zasadne fabularnie przekazywanie przedmiotów jest jak najbardziej w porządku.
 
-### 6. Odgrywanie
+### 7. Odgrywanie
 
 - Na serwerze obowiązuje utrzymanie klimatu fantasy, zabrania się zatem stosowania współczesnego słownictwa oraz rozmów o XP, statystykach przedmiotów (np. "wow, zdropiłem miecz +3!") itp. na wszystkich kanałach poza prywatnym (zielony, priv).
 
@@ -53,7 +57,7 @@ Jest to jedyny wyjątek od przedstawionych reguł i w żadnych wypadku nie stano
 
 - Poleca się stosowanie zasady zdrowego rozsądku wykonując różne akcje w grze. Na przykład, odpoczywanie postacią na środku ulicy, albo wprowadzanie dużych zwierząt do pomieszczeń nie jest zbyt fabularnym zachowaniem i będzie negatywnie odbierane przez straż czy mieszkańców miasta.
 
-### 7. Karta Postaci
+### 8. Karta Postaci
 Napisanie Karty Postaci (poza wyszczególnionymi w regulaminie przypadkami) nie jest obowiązkowe by mieć możliwość gry na serwerze. Jednakże ekipa zachęca do jej przygotowania i wysłania. Karta Postaci pomaga Mistrzom Gry "poczuć" postać gracza, poznać jej motywacje, historie a także przygotować elementy osobiste na prowadzonych wątkach i questach, które trafią bezpośrednio w potrzeby danej postaci.
 
 Dodatkowo, za napisanie Karty Postaci, która zostanie zaakceptowana, przysługują nagrody, w zależności od progu nagrody, który zostanie jej przydzielony:
@@ -72,7 +76,7 @@ Korzystanie z pomocy narzędzi AI do napisania karty postaci nie jest zabronione
 
 Ekipa zastrzega sobie prawo do zwrócenia się do gracza z prośbą o przygotowanie Karty, dla postaci, które swoją kombinacją cech/ras/klas/charakteru/wyznania bądź sposobu odgrywania budzą wątpliwości i ewidentnie odstają od standardów świata przedstawionego.
 
-### 8. Zabójstwa
+### 9. Zabójstwa
 
 - W walkach PvP postacie graczy nie muszą walczyć do śmierci.
 
@@ -94,7 +98,7 @@ W przypadku walk w trybie "normalnym" pokonany ma całkowitą amnezję obejmują
 - Gracz w zmienionej postaci (polimorfia) może być atakowany jak zwykły potwór. Należy przy tym mieć na uwadze, że beztrosko biegający w pobliżu miasta troll jest oczywistym zagrożeniem, ale wróżka już nie. Atak jest dozwolony tylko w przypadku gdy nie widzieliśmy przemiany gracza.
 Ze zwłok postaci można bez konsekwencji wyciągnąć za pomocą kradzieży kieszonkowej dowolną ilość przedmiotów i złota.
 
-### 9. Pułapki
+### 10. Pułapki
 
 Zabrania się zastawiania pułapek w określonych przypadkach:
 
@@ -103,13 +107,13 @@ na przejściach pomiędzy lokacjami
 na drzwiach i obiektach interaktywnych (wyjątkiem mogą być np. drzwi i obiekty WEWNĄTRZ posiadłości gracza)
 na traktach, chyba że jest to DOBRZE umotywowane fabularnie
 
-### 10. Straty spowodowane błędami gry
+### 11. Straty spowodowane błędami gry
 
 Administracja nie odpowiada za straty graczy wynikłe z powodu crashów gry, padów neta itp. W przypadku strat wynikających z błędów gry lub serwera czy też czynników wcześniej wymienionych gracz może odzyskać stratę, a jeśli nie będzie to możliwe, to uzyskać rekompensatę - zależy to jednak od werdyktu administracji serwera.
 
 Podstawą do ubiegania się o jakiekolwiek odszkodowania są screeny, w innym wypadku istnieje duże prawdopodobieństwo, że wniosek zostanie odrzucony. Ideą serwera jest przede wszystkim wspólne odgrywanie, a nie gromadzenie złota i XP - radzę o tym pamiętać przed składaniem podań o zwrócenie 100 punktów doświadczenia itp.
 
-### 11. Botowanie
+### 12. Botowanie
 
 Zakazuje się tworzenia postaci typu „bot”, które podążają za główną postacią gracza, np. w celu rzucania czarów wspomagających, ale są kontrolowane przez właściciela głównej postaci. Za „bota” może być uznana postać która nie odgrywa i nie odpisuje na wiadomości od MG.
 
