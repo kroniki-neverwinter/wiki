@@ -42,10 +42,12 @@ _**Uwaga!** ze względu na ograniczenia silnika gry nie doradzamy łączenia Teu
 
 ### Zdolności klasowe
 
-**Poziom 15: Dodatkowy atut**
+**Poziom 14: Dodatkowy atut**
 
-**Poziom 19: Dodatkowy atut**
+**Poziom 18: Dodatkowy atut**
 
-**Poziom 23: Dodatkowy atut**
+**Poziom 22: Dodatkowy atut**
 
-**Poziom 27: Dodatkowy atut**
+**Poziom 26: Dodatkowy atut**
+
+**Poziom 30: Dodatkowy atut**
