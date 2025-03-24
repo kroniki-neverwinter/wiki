@@ -26,6 +26,10 @@ Maksymalna premia za zręczność została zmodyfikowana.
 Bazowe obrażenia: ``2k4``\
 Trafienie krytyczne: ``x3``
 
+#### Krótka włócznia
+
+Ograniczenia: ``może być trzymana tylko w prawej dłoni``
+
 #### Lekka kusza
 
 Bazowe obrażenia: ``1k10``\
