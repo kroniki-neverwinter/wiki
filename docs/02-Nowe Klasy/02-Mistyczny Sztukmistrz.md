@@ -76,10 +76,12 @@ Mistyczny Sztukmistrz jest w stanie powołać do istnienia magiczną pułapkę o
 
 Mistyczny Sztukmistrz może raz dziennie wskazać cel, przeciwko któremu ataki z zaskoczenia zostaną wzmocnione o 1k6 obrażeń magicznych na 2 poziomy w tej klasie prestiżowej. Zdolność ta trwa 5 rund + 1 runda na poziom. Od 7 poziomu można jej użyć dwa razy dziennie, a od 10 poziomu w klasie prestiżowej - 3 razy.
 
-**Poziom 15: Dodatkowy atut**
+**Poziom 14: Dodatkowy atut**
 
-**Poziom 19: Dodatkowy atut**
+**Poziom 18: Dodatkowy atut**
 
-**Poziom 23: Dodatkowy atut**
+**Poziom 22: Dodatkowy atut**
 
-**Poziom 27: Dodatkowy atut**
+**Poziom 26: Dodatkowy atut**
+
+**Poziom 30: Dodatkowy atut**
