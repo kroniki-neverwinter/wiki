@@ -74,7 +74,8 @@ const config = {
             position: 'left',
             label: 'Wiki',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: '/blog', label: 'Blog', position: 'left' },
+          {to: '/karta-postaci', label: 'Karta postaci', position: 'left'},
         ],
       },
       footer: {
