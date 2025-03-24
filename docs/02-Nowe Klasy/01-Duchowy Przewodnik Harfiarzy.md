@@ -99,7 +99,7 @@ Opis: Harfiarz otrzymuje premię +2 do rzutów obronnych wszystkim zaklęciom.
 Użycie: Automatyczne.
 
 **Wskazówka Oghmy**
-Talent w dowolnej dziedzinie wiedzy.
+Talent w jednej z klasowych dziedzin wiedzy Duchowego Przewodnika Harfiarzy (Natura, Religia, Wiedza Tajemna, Świat).
 
 **Kostur Silvanusa**
 Ulubiona broń: kostur lub magiczna laska.
