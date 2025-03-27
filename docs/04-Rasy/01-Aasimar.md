@@ -11,8 +11,8 @@ sidebar_label: 'Aasimar'
 Przed rozpoczęciem gry Aasimarem należy wysłać kartę postaci do MG. Ekipa serwera zastrzega sobie prawo do odrzucenia kart, które zawierają niespójne lub dziwne informacje (np. postać jest potomkiem bóstwa).
 
 ### Opis rasy
-
-Aasimarowie to szlachetne stworzenia, stanowiące śmiertelne połączenie krwi niebiańskiej i ludzkiej. Po aasimarach widać świątobliwość przodka - zwykle są wysocy, atrakcyjni i ładnie wyglądają. Niektórzy posiadają drobne cechy świadczące o ich rodowodzie: choćby złote włosy, czy niezwykle przenikliwe spojrzenie. Niektórzy wyróżniają się też zieloną skórą, skrzydłami czy ogonami. Żyją zawsze nieco dłużej niż pokrewni śmiertelnicy.
+Pełne wdzięku i szlachetne aasimary noszą w swojej krwi dziedzictwo niebian bądź nawet bóstw. Choć nie są tak potężni jak ich niebiańscy przodkowie, ich pochodzenie jest źródłem ich dumy, dającym im niezwykły potencjał do czynienia dobra w świecie. Na ogół wysocy i atrakcyjni, na pierwszy rzut oka wyglądają jak ludzie, jednak łatwo zauważyć którąś z cech szczególnych wynikającą z ich pochodzania. Mogą to być m.in. (choć lista ta nie jest wyczerpująca): złote oczy, srebrne włosy, szmaragdowa skóra, pokrywające ramiona pióra, pióra we włosach, perłowe, opalizujące oczy, potężny, dźwięczny głosy, topazowe oczy, srebrna bądź złota skóra, łaty mieniących się łusek na ciele. Dwóch aasimarów o takim samym pochodzeniu często posiada podobne cechy szczególne. \
+Ich długość życia i wiek osiągnięcia dojrzałości jest taki sam jak u ludzi.
 
 ### Charakter
 Większość aasimarów ma dobry charakter. Walczą ze złem i próbują skłaniać innych do dobrych uczynków.
@@ -25,7 +25,8 @@ Aasimar może otrzymać anielskie skrzydła po konsultacji z MG, nie jest to jed
 Istnieją jednak inne ścieżki na uzyskanie skrzydeł, np. udział w przygodzie związanej z anielskim dziedzictwem lub zdobycie specjalnego przedmiotu w grze.
 
 ### Rodowity przybysz
-Aasimar, jako rodowity przybysz, jest odporny na zaklęcia wpływające na humanoidy, takie jak Zauroczenie Osoby. Działają na niego natomiast zaklęcia wpływające na przybyszów oraz specjalna broń wzmocniona przeciwko istotom ze sfer.
+Aasimar, jako rodowity przybysz, jest odporny na zaklęcia wpływające na humanoidy, takie jak Zauroczenie Osoby. Działa na niego natomiast Związanie Sfer oraz specjalna broń wzmocniona przeciwko istotom ze sfer. \
+Rodowici przybysze, jako że mają ludzkich przodków, posiadają silny związek z Planem Materialnym. Można ich ożywić, zreinkarnować czy wskrzesić tak jak inne żywe istoty. Są natywni dla Planu Materialnego i w przeciwieństwie do pozasferowców, potrzebują pożywienia i snu.
 
 ### Dostosowanie poziomu
 Obowiązuje dostosowanie poziomu +1 (aasimar na 1 poziomie otrzymuje PD za potwory tak, jakby był postacią 2 poziomu).
