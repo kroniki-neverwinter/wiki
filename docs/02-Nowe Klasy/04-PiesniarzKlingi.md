@@ -8,13 +8,14 @@ sidebar_label: 'Pieśniarz Klingi'
 ![pieśniarz klingi](../../static/img/wiki/wiki-klasy/piesniarz-klingi.png)
 
 ### (KLASA PRESTIŻOWA)
-*-- Wojna upaja równie mocno jak muzyka...*
 
-Pieśniarze Klingi to osoby, które zdołały połączyć w harmonijną całość sztukę, magię oraz kunszt wojenny.Gdy walczą, ich zwinne ruchy i subtelna taktyka są równie skuteczne, co zabójcze.
+> _**Pieśniarze Klingi to elfy lub półelfy wychowane wśród elfiej społeczności, które łączą sztukę, szermierkę i magię mistyczną w harmonijną całość. Zwodnicze piękno ich zwinnych ruchów i subtelnych manewrów bojowych skrywa zabójczą skuteczność bojową. Pieśniarze Klingi cieszą się specjalną pozycją w elfiej społeczności łącząc piękno magii i sztuki z mistrzowskimi zdolnościami bojowymi, co sprawia, że są oni szanowani przez inne elfy. Zazwyczaj służą jako wędrowni strażnicy i obrońcy elfiej społeczności jako całości, zamiast być związanymi z jedną konkretną osadą. Każdy elf potrafiący władać długim mieczem bądź rapierem oraz posiadający umiejętność rzucania zaklęć mistycznych może stać się Pieśniarzem Klingi.**_
+>
+> _**Większość Pieśniarzy Klingi działa w pojedynkę, dzięki umiejętnościom zapewniającym im dużą samowystarczalność. Zdarza się jednak, że w większych społecznościach będą mieli możliwość walczyć ramię w ramię z innymi przedstawicielami tej profesji. Nowi Pieśniarze Klingi są zazwyczaj szkoleni pojedynczo przez innego Pieśniarza Klingi. Nie istnieje żaden sformalizowany sposób nauki tej profesji jak "Szkoła Pieśniarzy Klingi" - dla elfów sam taki koncept brzmi absurdalnie.**_
 
-Przedstawiciele tej klasy prestiżowej często podrużują, roznosząc opowieści o swym męstwie w dalekie zakątki świata oraz poszukując coraz większych wyzwań, którymi mogli by się szczycić. Często nazywają się obrońcami wszystkich ludzi (lub innych ras), gdyż rzadko kiedy związują się z jednym regionem.
+---
 
-Większość pieśniarzy klingi to osoby towarzyskie i otwarte na innych tak długo jak nie pyta się ich o tajemnice fachu. Wtedy stają się tajemniczy i małomówni - strzegą tajemnic swojej profesji, samemu wybierając wartościowe osoby, którym mogą przekazać tą więdzę, by nie zaginęła w ciągu wieków.
+### Podstawowe informacje
 
 **Maksymalna ilość poziomów:** 10.\
 **Kość Wytrzymałości:** k8.\
