@@ -14,10 +14,10 @@ Nie jest niczym niezwykłym składanie ofiar także bogom uznawanym za złych �
 ## Osobiste bóstwo opiekuńcze
 
 Choć politeizm jest powszechny, niemal każdy Faeruńczyk ma jedno bóstwo opiekuńcze, któremu powierza swoją duszę i do którego modli się regularnie. Wybór ten najczęściej zależy od:
-- Wykonywanego zawodu (np. Oghma dla uczonych, Helm dla strażników),</li>
-	<li>Regionu (np. Chauntea na terenach wiejskich),</li>
-	<li>Obecności świątyń (np. Tyr w Neverwinter).</li>
-</ul> 
+- Wykonywanego zawodu (np. Oghma dla uczonych, Helm dla strażników)
+- Regionu (np. Chauntea na terenach wiejskich),
+- Obecności świątyń (np. Tyr w Neverwinter).
+
 
 Bycie **Niewiernym**, czyli osobą nieoddającą czci żadnemu bogu, to sytuacja skrajnie rzadka i budząca powszechne niezrozumienie. Dusza takiej osoby po śmierci trafia na **Ścianę Niewiernych** – miejsce wiecznego potępienia. Podobny los spotyka **Fałszywych**, czyli tych, którzy deklarują oddanie konkretnemu bóstwu, lecz nie spełniają minimalnych wymagań jego kultu – nie modlą się, nie przestrzegają dogmatów lub wręcz działają przeciwko interesom swojego kościoła.
 
