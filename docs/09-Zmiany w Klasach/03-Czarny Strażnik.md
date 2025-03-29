@@ -39,13 +39,15 @@ Czarny Strażnik przygotowuje zaklęcia jak Kapłan (oparte o modyfikator Mądro
 
 ### I
 
-- Błogosławieństwo
 - Boskie Względy
+- Błogosławieństwo
 - Leczenie Lekkich Ran
+- Magiczna Broń
 - Ochrona przed Wybranym Charakterem
 - Odporność
-- Przełamanie Strachu
+- Przeklęty Oręż
 - Przerażenie
+- Przełamanie Strachu
 - Wytrzymałość na Żywioły
 - Zadawanie Lekkich Ran
 - Zagłada
