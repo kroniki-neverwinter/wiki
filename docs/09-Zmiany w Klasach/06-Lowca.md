@@ -2,6 +2,12 @@
 sidebar_label: 'Łowca'
 ---
 
+# Łowca
+
+### Czarowanie
+
+Łowca posługuje się magią objawień i aby rzucać zaklęcia musi wyznawać bóstwo natury.\
+Więcej informacji na [Discrodzie](https://discord.com/channels/752493729289601025/1351930196344967178).
 
 ### Statystyki
 
