@@ -1,9 +1,12 @@
 ---
 sidebar_label: 'Kapłan'
 ---
+
+# Kapłan
+
 ### Wymagania
 
-Przed rozpoczęciem gry kapłanem należy wysłać kartę postaci do MG. Dopiero po jej zatwierdzeniu można rozpocząć rozgrywkę.
+Przed rozpoczęciem gry kapłanem należy wysłać [kartę postaci](https://wiki.nwn.net.pl/karta-postaci) do MG. Dopiero po jej zatwierdzeniu można rozpocząć rozgrywkę.
 
 ### Kapłani w Faerûnie
 
@@ -17,8 +20,11 @@ Kapłani dobrych, powszechnie uważanych za pomocne, bóstw Faerûnu cieszą si�
 W oczach przeciętnego mieszkańca Faerûnu nawet proste zasklepienie rany magią czy też wyleczenie przeciągającej się choroby jest istnym cudem, który zazwyczaj jest poza ich zasięgiem. Dostęp do magii objawień jest drogi, uważany nierzadko za przywilej szlachty oraz zamożnych mieszczan - dla zobrazowania skali: dniówka przeciętnego mieszkańca Wybrzeża Mieczy waha się od 1 srebrnika do 1 sztuki złota, zaś cena Mikstury Zdjęcia Choroby to w realiach Zapomnianych Krain aż 750 sztuk złota.\
 Należy pamiętać, że awanturnicy i bohaterowie PC operują zupełnie innymi zasobami niż przeciętny plebejusz bez żadnej specjalizacji, dlatego też pojawienie się przyjaznego kapłana w mieście czy wiosce to dla wielu ludzi powód do radości i świętowania.
 
-W świecie Zapomnianych Krain wszyscy posługujący się magią objawień **zobowiązani** są posiadać bóstwo opiekuńcze, gdyż mechanika tego świata nie pozwala na szeroko pojęty ateizm. Sama magia objawień - choć płynie ze Splotu - to zsyłana jest przez konkretne bóstwo, zwane patronem.\
-**Lista wszystkich dostępnych mechanicznie bóstw na serwerze Kroniki Neverwinter dostępna jest w zakładce [Bogowie](https://wiki.nwn.net.pl/docs/Podstawowe%20informacje/Bogowie).**
+W świecie Zapomnianych Krain wszyscy posługujący się magią objawień **zobowiązani** są posiadać bóstwo opiekuńcze, gdyż mechanika tego świata nie pozwala na szeroko pojęty ateizm. Sama magia objawień - choć płynie ze Splotu - to zsyłana jest przez konkretne bóstwo, zwane patronem.
+
+### Dostępne bóstwa
+
+Lista wszystkich dostępnych mechanicznie bóstw na serwerze Kroniki Neverwinter dostępna jest w zakładce **[Bogowie](https://wiki.nwn.net.pl/docs/Podstawowe%20informacje/Bogowie).**
 
 ### Wybór domen
 
