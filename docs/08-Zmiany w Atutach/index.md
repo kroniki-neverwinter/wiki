@@ -17,6 +17,10 @@ title: 'Zmiany w atutach'
 **Opis**: Postać może poświęcić jedną ze swych prób odpędzania nieumarłych, aby dodać swoją premię z Charyzmy do swojej klasy pancerza, na liczbę rund oodpowiadającą wysokości tej premii + 5. Maksymalna premia wynosi poziom w klasie objawień, przy czym poziomy w klasach Kapłana/Czarnego Strażnika lub Kapłana/Paladyna sumują się.\
 **Użycie**: Po wybraniu.
 
+### Jeździectwo
+
+Jest niedostępne.
+
 ### Niszczycielskie trafienie krytyczne
 
 **Rodzaj atutu**: bojowy\
@@ -30,12 +34,20 @@ title: 'Zmiany w atutach'
 | Średnia       | 100                 |
 | Mała          | 50                  |
 
+### Pisanie Zwojów
+
+**Zastosowanie w autorskim systemie rzemiosła**: [Pisanie Zwojów](https://wiki.nwn.net.pl/docs/Systemy%20Rzemios%C5%82a/Pisanie%20zwojow)
+
 ### Potężny Atak
 
 **Rodzaj atutu**: ogólny.\
 **Wymagania**: Siła 13+.\
 **Opis**: ten atut pozwala postaci wykonać atak z karą -5 do trafienia, ale z premią +5 do obrażeń. Jest to wyjątkowo przydatne w walce z wytrzymałymi, ale łatwymi do trafienia przeciwnikami. Premia do obrażeń jest podwojona, jeśli postać walczy bronią dwuręczną.\
 **Używanie**: w walce.
+
+### Tworzenie Różdżek
+
+**Zastosowanie w autorskim systemie rzemiosła**: [Tworzenie Różdżek](https://wiki.nwn.net.pl/docs/Systemy%20Rzemios%C5%82a/Tworzenie%20rozdzek)
 
 ### Ulepszony Potężny Atak
 
@@ -44,7 +56,7 @@ title: 'Zmiany w atutach'
 **Opis**: ten atut pozwala postaci wykonać atak z karą -10 do trafienia, ale z premią +10 do obrażeń. Jest to wyjątkowo przydatne w walce z wytrzymałymi, ale łatwymi do trafienia przeciwnikami. Premia do obrażeń jest podwojona, jeśli postać walczy bronią dwuręczną.\
 **Używanie**: w walce.
 
-### Ważenie mikstur
+### Ważenie Mikstur
 
 **Zastosowanie w autorskim systemie rzemiosła**: [Alchemia](https://wiki.nwn.net.pl/docs/Systemy%20Rzemios%C5%82a/Alchemia#specjalne-premie)
 
