@@ -47,7 +47,7 @@ Każdy mnich w Zapomnianych Krainach zobowiązany jest przynależeć do konkretn
 
 Oprócz Kamy, mnich może także używać następujących broni w trybie **Gradu Ciosów**:
 
-- Katar
+- Bojowe Koło Wiatru i Ognia
 - Kostur
 - Nunczako
 - Sai
