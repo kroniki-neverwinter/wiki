@@ -55,7 +55,7 @@ Pieśniarz Klingi może wybrać premiowy atut z listy: Dowolny atut metamagiczny
 
 **Poziom 3: Płacząca Klinga**
 
-Pieśniarz Klingi wykorzystując 5 użyć 'Pieśni Barda' jest w stanie nadać swojej broni tymczasowe właściwości 'Ostrość' oraz +1 obrażeń dźwiękowych. Efekt utrzymuję się godzinę/poziom Pieśniarza.
+Pieśniarz Klingi wykorzystując 1 użycie 'Pieśni Barda' jest w stanie nadać swojej broni tymczasowe właściwości 'Ostrość' oraz +1 obrażeń dźwiękowych. Efekt utrzymuję się turę/poziom Pieśniarza.
 
 **Poziom 5: Premiowy Atut**
 
