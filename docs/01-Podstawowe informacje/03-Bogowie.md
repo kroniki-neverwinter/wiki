@@ -269,6 +269,11 @@ Jednak nie wszyscy okazują im posłuch – szlachta, władcy, bogaci kupcy czy 
 **Łączenie z klasami:** wojownik, barbarzyńca, łowca\
 **Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
 
+#### **Valkur**
+**Domeny:** Powietrze, Chaos, Dobro, Ocean, Ochrona, Gniew\
+**Łączenie z klasami:** łotrzyk, wojownik\
+**Możliwość gry klasą Boski Czempion (Czempion Torma):** TAK
+
 #### **Velsharoon**
 **Domeny:** Chciwość, Magia, Śmierć, Zazdrość, Zło, Duma, Nieśmierć\
 **Łączenie z klasami:** czarodziej (specjalista nekromancji)\
