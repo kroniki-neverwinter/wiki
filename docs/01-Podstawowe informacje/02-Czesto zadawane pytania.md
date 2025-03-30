@@ -4,7 +4,7 @@ sidebar_label: 'Często zadawane pytania'
 
 # Często zadawane pytania
 
-### 1. W książce którą kupiłem 12 lat temu dla mojego siostrzeńca, Drizzt wspominał o Ważnym Wydarzeniu Fabularnym "X" które miało miejsce w Faerunie/Neverwinter w roku 1370. Na serwerze nie wzięliście tego pod uwagę, dlaczego?
+### 1. W książce którą kupiłem 12 lat temu dla mojego siostrzeńca, Drizzt wspominał o Ważnym Wydarzeniu Fabularnym "X" które miało miejsce w Faerunie/Neverwinter w roku 1372. Na serwerze nie wzięliście tego pod uwagę, dlaczego?
 
 Serwer jest naszą adaptacją świata Zapomnianych Krain (Forgotten Realms). Chociaż w dużej mierze bazujemy na książkach i ogólnodostępnej wiedzy z internetu, zastrzegamy sobie prawo do modyfikacji lub pominięcia pewnych elementów fabuły oryginalnego świata. Ostatecznie, to Administracja decyduje o fabule serwera.
 
@@ -12,11 +12,11 @@ To tak jak z książkami o Wiedźmienie i serialem "Wiedźmin". Tutaj my jesteś
 
 ### 2. Co z "Zarazą"? Była, będzie?
 
-Jeszcze nie, ponad to patrz punkt 1.
+Ani widu, ani słychu, ponad to patrz punkt 1.
 
 ### 3. Widziałem Aribeth, przecież to zdrajczyni Neverwinter! Czemu jest w mieście?
 
-Fabuła serwera toczy się przed wydarzeniami z kampanii NWN1, ponad to nie zamierzamy kalkować całej fabuły. Patrz punkt 1.
+Fabuła serwera zaczęła się przed wydarzeniami z kampanii NWN1, ponad to nie zamierzamy kalkować całej fabuły. Patrz punkt 1.
 
 ### 4. Czy na 40 poziomie moja postać zostaje bogiem?
 
