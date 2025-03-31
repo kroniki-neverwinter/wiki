@@ -63,7 +63,7 @@ Wieloklasowcy otrzymują karę -20% doświadczenia zdobywanego za potwory, zgodn
 ## Punkty doświadczenia wymagane do awansu
 Ilość PD wymaganych do awansu została zwiększona o dodatkowe 10.000 na poziomach powyżej 10. 
 
-Np. 11 poziom oryginalnie wymagał 55.000, obecnie wymaga 65.000. 13 poziom to już 108.000 (originalne 78.000 + 3 * 10.000).
+Np. 11 poziom oryginalnie wymagał 55.000, obecnie wymaga 65.000. 13 poziom to już 108.000 (oryginalne 78.000 + 3 * 10.000).
 
 | Poziom | Wymagane punkty doświadczenia |
 |--------|-------------------------------|
