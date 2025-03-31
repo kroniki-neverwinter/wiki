@@ -9,6 +9,10 @@ sidebar_label: 'Zdobywanie doświadczenia'
 
 Po zabiciu **20 potworów** jednego rodzaju, otrzymywane doświadczenie jest zmniejszone o **50%**. Limit ten obowiązuje przez **2 godziny**.
 
+## Kary za wieloklasowość
+
+Wieloklasowcy otrzymują karę -20% doświadczenia zdobywanego za potwory, zgodnie ze [**standardowaymi zasadami gry**](https://nwn.fandom.com/wiki/Multiclass_penalty).
+
 ## System Autoexpa Mefisto (SAM)
 
 Postać otrzymuje co godzinę **200 XP + 75** za każdy poziom autoexpa.
@@ -50,3 +54,8 @@ Punkty do statusu gracza nie są naliczane wstecz, na podstawie punktów SAM zdo
 :::
 
 ![book](../../static/img/wiki/wiki-systemy/player_status.png)
+
+## Doświadczenie za odgrywanie
+
+W miarę odgrywania w grze na kanale "Rozmowa" i "Szept", postać co jakiś czas dostaje trochę doświadczenia.\
+Częstość otrzymywania XP za odgrywanie zależy od wielu zmiennych, takich jak: ilość osób biorących udział w odgrywce oraz długość i częstotliwość pisanego tekstu (minimalnie 3 minuty, w praktyce 5-15 minut).
