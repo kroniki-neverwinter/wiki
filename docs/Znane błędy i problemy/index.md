@@ -4,25 +4,28 @@ title: 'Znane błędy i problemy'
 ---
 
 
-Chociaż nasza ekipa dokłada wszelkich starań, aby zapewnić najwyższą jakość rozgrywki, czasami też się mylimy. Pewne błędy wymagają również większej ilości czasu aby je poprawić.
+Chociaż nasza ekipa dokłada wszelkich starań, aby zapewnić najwyższą jakość rozgrywki, czasami też się mylimy.\
+Pewne błędy czy ulepszenia wymagają również większej ilości czasu.
 
-### Poniżej znajduje się lista znanych niedogodności.
+Poniżej znajdują się ogólne informacje, a lista konkretów jest dostępna na forum [`bugi`](https://discord.com/channels/752493729289601025/1147127141226520627) na Discrodzie.
 
-**1. Edycja wyglądu postaci i ubioru**
+## Poniżej znajduje się lista znanych niedogodności
 
-Przy edycji wyglądu niektóre kolory mogą się nie zgadzać z ikonami lub nie działać.
+### 1. Edycja wyglądu postaci i ubioru
 
-Przy edycji ubioru niektóre wyglądy/kolory mogą być niedostępne. Część wyglądów będzie wyświetlana jako brakujący element (pusty/niewidzialny element).
+Wciąż pracujemy nad wyeliminowaniem wszystkich błędów na Manekinie i w Lustrze.\
+Głównym mankamentem są obecnie nieprawidłowo wyświetlone ikonki kolorów. Kolory nakładają się prawidłowo, jako pomoc można użyć poniższego screenshota by zobaczyć właściwą ikonę kolorów (kolory są w poprawnych miejscach w NUI):\
+![kolory_postac_ubior](../../static/img/wiki/kolory_postac_ubior.png)
 
-**2. Systemy rzemiosła**
+### 2. Dialogi i questy mechaniczne
 
-System alchemii w tej chwili jeszcze nie jest dostępny (w przygotowaniu).
+Ilość dialogów u NPC jest ograniczona, z czasem dla urozmaicenia rozgrywki będzie ich więcej.\
+Questy mechaniczne nie wszystkie jeszcze działają i w przyszłości chcemy dorobić kolejne.
 
-**3. System dropa**
+### 3. Lokacje i systemy
 
-Różnorodność niektórych przedmiotów, np. zwojów może być ograniczona.
+Zaimplementowaliśmy sporo systemów do urozmaicenia lokacji i eksploracji, jednak jeszcze nie wszystko udało się wprowadzić w życie na module. Stopniowo będą dochodzić, tak jak i dodatkowe obszary.
 
-**4. Dialogi i questy**
+### 4. Klasy
 
-Ilość dialogów u NPC jest na ten moment ograniczona, również część dialogów jest niepełna bądź nieoskryptowana.
-Podobnie z questami mechanicznymi, nie wszystkie mogą działać i w przyszłości dojdzie ich też więcej.
+Kilka elementów w klasach/atutach/umiejętnościach wymaga wciąż doszlifowania. Nowe klasy również będą dochodzić w późniejszym terminie.
