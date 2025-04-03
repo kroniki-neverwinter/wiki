@@ -41,13 +41,14 @@ Koncentracja\
 Parowanie\
 Prowokacja\
 Wiedza (Szlachta i Władcy)\
-Wiedza (Tajemna)\
+Wiedza (Tajemna)
 
 ### Zdolności klasowe
 
 **Poziom 1: Pieśń Klingi**
 
-Pieśniarz Klingi dzierżący w prawej ręce rapier (i nic w drugiej) jest w stanie użyć trzy razy dziennie zdolności czaropodobnej dającej mu +1 premii do KP za unik, za każdy punkt modyfikatora z intelektu (ale nie więcej niż poziom w klasie Pieśniarza). Czas trwania umiejetności to godzina/poziom Pieśniarza Klingi.
+Pieśniarz Klingi dzierżący w prawej ręce rapier (i nic w drugiej) jest w stanie użyć trzy razy dziennie zdolności czaropodobnej dającej mu +1 premii do KP za unik, za każdy punkt modyfikatora z intelektu (ale nie więcej niż poziom w klasie Pieśniarza). Czas trwania umiejetności to godzina/poziom Pieśniarza Klingi.\
+KP z tego atutu nie sumuje się z KP uzyskanym za atut [Sprytna Obrona](https://wiki.nwn.net.pl/docs/Nowe%20Klasy/Szermierz#zdolno%C5%9Bci-klasowe) z klasy Szermierza.
 
 **Poziom 2: Premiowy Atut**
 
