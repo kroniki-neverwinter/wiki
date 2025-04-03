@@ -28,18 +28,19 @@ Typowy BN należący do tej klasy prestiżowej to samotnik szukający przygody o
 Akrobatyka\
 Blef\
 Dyscyplina\
+Nasłuchiwanie\
 Parowanie\
 Prowokacja\
 Spostrzegawczość\
 Wiedza (Szlachta i Władcy)\
-Wyczucie Pobudek\
-Zastraszanie
+Wyczucie Pobudek
 
 ### Zdolności klasowe
 
 **Poziom 1: Sprytna Obrona**
 
-Szermierz dzierżący w prawej ręce lekką, finezyjną broń (i nic w drugiej), bez zbroi, jest w stanie użyć trzy razy dziennie zdolności czaropodobnej dającej mu +1 premii do KP za unik, za każdy punkt modyfikatora z intelektu (ale nie więcej niż poziom w klasie Szermierza). Czas trwania umiejetności to godzina/poziom Szermierza.
+Szermierz dzierżący w prawej ręce lekką, finezyjną broń (i nic w drugiej), bez zbroi, jest w stanie użyć trzy razy dziennie zdolności czaropodobnej dającej mu +1 premii do KP za unik, za każdy punkt modyfikatora z intelektu (ale nie więcej niż poziom w klasie Szermierza). Czas trwania umiejetności to godzina/poziom Szermierza.\
+KP z tego atutu nie sumuje się z KP uzyskanym za atut [Pieśń Klingi](https://wiki.nwn.net.pl/docs/Nowe%20Klasy/PiesniarzKlingi#zdolno%C5%9Bci-klasowe) z klasy Pieśniarza Klingi. 
 
 **Poziom 2: Oślepiająca Szybkość**
 
