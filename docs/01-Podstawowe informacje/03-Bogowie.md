@@ -154,6 +154,11 @@ Jednak nie wszyscy okazują im posłuch – szlachta, władcy, bogaci kupcy czy 
 **Łączenie z klasami:** czarownik, wojownik, czarodziej (specjalista iluzji lub oczarowań), mnich\
 **Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
 
+#### **Lurue**
+**Domeny:** Zwierzęta, Dobro, Chaos, Leczenie, Gorliwość, Fey\
+**Łączenie z klasami:** łowca\
+**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+
 #### **Malar**
 **Domeny:** Zwierzęta, Bestie, Chaos, Zło, Obżarstwo, Łowy, Księżyc, Siła, Gniew\
 **Łączenie z klasami:** barbarzyńca, łowca, druid\
