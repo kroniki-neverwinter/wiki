@@ -17,9 +17,9 @@ title: 'Zmiany w atutach'
 **Opis**: Postać może poświęcić jedną ze swych prób odpędzania nieumarłych, aby dodać swoją premię z Charyzmy do swojej klasy pancerza, na liczbę rund oodpowiadającą wysokości tej premii + 5. Maksymalna premia wynosi poziom w klasie objawień, przy czym poziomy w klasach Kapłana/Czarnego Strażnika lub Kapłana/Paladyna sumują się.\
 **Użycie**: Po wybraniu.
 
-### Jeździectwo
+### Działania Dotyczące Wierzchowców
 
-Jest niedostępne.
+Nie ma zastosowania, jak i wszelkie inne atuty związane z jeździectwem.
 
 ### Niszczycielskie trafienie krytyczne
 
