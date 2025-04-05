@@ -29,4 +29,4 @@ Na serwerze obowiązuje kara za odrodzenie w wysokości:
 - Do 20 poziomu: **60 PD** x poziom postaci
 - Postać epicka: **75 PD** x poziom postaci
 
-Do **5 poziomu** (włącznie) postać odrodzi się w **świątyni Tyra**, później można wybrać miejsce odrodzenia (**Starożytny Obelisk**).
+Do **5 poziomu** (włącznie) postać odrodzi się w **miejskiej świątyni**, później można wybrać miejsce odrodzenia (**Starożytny Obelisk**).
