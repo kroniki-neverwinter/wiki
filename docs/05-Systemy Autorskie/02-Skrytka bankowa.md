@@ -5,11 +5,11 @@ sidebar_label: 'Skrytki bankowe'
 
 # Skrytki bankowe
 
-*"Martwisz się o swoje środki? Kieszonkowcy nie dają ci spokoju? Mamy rozwiązanie na twój problem! Już dziś zgłoś się do oddziału naszego banku w Neverwinter i zabezpiecz swoje oszczędności i swoją przyszłość."*
+*"Martwisz się o swoje środki? Kieszonkowcy nie dają ci spokoju? Mamy rozwiązanie na twój problem! Już dziś zgłoś się do oddziału naszego banku w Neverwinter, Port Llast, bądź Luskan i zabezpiecz swoje oszczędności i swoją przyszłość."*
 
 ## Komu przysługuje skrytka bankowa?
 
-Każdy mieszkaniec i nowoprzybyły w mieście Neverwinter otrzymuje konto bankowe i małą skrytkę. Wystarczy udać się do oddziału banku w Żebraczym Gnieździe i porozmawiać z przedstawicielem bądź użyć skrytek otwierających indywidualne sfery kieszonkowe
+Każdy mieszkaniec i nowoprzybyły otrzymuje konto bankowe i małą skrytkę. Wystarczy udać się do oddziału banku i porozmawiać z przedstawicielem bądź użyć skrytek otwierających indywidualne sfery kieszonkowe
 
 ![Bank](../../static/img/wiki/bank-deposit.png)
 
@@ -35,4 +35,4 @@ Skrytek nie można przepisać na inną osobę.
 
 Przelewy na skrytki innych osób nie są wspierane.
 
-W przypadku śmierci właściciela, wszelkie środki i przedmioty stają się własnością banku, jeśli w ustalonym prawnie okresie nie uda się odnaleźć ostatniej woli. Wszelkie sprawy spadkowe są regulowane przez Tyrowy Sąd Najwyższy.
+W przypadku śmierci właściciela, wszelkie środki i przedmioty stają się własnością banku, jeśli w ustalonym prawnie okresie nie uda się odnaleźć ostatniej woli.
