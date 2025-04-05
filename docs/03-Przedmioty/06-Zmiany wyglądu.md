@@ -13,6 +13,12 @@ Aby zmienić wygląd broni najpierw weź w rękę Lekki Młot i kliknij na kowad
 
 Aby zmienić wygląd tarczy kliknij na kowadło dzierżąc Lekki Młot, a do drugiej ręki weź tarczę. Wybierz odpowiednią opcję z okienka.
 
+:::warning
+
+Zmian można dokonywać tylko na losowych przedmiotach ze skrzynek/potworów, które mają opis "stalowy" bądź lepszy.
+
+:::
+
 ## Zbroje, szaty, płaszcze, kaptury oraz hełmy
 
 Wygląd poszczególnych części ubrania postaci zmienisz za pomocą manekinów. Te znajdziesz m. in. w kuźniach czy sklepach z ubraniami.
