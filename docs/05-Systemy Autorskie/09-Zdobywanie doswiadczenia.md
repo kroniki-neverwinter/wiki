@@ -47,6 +47,30 @@ Punkty do statusu gracza nie są naliczane wstecz, na podstawie punktów SAM zdo
 
 ![book](../../static/img/wiki/wiki-systemy/player_status.png)
 
+### Uzależnienie "maksymalnego poziomu" od punktów SAM, wg. poniszego wzoru:
+0 punktów SAM: max 11 poziom\
+1 punkt SAM: max 12 poziom\
+2 punkty SAM: max 14\
+3 punkty SAM: max 16\
+4 punkty SAM: max 18\
+5 punktów SAM: max 20\
+10 punktów SAM: bez ograniczeń
+
+#### Jak to działa? 
+- jeśli mam 0 punktów SAM, mogę uzyskać maksymalnie 11 poziom, po czym PD za potwory zostaną zablokowane
+- jeśli mam 1 punkt SAM, mogę uzyskać maksymalnie 12 poziom, po czym PD za potwory zostaną zablokowane\
+...
+- jeśli mam 5 punktów SAM, mogę uzyskać maksymalnie 20 poziom, po czym PD za potwory zostaną zablokowane
+
+#### Ratunku, nigdy nie miałem więcej niż 1 punkt SAM! Jak grać?!
+Dzięki nowemu systemowi, a.k.a. "Storytelling", MG będą mogli obserwować każdy ruch twojej postaci i każdą odgrywkę, nawet jeśli w danym momencie nie będzie MG na serwerze. Umożliwi to lepsze przyznawanie nagród i punktów SAM (tak, nawet dla postaci nie biorących udziału w przygodach - np. ze względu na grę w "dziwnych" porach dnia; wystarczy odgrywać). 
+
+:::info
+
+Blokada PD nie objemuje rzemiosła, odgrywania ani Autoexpa. 
+
+:::
+
 ## Doświadczenie za odgrywanie
 
 W miarę odgrywania w grze na kanale "Rozmowa" i "Szept", postać co jakiś czas dostaje trochę doświadczenia.\
