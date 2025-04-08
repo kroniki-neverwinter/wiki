@@ -76,7 +76,16 @@ Korzystanie z pomocy narzędzi AI do napisania karty postaci nie jest zabronione
 
 Ekipa zastrzega sobie prawo do zwrócenia się do gracza z prośbą o przygotowanie Karty, dla postaci, które swoją kombinacją cech/ras/klas/charakteru/wyznania bądź sposobu odgrywania budzą wątpliwości i ewidentnie odstają od standardów świata przedstawionego.
 
-### 9. Zabójstwa
+### 9. "Motywacja" w Lokacji Startowej
+
+Pole "Motywacja", które widnieje podczas dopracowywania postaci po pierwszym zalogowaniu na serwer jest **obowiązkowe** dla każdego (niezależnie od tego, czy KP została wysłana czy nie). 
+
+- Osoby, które wysłały Kartę Postaci, mogą tam wpisać bezpośredni powód, dla któego postać zawitała do wybranego miasta startowego (jeśli była ta informacja zawarta w pełnej KP, po prostu ją skopiuj).
+- Inni mają obowiązek napisać tam kilka słów o swojej postaci, aby Mistrzowie Gry mogli dowiedzieć się o niej bazowych informacji, jak również o celu przybycia do wybranego miasta lub pobytu tam (jeśli z niego się wywodzi).
+
+Pisanie w oknie Motywacji byle czego (losowych słów, czy zdań mających na celu spełnienie wymogu limitu znaków, bez żadnej treści) będzie skutkować usunięciem postaci i konieczności zrobienia jej ponownie, bez żadnych refundacji. Wpis w okienku powinien być przemyślaną motywacją i zarysem fabularnym.
+
+### 10. Zabójstwa
 
 - W walkach PvP postacie graczy nie muszą walczyć do śmierci.
 
@@ -98,7 +107,7 @@ W przypadku walk w trybie "normalnym" pokonany ma całkowitą amnezję obejmują
 - Gracz w zmienionej postaci (polimorfia) może być atakowany jak zwykły potwór. Należy przy tym mieć na uwadze, że beztrosko biegający w pobliżu miasta troll jest oczywistym zagrożeniem, ale wróżka już nie. Atak jest dozwolony tylko w przypadku gdy nie widzieliśmy przemiany gracza.
 Ze zwłok postaci można bez konsekwencji wyciągnąć za pomocą kradzieży kieszonkowej dowolną ilość przedmiotów i złota.
 
-### 10. Pułapki
+### 11. Pułapki
 
 Zabrania się zastawiania pułapek w określonych przypadkach:
 
@@ -107,13 +116,13 @@ na przejściach pomiędzy lokacjami
 na drzwiach i obiektach interaktywnych (wyjątkiem mogą być np. drzwi i obiekty WEWNĄTRZ posiadłości gracza)
 na traktach, chyba że jest to DOBRZE umotywowane fabularnie
 
-### 11. Straty spowodowane błędami gry
+### 12. Straty spowodowane błędami gry
 
 Administracja nie odpowiada za straty graczy wynikłe z powodu crashów gry, padów neta itp. W przypadku strat wynikających z błędów gry lub serwera czy też czynników wcześniej wymienionych gracz może odzyskać stratę, a jeśli nie będzie to możliwe, to uzyskać rekompensatę - zależy to jednak od werdyktu administracji serwera.
 
 Podstawą do ubiegania się o jakiekolwiek odszkodowania są screeny, w innym wypadku istnieje duże prawdopodobieństwo, że wniosek zostanie odrzucony. Ideą serwera jest przede wszystkim wspólne odgrywanie, a nie gromadzenie złota i XP - radzę o tym pamiętać przed składaniem podań o zwrócenie 100 punktów doświadczenia itp.
 
-### 12. Botowanie
+### 13. Botowanie
 
 Zakazuje się tworzenia postaci typu „bot”, które podążają za główną postacią gracza, np. w celu rzucania czarów wspomagających, ale są kontrolowane przez właściciela głównej postaci. Za „bota” może być uznana postać która nie odgrywa i nie odpisuje na wiadomości od MG.
 
@@ -174,7 +183,7 @@ Kilka subras jest dozwolonych (w przyszłości będzie możliwość ich wybrania
 
 Pozostałe subrasy mogą być ustawione **TYLKO** po konsultacji z MG. Gracz może też zostać zobligowany do stworzenia najpierw szczegółowej Karty Postaci. Mogą też pojawić się nieudogodnienia, np. zmniejszenie reputacji dla subras powszechnie nie akceptowanych na powierzchni, itp.
 
-**Ważne! => Nie ma mechanicznych bonusów dla żadnej subrasy.**
+**Ważne! => Nie ma mechanicznych bonusów dla żadnej subrasy, której nie da się wybrać mechanicznie jako rasę.**
 
 ### 4. Wiek, waga, wzrost
 
