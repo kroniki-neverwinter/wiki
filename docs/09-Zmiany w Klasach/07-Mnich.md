@@ -2,6 +2,10 @@
 sidebar_label: 'Mnich'
 ---
 
+### Wymagania
+
+Przed rozpoczęciem gry mnichem należy wysłać [kartę postaci](https://wiki.nwn.net.pl/karta-postaci) do MG. Dopiero po jej zatwierdzeniu można rozpocząć rozgrywkę.
+
 ### Zakony mnichów
 
 Każdy mnich w Zapomnianych Krainach zobowiązany jest przynależeć do konkretnego zakonu, który najczęściej powiązany jest również z konkretnym, wyznawanym przez mnichów bóstwem. Mnich, który świadomie odchodzi z zakonu, bądź też zostaje z niego wydalony z powodu swoich działań, **traci możliwość awansu w klasie Mnicha**.
