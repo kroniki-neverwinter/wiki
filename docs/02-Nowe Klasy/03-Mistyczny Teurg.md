@@ -20,8 +20,8 @@ Teurgów fascynuje magi niemal w każdej postaci. Niemal nieustannie poszukują 
 **Punkty Umiejętności:** 3 + Modyfikator Inteligencji.\
 **Bazowa premia do ataku:** niska (1/2)\
 **Wysoki rzut obronny:** Wola\
-**Czary na dzień/znane czary:** Co poziom Teurga liczba rzucanych przez niego czarów na dzień zwiększa się tak, jakby zdobył poziom w klasie rzucającej zarówno zaklęcia wtajemniczeń, jak i objawień.\
-_**Uwaga!** ze względu na ograniczenia silnika gry nie doradzamy łączenia Teurga z Czarownikiem. Taka postać w klasie Czarownika uzyska jedynie bonus do poziomu zaklęć, NIE otrzyma zaklęć ani kręgów zaklęć. Przy łączeniu Teurga z Czarodziejem te ograniczenia silnika gry nie obowiązują._
+**Czary na dzień/znane czary:** Teurg otrzymuje co **1 poziom** zaklęcia w swojej klasie czarującej (dotyczy zarówno Czarodzieja dla magii mistycznej jak i Kapłana/Druida dla magii objawień) oraz +1 do poziomu rzucającego (czyli +30 na 30 poziomie Mistycznego Teurga).\
+_**Uwaga!** ze względu na ograniczenia silnika gry nie doradzamy łączenia tej klasy z klasami, które nie posiadają miejsc na zaklęcia (spellslots). Taka postać w klasie np. Czarownika uzyska jedynie bonus do poziomu zaklęć, NIE otrzyma zaklęć ani kręgów zaklęć. Przy łączeniu z klasami, które mają miesjca na zaklęcia (np. Czarodziej) te ograniczenia silnika gry nie obowiązują._
 
 ### Wymagania
 
