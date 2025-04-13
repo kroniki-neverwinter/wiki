@@ -19,7 +19,8 @@ Mistyczny Sztukmistrz to osoba samodzielna, korzystająca głównie ze swoich w�
 **Punkty Umiejętności:** 5 + Modyfikator Inteligencji.\
 **Bazowa premia do ataku:** niska (1/2)\
 **Wysoki rzut obronny:** Refleks, Wola\
-**Czary na dzień/znane czary:** Co poziom Mistycznego Sztukmistrza liczba rzucanych przez niego czarów na dzień zwiększa się tak, jakby zdobył poziom w klasie czarującej.
+**Czary na dzień/znane czary:** Sztukmistrz otrzymuje co **1 poziom** zaklęcia w swojej klasie czarującej (dotyczy Czarodzieja) oraz +1 do poziomu rzucającego (czyli +30 na 30 poziomie Mistycznego Sztukmistrza).\
+_**Uwaga!** ze względu na ograniczenia silnika gry nie doradzamy łączenia tej klasy z klasami, które nie posiadają miejsc na zaklęcia (spellslots). Taka postać w klasie np. Czarownika uzyska jedynie bonus do poziomu zaklęć, NIE otrzyma zaklęć ani kręgów zaklęć. Przy łączeniu z klasami, które mają miesjca na zaklęcia (np. Czarodziej) te ograniczenia silnika gry nie obowiązują._
 
 ### Wymagania
 **Charakter:** dowolny niepraworządny\
