@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Pisanie notatek'
+sidebar_label: 'Storytelling'
 ---
 
 
