@@ -18,7 +18,7 @@ Postać może wytwarzać tylko jeden przedmiot w danym momencie, dotyczy to każ
 
 ### Poziomy wtajemniczenia
 
-Nowicjusze w rzemiośle nie znają tajników pracy ze specjalnymi materiałami. Aby tworzyć jedwabną szatę potrzeba przynajmniej 8 poziomu krawiectwa. Karkarisowa szata wymaga aż 10 poziomu.
+Nowicjusze w rzemiośle nie znają tajników pracy ze specjalnymi materiałami. Aby tworzyć jedwabną szatę potrzeba przynajmniej 7 poziomu krawiectwa. Karkarisowa szata wymaga aż 9 poziomu.
 
 ### Specjalne właściwości
 
@@ -60,13 +60,13 @@ Nowicjusze w rzemiośle nie znają tajników pracy ze specjalnymi materiałami. 
 Każdy krawiec ma szansę na wytworzenie przedmiotu z miejscami na runę. Zwykły przedmiot może mieć maksymalnie 1 runę, jedwabny 2, a karkarisowy 3.
 
 Szansa na 1 miejsce na runę:\
-``poziom Krawiectwa + poziomy w klasie łotra i barda vs k100``
+``poziom Krawiectwa + poziomy w klasie łotra i barda vs k50``
 
 Szansa na 2 miejsca na runę:\
-``poziom Krawiectwa/2 + poziomy w klasie łotra i barda/2 vs k100``
+``poziom Krawiectwa/2 + poziomy w klasie łotra i barda/2 vs k50``
 
 Szansa na 3 miejsca na runę:\
-``poziom Krawiectwa/5 + poziomy w klasie łotra i barda/5 vs k100``
+``poziom Krawiectwa/5 + poziomy w klasie łotra i barda/5 vs k50``
 
 ### Znak markowy
 

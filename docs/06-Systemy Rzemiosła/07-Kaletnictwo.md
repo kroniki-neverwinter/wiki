@@ -18,7 +18,7 @@ Postać może wytwarzać tylko jeden przedmiot w danym momencie, dotyczy to każ
 
 ### Poziomy wtajemniczenia
 
-Nowicjusze w rzemiośle nie znają tajników pracy ze specjalnymi materiałami. Aby tworzyć przedmiot ze skóry Monstrualnego Niedźwiedzia potrzeba przynajmniej 8 poziomu kaletnictwa. Przedmioty ze skóry Wiwerny wymagają aż 10 poziomu.
+Nowicjusze w rzemiośle nie znają tajników pracy ze specjalnymi materiałami. Aby tworzyć przedmiot ze skóry Monstrualnego Niedźwiedzia potrzeba przynajmniej 7 poziomu kaletnictwa. Przedmioty ze skóry Wiwerny wymagają aż 9 poziomu.
 
 ### Specjalne właściwości
 
@@ -89,13 +89,13 @@ Premia do obrażeń ustalana jest według poniższej tabeli.
 Każdy kaletnik ma szansę na wytworzenie przedmiotu z miejscami na runę. Zwykły przedmiot może mieć maksymalnie 1 runę, ze skóry niedźwiedzia 2, a ze skóry wiwerny 3.
 
 Szansa na 1 miejsce na runę:\
-``poziom Kaletnictwa + poziomy w klasie barbarzyńcy, druida i łowcy vs k100``
+``poziom Kaletnictwa + poziomy w klasie barbarzyńcy, druida i łowcy vs k50``
 
 Szansa na 2 miejsca na runę:\
-``poziom Kaletnictwa/2 + poziomy w klasie barbarzyńcy, druida i łowcy/2 vs k100``
+``poziom Kaletnictwa/2 + poziomy w klasie barbarzyńcy, druida i łowcy/2 vs k50``
 
 Szansa na 3 miejsca na runę:\
-``poziom Kaletnictwa/5 + poziomy w klasie barbarzyńcy, druida i łowcy/5 vs k100``
+``poziom Kaletnictwa/5 + poziomy w klasie barbarzyńcy, druida i łowcy/5 vs k50``
 
 ### Znak markowy
 

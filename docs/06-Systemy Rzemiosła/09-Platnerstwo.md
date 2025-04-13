@@ -19,7 +19,7 @@ Postać może wytwarzać tylko jeden przedmiot w danym momencie, dotyczy to każ
 
 ### Poziomy wtajemniczenia
 
-Nowicjusze w rzemiośle nie znają tajników pracy ze specjalnymi metalami. Aby tworzyć zbroję adamantową potrzeba przynajmniej 8 poziomu kowalstwa. Mithralowa zbroja wymaga aż 10 poziomu.
+Nowicjusze w rzemiośle nie znają tajników pracy ze specjalnymi metalami. Aby tworzyć zbroję adamantową potrzeba przynajmniej 7 poziomu płatnerstwa. Mithralowa zbroja wymaga aż 9 poziomu.
 
 ### Specjalne właściwości
 
@@ -53,15 +53,15 @@ Każdy kowal ma szansę na wytworzenie zbroi (dotyczy również hełmu oraz karw
 
 Szansa na 1 miejsce na runę:
 
-``poziom Płatnerstwa + poziom w klasie wojownika vs k100``
+``poziom Płatnerstwa + poziom w klasie wojownika vs k50``
 
 Szansa na 2 miejsca na runę:
 
-``poziom Płatnerstwa/2 + poziom w klasie wojownika/2 vs k100``
+``poziom Płatnerstwa/2 + poziom w klasie wojownika/2 vs k50``
 
 Szansa na 3 miejsca na runę:
 
-``poziom Płatnerstwa/5 + poziom w klasie wojownika/5 vs k100``
+``poziom Płatnerstwa/5 + poziom w klasie wojownika/5 vs k50``
 
 ### Znak markowy
 
