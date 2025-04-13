@@ -17,7 +17,7 @@ Postać może wytwarzać tylko jeden przedmiot w danym momencie, dotyczy to każ
 
 ### Poziomy wtajemniczenia
 
-Nowicjusze w rzemiośle nie znają tajników pracy ze specjalnymi metalami. Aby tworzyć broń adamantową potrzeba przynajmniej 8 poziomu kowalstwa. Mithralowa broń wymaga aż 10 poziomu.
+Nowicjusze w rzemiośle nie znają tajników pracy ze specjalnymi metalami. Aby tworzyć broń adamantową potrzeba przynajmniej 7 poziomu kowalstwa. Mithralowa broń wymaga aż 9 poziomu.
 
 ### Specjalne właściwości
 
@@ -50,13 +50,13 @@ Dodatkowo, każdy kowal posiada zawsze **5% szans na wytworzenie broni z Potęż
 Każdy kowal ma szansę na wytworzenie broni z miejscami na runę. Stalowa broń może mieć maksymalnie 1 runę, adamantowa 2, a mithralowa 3.
 
 Szansa na 1 miejsce na runę:
-``poziom Kowalstwa + poziom w klasie wojownika vs k100``
+``poziom Kowalstwa + poziom w klasie wojownika vs k50``
 
 Szansa na 2 miejsca na runę:
-``poziom Kowalstwa/2 + poziom w klasie wojownika/2 vs k100``
+``poziom Kowalstwa/2 + poziom w klasie wojownika/2 vs k50``
 
 Szansa na 3 miejsca na runę:
-``poziom Kowalstwa/5 + poziom w klasie wojownika/5 vs k100``
+``poziom Kowalstwa/5 + poziom w klasie wojownika/5 vs k50``
 
 ### Znak markowy
 
