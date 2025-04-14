@@ -50,6 +50,7 @@ Zasadniczo postać na 2 poziomie nie ma prawa posiadać ekwipunku z mithrillu i 
 - **Odgrywanie powinno być zabawą dla wszystkich**. Wszelkiego typu sytuacje, które mogą uderzać w godność osobistą, być wyjątkowo okrutne, obsceniczne, szokujące czy po prostu niesmaczne mogą mieć miejsce tylko za zgodą obu stron.
 - Nie robimy logoutu w pokojach - zdaje mi się to dość oczywiste, dlaczego? A dlatego, żeby nie było dziwnych przypadków, że ktoś loguje się w pokoju zajętym przez kogoś innego i rzuca emotą, że wychodzi spod łóżka.
 - Poleca się stosowanie zasady zdrowego rozsądku wykonując różne akcje w grze. Na przykład, odpoczywanie postacią na środku ulicy, albo wprowadzanie dużych zwierząt do pomieszczeń nie jest zbyt fabularnym zachowaniem i będzie negatywnie odbierane przez straż czy mieszkańców miasta.
+- Zaklęcia mogą mieć różne efekty fabularne, jendak by wszystkim dobrze się grało należy zapoznać się z [**ustanowionymi zasadami**](https://wiki.nwn.net.pl/docs/category/zakl%C4%99cia).
 
 ### 8. Karta Postaci
 Napisanie Karty Postaci nie jest obowiązkowe dla większości klas by mieć możliwość gry na serwerze. Jednakże ekipa zachęca do jej przygotowania i wysłania. Karta Postaci pomaga Mistrzom Gry "poczuć" postać gracza, poznać jej motywacje, historie a także przygotować elementy osobiste na prowadzonych wątkach i questach, które trafią bezpośrednio w potrzeby danej postaci.
