@@ -16,3 +16,41 @@ Można ją wpisać na dowolnym kanale, po czym pojawią się dwa pola do uzupeł
 - (Opcjonalnie) Można załączyć plik - tekstowy, albo obrazek (np. screenshot z gry)
 
 Wysłane informacje pojawią się na forum MG.
+
+### Wytyczne
+Aby ekipa MG była w stanie odpowiedzieć na wszystkie wiadomości w miarę sprawnie, oto kilka wytycznych co do używania komendy:
+
+#### Jak?
+- Prosimy o ograniczenie się do wysłania **jednego storytellingu raz na 3 dni** (72 godziny) czasu rzeczywistego.
+- Tekst powinien być "In Character".
+- Jako plik można wysłać screenshot z odgrywki, ale również plik tekstowy.
+- Celem tej funkcji jest popychanie do przodu fabuły postaci i realizacji wątków, questów czy zapytań, które **wymagają interwencji MG**.
+
+:::info
+
+Forma tekstu może być dowolna - czy to opis, czy podpunkty - jak ci wygodniej. Ważne, aby było to akcja "In Character". Na zasadzie:
+" - Postać szuka informacji o kulcie Cyrika w księgozbiorze Skrytowieży, starając się zrozumieć jakie działania mogą podejmować wyznawcy."
+A nie:
+" - Czy jeśli postać spędzi w bibliotece 2 dni, to zdoła znaleźć informację o tym jak wygląda dogmat Cyrica?"
+
+:::
+
+#### Co?
+- Można opisywać działania postaci w grze, to z kim rozmawia, jakiego rodzaju informacji szuka.
+- Oficjalne listy do (ważnych) NPC.
+- Jeśli chcesz odnieść się do swoich cech czy umiejętności, zescreenuj odpowiedni tab z in-game karty postaci.
+
+:::info
+
+Rule of thumb:
+Jeśli przyjdzie wam do głowy coś, co wasza postać chce zrobic/dowiedzieć się/odszukać/skontaktować się/napisać i macie takie "Kurde, muszę napisać o tym do MG najpierw!" - to jest miejsce na Storytelling.
+Ale jeśli coś chcecie wysłać i gdyby ktoś inny wam to pokazał, jedyne co byście potrafili odpowiedzieć to: "Aha, ok" - to nie Storytelling, ale coś co pewnie bardziej pasuje jako Pamiętnik postaci.
+
+:::
+
+#### Unikajmy:
+- Wpisów, które mogłyby po prostu być pamiętnikiem. Mamy do tego odpowiedni dział :wink: [#pamiętniki-i-historie](https://discord.com/channels/752493729289601025/1287497301144633396) 
+
+#### A dalej?
+- Odpowiedzi będą przekazywane zależnie od mocy przerobowych ekipy. Nie mamy SLA :smile: kiedy damy radę - odpiszemy.
+- Jeśli wysłałeś zapytanie do konkretnego wątku, poczekaj na odpowiedź od MG, nim ponownie napiszesz w tym samym temacie.
