@@ -38,3 +38,5 @@ Obowiązuje dostosowanie poziomu +2 (drow na 1 poziomie otrzymuje PD za potwory 
 - Wyostrzone zmysły: drowy mogą aktywnie przeszukiwać otoczenie bez kar do ruchu.
 - Widzenie w Ciemności
 - Zdolność czaropodobna: Ciemność, 1x dziennie
+
+**Drow technicznie jest rozpoznawalny przez silnik gry jako elf.** Oznacza to, może używać przedmiotów stworzonych dla elfów (Ograniczenie używania: rasa: Elf), działa przeciwko niemu wróg rasowy Elfy, oraz magiczne przedmioty ulepszone przeciwko elfom.
