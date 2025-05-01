@@ -17,6 +17,30 @@ Poziomy autoexpa zdobywa się dzięki punktom od MG przyznawanym za odgrywanie.
 | 2               | 350     |
 | ...             | ...     |
 
+### Uzależnienie "maksymalnego poziomu" od punktów SAM, wg. poniszego wzoru:
+0 punktów SAM: max 11 poziom\
+1 punkt SAM: max 12 poziom\
+2 punkty SAM: max 14\
+3 punkty SAM: max 16\
+4 punkty SAM: max 18\
+5 punktów SAM: max 20\
+10 punktów SAM: bez ograniczeń
+
+#### Jak to działa? 
+- jeśli mam 0 punktów SAM, mogę uzyskać maksymalnie 11 poziom, po czym PD za potwory zostaną zablokowane
+- jeśli mam 1 punkt SAM, mogę uzyskać maksymalnie 12 poziom, po czym PD za potwory zostaną zablokowane\
+...
+- jeśli mam 5 punktów SAM, mogę uzyskać maksymalnie 20 poziom, po czym PD za potwory zostaną zablokowane
+
+#### Ratunku, nigdy nie miałem więcej niż 1 punkt SAM! Jak grać?!
+Dzięki nowemu systemowi, a.k.a. "Storytelling", MG będą mogli obserwować każdy ruch twojej postaci i każdą odgrywkę, nawet jeśli w danym momencie nie będzie MG na serwerze. Umożliwi to lepsze przyznawanie nagród i punktów SAM (tak, nawet dla postaci nie biorących udziału w przygodach - np. ze względu na grę w "dziwnych" porach dnia; wystarczy odgrywać). 
+
+:::info
+
+Blokada PD nie objemuje rzemiosła, odgrywania ani Autoexpa. 
+
+:::
+
 ## Status Gracza
 
 Za każdy przyznany przez MG punkt SAM, na dowolnej postaci gracza (na tym samym kluczu gry), gracz otrzymuje 1 punkt do statusu. 
@@ -47,29 +71,14 @@ Punkty do statusu gracza nie są naliczane wstecz, na podstawie punktów SAM zdo
 
 ![book](../../static/img/wiki/wiki-systemy/player_status.png)
 
-### Uzależnienie "maksymalnego poziomu" od punktów SAM, wg. poniszego wzoru:
-0 punktów SAM: max 11 poziom\
-1 punkt SAM: max 12 poziom\
-2 punkty SAM: max 14\
-3 punkty SAM: max 16\
-4 punkty SAM: max 18\
-5 punktów SAM: max 20\
-10 punktów SAM: bez ograniczeń
+## Storytelling bonus
 
-#### Jak to działa? 
-- jeśli mam 0 punktów SAM, mogę uzyskać maksymalnie 11 poziom, po czym PD za potwory zostaną zablokowane
-- jeśli mam 1 punkt SAM, mogę uzyskać maksymalnie 12 poziom, po czym PD za potwory zostaną zablokowane\
-...
-- jeśli mam 5 punktów SAM, mogę uzyskać maksymalnie 20 poziom, po czym PD za potwory zostaną zablokowane
+Mistrzowie Gry mają możliwość obdarowania graczy dodatkowym doświadczeniem za rozwijanie swoich wątków poza grą. Taki bonus może być wydany za przesyłanie kontynuacji wątków fabularnych poprzez [Storytelling](https://wiki.nwn.net.pl/docs/Systemy%20Autorskie/Storytelling) bądź za pisanie pamiętanika czy historii postaci na [publiczym kanale Discord](https://discord.com/channels/752493729289601025/1287497301144633396).
 
-#### Ratunku, nigdy nie miałem więcej niż 1 punkt SAM! Jak grać?!
-Dzięki nowemu systemowi, a.k.a. "Storytelling", MG będą mogli obserwować każdy ruch twojej postaci i każdą odgrywkę, nawet jeśli w danym momencie nie będzie MG na serwerze. Umożliwi to lepsze przyznawanie nagród i punktów SAM (tak, nawet dla postaci nie biorących udziału w przygodach - np. ze względu na grę w "dziwnych" porach dnia; wystarczy odgrywać). 
-
-:::info
-
-Blokada PD nie objemuje rzemiosła, odgrywania ani Autoexpa. 
-
-:::
+- Storytellig bonus jest przydzielany manulanie przez MG, dla konkretnej postaci za konkretną notkę fabularną.
+- Postać otrzymuje doświadczenie w grze - jeśli jest zalogowana dostaje je od razu (informacja w logu).
+- Jeśli jest akurat offline, doświadczenie i info w logu wpadną po najbliższym zalogowaniu.
+- W przyszłości informacja w logu będzie precyzować za co dokładnie przyznany został dany Storytelling bonus.
 
 ## Doświadczenie za odgrywanie
 
