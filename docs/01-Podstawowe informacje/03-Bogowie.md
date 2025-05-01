@@ -25,6 +25,10 @@ Bycie **Niewiernym**, czyli osobą nieoddającą czci żadnemu bogu, to sytuacja
 
 Paladyni, kapłani, druidzi i łowcy czerpią swoją moc od bóstwa, które ich obdarzyło nią w zamian za szerzenie jego woli. Używanie magii objawionej nie jest tylko przywilejem – wiąże się z odpowiedzialnością i koniecznością przestrzegania zasad wiary. Otrzymane moce służą do walki z wrogami bóstwa, nawracania innych lub ochrony miejsc kultu. Nadużywanie ich lub działanie sprzeczne z wolą boga może prowadzić do utraty zdolności czarowania, a nawet boskiej kary.
 
+### Zmiana wiary
+
+Zmiana wiary dla tych, którzy posługują się magią objawień jest poważnym fabularnym wydarzeniem i trzeba ją uzgodnić z Mistrzami Gry. Należy pamiętać, że może się też wiązać z tymczasowym odebraniem rzucania czarów oraz innym utrudnieniami (włącznie z odebraniem do maksymalnie 1/2 poziomów czarującego magią objawień - decyzja MG).
+
 ## Śmierć i wskrzeszenia
 
 Magia przywracania życia jest niezwykle rzadka i dostępna jedynie dla nielicznych kleryków na całym Faerunie. Nawet ci, którzy ją posiadają, rzadko decydują się na jej użycie – wskrzeszenie wiąże się z wielkimi konsekwencjami i niemal zawsze wymaga wysokiej ceny, zarówno w sensie materialnym, jak i duchowym. Tego rodzaju cuda zarezerwowane są głównie dla monarchów, wielkich bohaterów lub wybrańców bogów.
