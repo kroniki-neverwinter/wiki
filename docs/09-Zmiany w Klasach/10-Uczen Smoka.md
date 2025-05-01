@@ -7,8 +7,8 @@ sidebar_label: 'Uczeń Smoka'
 **Bazowa premia do ataku**: niska (1/2)
 
 ### Zaklęcia
-Uczeń Smoka otrzymuje co **2 poziomy** zaklęcia w swojej klasie czarującej (dotyczy Czarodzieja) oraz +1 poziomu do poziomu rzucającego (czyli +5 na 10 poziomie Ucznia Smoka).\
-_**Uwaga!** ze względu na ograniczenia silnika gry nie doradzamy łączenia tej klasy z klasami, które nie posiadają miejsc na zaklęcia (spellslots). Taka postać w klasie np. Czarownika uzyska jedynie bonus do poziomu zaklęć, NIE otrzyma zaklęć ani kręgów zaklęć. Przy łączeniu z klasami, które mają miesjca na zaklęcia (np. Czarodziej) te ograniczenia silnika gry nie obowiązują._ -
+Uczeń Smoka otrzymuje co **2 poziomy** poziom czarującego tak, jakby awansował jako bard lub czarownik. Dotyczy to tylko **siły** i **czasu trwania** zaklęć.\
+W przyszłości będzie otrzymywał nowe zaklęcia i kręgi czarów (WIP).
 
 ### Wymagania
 
