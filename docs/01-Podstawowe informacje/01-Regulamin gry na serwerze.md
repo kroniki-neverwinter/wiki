@@ -109,9 +109,16 @@ Administracja nie odpowiada za straty graczy wynikłe z powodu crashów gry, pad
 
 Podstawą do ubiegania się o jakiekolwiek odszkodowania są screeny, w innym wypadku istnieje duże prawdopodobieństwo, że wniosek zostanie odrzucony. Ideą serwera jest przede wszystkim wspólne odgrywanie, a nie gromadzenie złota i XP - radzę o tym pamiętać przed składaniem podań o zwrócenie 100 punktów doświadczenia itp.
 
-### 13. Botowanie
+### 13. Zachowanie na expowiskach
+
+#### 13.1 Przeciwnicy, których zabijamy
+
+Na obszarach stworzonych głownie z myślą o zabijaniu przeciwników dla doświadczenia (tzw. expowiskach) _ilość_ zabijanych przeciwników należy traktować z przymrużeniem oka. Natomiast **CO** lub **KOGO** postać gracza zabija jest jak najbardziej informacją IC - i może nieść ze sobą fabularne konsekwencje dla postaci.
+
+#### 13.2 Botowanie
 
 Zakazuje się tworzenia postaci typu „bot”, które podążają za główną postacią gracza, np. w celu rzucania czarów wspomagających, ale są kontrolowane przez właściciela głównej postaci. Za „bota” może być uznana postać która nie odgrywa i nie odpisuje na wiadomości od MG.
+
 
 ## II. Postać
 
@@ -221,7 +228,7 @@ Aby dobrać wagę i wzrost postaci, również możesz odnieść się do tabeli z
 
 :::info
 
-Aby uzyskać swóją losową wagę: wynik kostki wzrostu pomnóż przez wynik kostki wagi i dodaj do bazowej wagi.
+Aby uzyskać swóją losową wagę: wynik kostki wzrostu pomnóż przez wynik kostki wagi i dodaj do bazowej wagi.\
 **Dla przykładu**: rzucasz na modyfikator wzrostu dla twojego krasnoluda ♂, wypada **9** (co daje końcowy wzrost **4'6"**). Następnie rzucasz na modyfikator wagi, wypada **8**. 9 pomnożone przez 8 daje **72**. 72 dodajesz do bazowej wagi, razem wychodzi **202 lb**. Po przekonwertowaniu na system metryczny, otrzymujemy krasnoluda o wzroście 137 cm i wadze 92 kg.
 
 :::
@@ -245,7 +252,7 @@ Kapłan MUSI być klasą startową (wybraną na 1 poziomie), jeśli planujesz gr
 
 Chociaż podczas przygody w "papierowej" sesji D&D Czarownik mógłby prawdopodobnie zostać zarówno Mnichem jak i Paladynem (a może nawet jednym i drugim!), ekipa serwera nakłada pewne ograniczenia w tym zakresie. Połączenia klas postaci graczy powinny w niekwestionowany sposób odzwierciedlać ich fabułę. Aby wykluczyć najbardziej kontrowersyjne połączenia, wprowadzamy następujące zasady:
 
-**Kapłan** nie może być łączony z klasami podstawowymi, chyba że połączenie klas pasuje fabularnie do bóstwa. Lista dozwolonych połączeń znajduje się w opisie klasy: [Kapłan](../09-Zmiany%20w%20Klasach/05-Kaplan.md)
+**Kapłan** nie może być łączony z klasami podstawowymi, chyba że połączenie klas pasuje fabularnie do bóstwa. Lista dozwolonych połączeń znajduje się w [opisie Bogów](https://wiki.nwn.net.pl/docs/Podstawowe%20informacje/Bogowie#dost%C4%99pne-b%C3%B3stwa-domeny-i-dozwolone-po%C5%82%C4%85czenia-klas-dla-kap%C5%82ana).
 
 **Paladyn** poświęca swoje życie bóstwu i nie może awansować w żadnej innej klasie podstawowej (wyjątkiem może być Mnich/Paladyn LUB Kapłan/Paladyn, o ile opis bóstwa i zakon dopuszczają takie połączenie - patrz poprzedni punkt)
 
