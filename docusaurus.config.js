@@ -4,7 +4,8 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
+import 'dotenv/config';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -57,6 +58,15 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      algolia: {
+        apiKey: process.env.ALGOLIA_API_KEY,
+        indexName: process.env.ALGOLIA_INDEX_NAME,
+        appId: process.env.ALGOLIA_APP_ID,
+        placeholder: 'Znajdź na stronie...',
+        searchParameters: {
+          hitsPerPage: 10,
+        }
+      },
       colorMode: {
         defaultMode: 'light', // Default color mode
         respectPrefersColorScheme: true, // Respect user's system color scheme preference
