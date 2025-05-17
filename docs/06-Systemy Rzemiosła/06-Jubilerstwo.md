@@ -53,13 +53,13 @@ Każdy jubiler ma szansę na wytworzenie przedmiotu z miejscami na runę. Srebrn
 Dzięki runom można stworzyć np. Amulet Odporności na Ogień, Pierścień z redukcją Obrażeń Magicznych czy po prostu zwiększyć ulepszenie przedmiotu (z +3 do maksymalnie +6 Inteligencja/Mądrość/KP). 
 
 Szansa na 1 miejsce na runę:\
-``poziom Jubilerstwa / 5 + wartość umieszczonego kamienia / 10 vs k100``
+``poziom Jubilerstwa / 5 + wartość umieszczonego kamienia / 10 vs k50``
 
 Szansa na 2 miejsca na runę:\
-``poziom Jubilerstwa / 10 + wartość umieszczonego kamienia / 100 vs k100``
+``poziom Jubilerstwa / 10 + wartość umieszczonego kamienia / 100 vs k50``
 
 Szansa na 3 miejsca na runę:\
-``poziom Jubilerstwa / 20 + wartość umieszczonego kamienia / 1000 vs k100``
+``poziom Jubilerstwa / 20 + wartość umieszczonego kamienia / 1000 vs k50``
 
 ### Przedmioty z klejnotem
 
