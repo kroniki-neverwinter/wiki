@@ -23,6 +23,9 @@ steps:
       GH_NAME: $(GH_NAME)
       GH_EMAIL: $(GH_EMAIL)
       GH_TOKEN: $(GH_TOKEN)
+      ALGOLIA_APP_ID: $(ALGOLIA_APP_ID)
+      ALGOLIA_API_KEY: $(ALGOLIA_API_KEY)
+      ALGOLIA_INDEX_NAME: $(ALGOLIA_INDEX_NAME)
     displayName: Install and build
   - task: ado-discord-webhook@1
     inputs:
