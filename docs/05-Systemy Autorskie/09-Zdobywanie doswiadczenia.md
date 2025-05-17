@@ -17,20 +17,25 @@ Poziomy autoexpa zdobywa się dzięki punktom od MG przyznawanym za odgrywanie.
 | 2               | 350     |
 | ...             | ...     |
 
+### Modyfikator czasu gry
+
+- W pierwszych dwóch godzinach czasu gry postać otrzymuje podwójny autoexp. 
+- Trzecia i kolejna godzina to 50% bazowego autoexpa.
+
 ### Uzależnienie "maksymalnego poziomu" od punktów SAM, wg. poniszego wzoru:
-0 punktów SAM: max 11 poziom\
-1 punkt SAM: max 12 poziom\
-2 punkty SAM: max 14\
-3 punkty SAM: max 16\
-4 punkty SAM: max 18\
-5 punktów SAM: max 20\
-10 punktów SAM: bez ograniczeń
+0-1 punktów SAM: max 11 poziom\
+2-3 punkty SAM: max 12 poziom\
+3-4 punkty SAM: max 14\
+5-6 punktów SAM: max 16\
+7-8 punktów SAM: max 18\
+9-10 punktów SAM: max 20\
+20 punktów SAM: bez ograniczeń
 
 #### Jak to działa? 
 - jeśli mam 0 punktów SAM, mogę uzyskać maksymalnie 11 poziom, po czym PD za potwory zostaną zablokowane
-- jeśli mam 1 punkt SAM, mogę uzyskać maksymalnie 12 poziom, po czym PD za potwory zostaną zablokowane\
+- jeśli mam 2 punkty SAM, mogę uzyskać maksymalnie 12 poziom, po czym PD za potwory zostaną zablokowane\
 ...
-- jeśli mam 5 punktów SAM, mogę uzyskać maksymalnie 20 poziom, po czym PD za potwory zostaną zablokowane
+- jeśli mam 10 punktów SAM, mogę uzyskać maksymalnie 20 poziom, po czym PD za potwory zostaną zablokowane
 
 #### Ratunku, nigdy nie miałem więcej niż 1 punkt SAM! Jak grać?!
 Dzięki nowemu systemowi, a.k.a. "Storytelling", MG będą mogli obserwować każdy ruch twojej postaci i każdą odgrywkę, nawet jeśli w danym momencie nie będzie MG na serwerze. Umożliwi to lepsze przyznawanie nagród i punktów SAM (tak, nawet dla postaci nie biorących udziału w przygodach - np. ze względu na grę w "dziwnych" porach dnia; wystarczy odgrywać). 
@@ -87,7 +92,11 @@ Częstość otrzymywania XP za odgrywanie zależy od wielu zmiennych, takich jak
 
 ## Limity doświadczenia za zabijanie potworów
 
-Po zabiciu **20 potworów** jednego rodzaju, otrzymywane doświadczenie jest zmniejszone o **50%**. Limit ten obowiązuje przez **2 godziny**.
+Po zabiciu **20 potworów** jednego rodzaju, otrzymywane doświadczenie jest zmniejszone o **50%**. Limit ten obowiązuje przez **2 godziny**. 
+
+Dodatkowo, jeżeli postać przekroczy w ciągu dnia 5000 punktów doświadczenia zdobytych na potworach, doświadczenie zostanie dodatkowo zmniejszone do **20%** bazowej wartości. Limit ten obowiązuje **do restartu serwera**. 
+
+Oba typy limitów sumują się, czyli 50% z 20% punktów daje 10% bazowej wartości. 
 
 ## Kary za wieloklasowość
 
