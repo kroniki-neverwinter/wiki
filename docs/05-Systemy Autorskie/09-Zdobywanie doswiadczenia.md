@@ -25,10 +25,10 @@ Poziomy autoexpa zdobywa się dzięki punktom od MG przyznawanym za odgrywanie.
 ### Uzależnienie "maksymalnego poziomu" od punktów SAM, wg. poniszego wzoru:
 0-1 punktów SAM: max 11 poziom\
 2-3 punkty SAM: max 12 poziom\
-3-4 punkty SAM: max 14\
-5-6 punktów SAM: max 16\
-7-8 punktów SAM: max 18\
-9-10 punktów SAM: max 20\
+4-5 punkty SAM: max 14\
+6-7 punktów SAM: max 16\
+8-9 punktów SAM: max 18\
+10-19 punktów SAM: max 20\
 20 punktów SAM: bez ograniczeń
 
 #### Jak to działa? 
