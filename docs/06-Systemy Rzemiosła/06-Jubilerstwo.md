@@ -59,7 +59,7 @@ Szansa na 2 miejsca na runę:\
 ``poziom Jubilerstwa / 10 + wartość umieszczonego kamienia / 100 vs k50``
 
 Szansa na 3 miejsca na runę:\
-``poziom Jubilerstwa / 20 + wartość umieszczonego kamienia / 1000 vs k50``
+``poziom Jubilerstwa / 20 + wartość umieszczonego kamienia / 500 vs k50``
 
 ### Przedmioty z klejnotem
 
