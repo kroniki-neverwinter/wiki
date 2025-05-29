@@ -36,8 +36,16 @@ Kiedy ktoś zakupi twój przedmiot, otrzymasz informację w logu - zawrze ona tw
 
 ## Komunikaty na Discrodzie
 
-Na kanale [#targowisko](https://discord.com/channels/752493729289601025/1082277386927751199) na Discordzie pojawią się takie komunikaty:
+Na kanale [**#targowisko**](https://discord.com/channels/752493729289601025/1082277386927751199) na Discordzie pojawią się takie komunikaty:
 
 - Kto wystawił przedmiot, jaki, za jaką cenę i jaki jest jego opis i właściwości
 - Kiedy sprzedawca wycofał przedmiot i o jaki przedmiot chodzi
 - Jaki przedmiot został sprzedany i za ile, jego poprzedni i nowy właściciel i jaką prowizję pobrał Alistar
+
+## Zwiedzając Luskan natrafiasz na niepozorny sklepik
+
+To miejsce, gdzie każdy kto szuka sposobu - znajdzie go. \
+To miejsce, gdzie Prawa Neverwinter nie obowiązują.\
+A transakcji można dokonać subtelnie i bez zbędnych pytań.
+
+Pojawiające się przedmioty można podejrzeć na Discrodzie, na kanale [**#czarny-rynek**](https://discord.com/channels/752493729289601025/1369310056675414077)
