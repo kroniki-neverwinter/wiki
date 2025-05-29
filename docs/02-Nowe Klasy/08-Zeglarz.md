@@ -58,3 +58,17 @@ Umiejętności walki na morzu w załodze, sprawiły że żeglarz opanował umiej
 **Poziom 15: Dodatkowy atut**
 
 **Poziom 20: Dodatkowy atut**
+
+**Poziom 22: Dodatkowy atut**
+
+**Poziom 23: Dodatkowy atut**
+
+**Poziom 28: Dodatkowy atut**
+
+**Poziom 31: Dodatkowy atut**
+
+**Poziom 34: Dodatkowy atut**
+
+**Poziom 37: Dodatkowy atut**
+
+**Poziom 40: Dodatkowy atut**
