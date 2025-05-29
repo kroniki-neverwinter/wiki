@@ -53,14 +53,18 @@ Zasadniczo postać na 2 poziomie nie ma prawa posiadać ekwipunku z mithrillu i 
 - Zaklęcia mogą mieć różne efekty fabularne, jendak by wszystkim dobrze się grało należy zapoznać się z [**ustanowionymi zasadami**](https://wiki.nwn.net.pl/docs/category/zakl%C4%99cia).
 
 ### 8. Karta Postaci
-Napisanie Karty Postaci nie jest obowiązkowe dla większości klas by mieć możliwość gry na serwerze. Jednakże ekipa zachęca do jej przygotowania i wysłania. Karta Postaci pomaga Mistrzom Gry "poczuć" postać gracza, poznać jej motywacje, historie a także przygotować elementy osobiste na prowadzonych wątkach i questach, które trafią bezpośrednio w potrzeby danej postaci.
+Napisanie Karty Postaci nie jest obowiązkowe dla większości klas by mieć możliwość gry na serwerze. Jednakże ekipa zachęca do jej przygotowania i wysłania. Karta Postaci pomaga Mistrzom Gry "poczuć" postać gracza, poznać jej motywacje, historie a także przygotować elementy osobiste na prowadzonych wątkach i questach, które trafią bezpośrednio w potrzeby danej postaci. 
+
+**Ważne!** KP opisuje losy postaci zanim pojawiła się ona w świecie serwera - czyli zanim zaczęła zdobywać poziomy doświadczenia. Dopiero po przejściu przez portal zaczyna się zdobywanie awanturniczego doświadczenia i stawanie się profesjonalistą w swojej dziedzinie.\
+Parę podpowiedzi o przygotowaniu Karty Postaci możecie znaleźć [**tutaj**](https://discord.com/channels/752493729289601025/1345495105707970601).
 
 Dodatkowo, za napisanie Karty Postaci, która zostanie zaakceptowana, przysługują nagrody, w zależności od progu nagrody, który zostanie jej przydzielony:
-- Próg I - 1 punkt SAM, 2000 doświadczenia
-- Próg II - 3 punkty SAM, 5000 doświadczenia, Mapa Skarbów
-- Próg III - 5 punktów SAM, 10000 doświadczenia, 3 Mapy Skarbów
+- **Próg I** - 1 punkt SAM, 2000 doświadczenia
+- **Próg II** - 3 punkty SAM, 5000 doświadczenia, Mapa Skarbów
+- **Próg III** - 5 punktów SAM, 10000 doświadczenia, 3 Mapy Skarbów
 
-Gdzie:\
+_Po wydaniu nagrody za KP, dalsze aktualizacje czy nowe wersje Karty Postaci nie powiększają już nagrody._
+
 **Próg I** oznaczna Karty "dopuszczające", tzn takie, które zawierają najbardziej suche, podstawowe informacje, nie kłócą się z lore świata Faerunu, ale też nie zostawiają pola dla Mistrzów Gry do ewentualnego rozwinięcia osobistych wątków.\
 **Próg II** oznacza Karty "dobre", tzn takie, które spełniają wymogi Progu I oraz posiadają rozwiniętą historię, pozwalającą na stworzenie osobistych wątków, oraz przedstawiają postać o bardziej rozbudowanej osobowości.\
 **Próg III** oznacza Karty "wybitne", tzn takie, które spełniają wymogi Progu II oraz przedstawiają postać psychologicznie i historycznie spójną, której kreacja fabularna jest stawiana na pierwszym miejscu i "czuć" od niej wysoki poziom dopieszczenia i dbałości o detale.
@@ -70,6 +74,10 @@ Należy też zaznaczyć, że długość Karty Postaci nie ma wpływu na ocenę (
 Korzystanie z pomocy narzędzi AI do napisania karty postaci nie jest zabronione, ale oczekuje się od gracza, że będzie to jedynie pomocne narzędzie, a nie główny kontrybutor treści. 
 
 Ekipa zastrzega sobie prawo do zwrócenia się do gracza z prośbą o przygotowanie Karty, dla postaci, które swoją kombinacją cech/ras/klas/charakteru/wyznania bądź sposobu odgrywania budzą wątpliwości i ewidentnie odstają od standardów świata przedstawionego.
+
+**Porzucenie**:\
+Jeśli po wysłaniu KP jakaś postać się nie loguje, albo nie ma kontaktu z graczem, przez około 21 dni - to dana postać jest uznawana przez grono MG jako porzucona. Oznacza to, że ekipa nie będzie jej priorytetyzować do ocenienia, teczka takiej postaci zostaje zarchiwizowana. Jeśli gracz w późniejszym terminie stiwerdzi, że jednak chce wrócić do danego konceptu, warto się przypomnieć Mistrzom Gry.\
+Gracz może również sam zdecydować o porzuceniu postaci, należy o takiej decyzji poinformować ekipę najwcześniej jak to możliwe.
 
 ### 9. "Motywacja" w Lokacji Startowej
 
@@ -129,6 +137,8 @@ Autoryzacja następuje poprzez akceptację Karty Postaci przez Mistrzów Gry, po
 Klasy podstawowe, które wymagają autoryzacji to:
 - [Kapłan](https://wiki.nwn.net.pl/docs/Zmiany%20w%20Klasach/Kaplan)
 - [Mnich](https://wiki.nwn.net.pl/docs/Zmiany%20w%20Klasach/Mnich)
+
+Autoryzacje na rasy prestiżowe będą odrzucone automatycznie, jeśli gracz nie posiada przynajmniej statusu Złoty w [**systemie SAM**](https://wiki.nwn.net.pl/docs/Systemy%20Autorskie/Zdobywanie%20doswiadczenia#status-gracza).
 
 ### 2. Imię postaci
 
@@ -268,7 +278,12 @@ Mnich powinien należeć do klasztoru. Mnich poza strukturami klasztornymi może
 
 Podczas awansu można zachować maksymalnie 5 punktów umiejętności. Ograniczenie to jest egzekwowane mechanicznie.
 
-### 9. Śmierć fabularna
+### 9. Organizacje fabularne
+
+MG przygotowali różne grupy, do których postacie graczy mogą się przyłączyć by budować swoje fabularne wpływy. Zazwyczaj dołączanie odbywa się już w grze, po serii questów od Mistrzów Gry, jednak przynależność może być ustalona wcześniej - o ile została zaakceptowana pełna Karta Postaci to uzasadniająca.\
+Należy jednak pamiętać, że jeśli już jakiś gracz przyłączył się jedną postacią do organizacji fabularnej, może to zamknąć drogę dla innych postaci tego gracza, by również ubiegać się o członkostwo w jakiejś grupie (decyzja MG).
+
+### 10. Śmierć fabularna
 
 Postać może zginąć permanentnie w następujących przypadkach:
 - kiedy poświęci swoje życie w bohaterskim akcie (wola gracza)
