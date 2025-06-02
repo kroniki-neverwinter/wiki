@@ -102,7 +102,20 @@ Pisanie w oknie Motywacji byle czego (losowych słów, czy zdań mających na ce
 - **Gracz w zmienionej postaci (polimorfia) może być atakowany jak zwykły potwór**. Należy przy tym mieć na uwadze, że beztrosko biegający w pobliżu miasta troll jest oczywistym zagrożeniem, ale wróżka już nie. Atak jest dozwolony tylko w przypadku gdy nie widzieliśmy przemiany gracza.
 - Ze zwłok postaci można bez konsekwencji wyciągnąć za pomocą kradzieży kieszonkowej dowolną ilość przedmiotów i złota.
 
-### 11. Pułapki
+### 11. Zabójstwa NPC / potworów
+
+#### 11.1 Neutralni NPC / potwory
+
+Ataki na **neutralnych** NPC (świecących się na niebiesko) są dozwolone w następujących przypadkach:
+- Pod nadzorem MG, w ramach przygody / inicjatywy gracza,
+- Bez nadzoru MG, jeśli gracz ma quest mechaniczny na zabicie jakiegoś NPC lub grupy NPC,
+- Bez nadzoru MG, jeśli neutralny NPC to dobry Fey (driada/chochlik - ale w tym wypadku będą automatyczne punkty do złego charakteru), lub zwierzę.
+
+#### 11.2 Zachowanie na expowiskach
+
+Na obszarach stworzonych głownie z myślą o zabijaniu przeciwników dla doświadczenia (tzw. expowiskach) _ilość_ zabijanych przeciwników należy traktować z przymrużeniem oka. Natomiast **CO** lub **KOGO** postać gracza zabija jest jak najbardziej informacją IC - i może nieść ze sobą fabularne konsekwencje dla postaci.
+
+### 12. Pułapki
 
 Zabrania się zastawiania pułapek w określonych przypadkach:
 
@@ -111,19 +124,13 @@ Zabrania się zastawiania pułapek w określonych przypadkach:
 - na drzwiach i obiektach interaktywnych (wyjątkiem mogą być np. drzwi i obiekty WEWNĄTRZ posiadłości gracza)
 - na traktach, chyba że jest to DOBRZE umotywowane fabularnie
 
-### 12. Straty spowodowane błędami gry
+### 13. Straty spowodowane błędami gry
 
 Administracja nie odpowiada za straty graczy wynikłe z powodu crashów gry, padów neta itp. W przypadku strat wynikających z błędów gry lub serwera czy też czynników wcześniej wymienionych gracz może odzyskać stratę, a jeśli nie będzie to możliwe, to uzyskać rekompensatę - zależy to jednak od werdyktu administracji serwera.
 
 Podstawą do ubiegania się o jakiekolwiek odszkodowania są screeny, w innym wypadku istnieje duże prawdopodobieństwo, że wniosek zostanie odrzucony. Ideą serwera jest przede wszystkim wspólne odgrywanie, a nie gromadzenie złota i XP - radzę o tym pamiętać przed składaniem podań o zwrócenie 100 punktów doświadczenia itp.
 
-### 13. Zachowanie na expowiskach
-
-#### 13.1 Przeciwnicy, których zabijamy
-
-Na obszarach stworzonych głownie z myślą o zabijaniu przeciwników dla doświadczenia (tzw. expowiskach) _ilość_ zabijanych przeciwników należy traktować z przymrużeniem oka. Natomiast **CO** lub **KOGO** postać gracza zabija jest jak najbardziej informacją IC - i może nieść ze sobą fabularne konsekwencje dla postaci.
-
-#### 13.2 Botowanie
+### 14 Botowanie
 
 Zakazuje się tworzenia postaci typu „bot”, które podążają za główną postacią gracza, np. w celu rzucania czarów wspomagających, ale są kontrolowane przez właściciela głównej postaci. Za „bota” może być uznana postać która nie odgrywa i nie odpisuje na wiadomości od MG.
 
