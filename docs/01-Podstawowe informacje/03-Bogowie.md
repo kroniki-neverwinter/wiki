@@ -60,7 +60,7 @@ Jednak nie wszyscy okazują im posłuch – szlachta, władcy, bogaci kupcy czy 
 
 #### **Bane**
 **Domeny:** Zazdrość, Zło, Zniszczenie, Nienawiść, Prawo, Duma, Tyrania, Gniew\
-**Łączenie z klasami:** wojownik, czarodziej\
+**Łączenie z klasami:** wojownik, czarodziej, czarownik\
 **Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
 
 #### **Beshaba**
@@ -70,7 +70,7 @@ Jednak nie wszyscy okazują im posłuch – szlachta, władcy, bogaci kupcy czy 
 
 #### **Chauntea**
 **Domeny:** Zwierzęta, Rośliny, Hojność, Dobro, Ochrona, Odnowienie, Ziemia\
-**Łączenie z klasami:** łowca, druid\
+**Łączenie z klasami:** łowca, druid, paladyn\
 **Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
 
 #### **Cyric**
@@ -170,7 +170,7 @@ Jednak nie wszyscy okazują im posłuch – szlachta, władcy, bogaci kupcy czy 
 
 #### **Maska**
 **Domeny:** Chciwość, Ciemność, Zazdrość, Zło, Szczęście, Lenistwo, Oszustwa\
-**Łączenie z klasami:** bard, łotrzyk, zalecane klasy prestiżowe: tancerz cieni\
+**Łączenie z klasami:** bard, czarodziej (specjalista Iluzji), łotrzyk, zalecane klasy prestiżowe: tancerz cieni\
 **Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
 
 #### **Mielikki**
@@ -180,7 +180,7 @@ Jednak nie wszyscy okazują im posłuch – szlachta, władcy, bogaci kupcy czy 
 
 #### **Milil**
 **Domeny:** Urok, Dobro, Wiedza, Szlachectwo, Lenistwo\
-**Łączenie z klasami:** bard, mnich\
+**Łączenie z klasami:** bard, mnich, wojownik\
 **Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
 
 #### **Mystra**
@@ -304,7 +304,7 @@ Jednak nie wszyscy okazują im posłuch – szlachta, władcy, bogaci kupcy czy 
 
 #### **Aerdrie Faenya**
 **Domeny:** Powietrze, Zwierzę, Dobro, Chaos, Elfy, Burza\
-**Łączenie z klasami:** czarownik, łowca\
+**Łączenie z klasami:** bard, czarownik, łowca\
 **Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
 
 #### **Corellon Larethian**
@@ -315,7 +315,7 @@ Jednak nie wszyscy okazują im posłuch – szlachta, władcy, bogaci kupcy czy 
 #### **Eilistraee**
 **Domeny:** Chaos, Urok, Elfy, Drowy, Dobro, Pożądanie, Księżyc, Noc, Łowy\
 **Łączenie z klasami:** Bard, Łowca\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Możliwość gry klasą Boski Czempion (Czempion Torma):** TAK
 
 #### **Erevan Ilesere**
 **Domeny:** Chaos, Elfy, Szczęście, Oszustwo, Lenistwo\
@@ -507,7 +507,7 @@ Jednak nie wszyscy okazują im posłuch – szlachta, władcy, bogaci kupcy czy 
 #### **Yondalla**
 **Domeny:** Rodzina, Obżarstwo, Dobro, Niziołki, Ochrona\
 **Łączenie z klasami:** Paladyn\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Możliwość gry klasą Boski Czempion (Czempion Torma):** TAK
 
 #### **Sheela Peryroyl**
 **Domeny:** Powietrze, Urok, Niziołi, Pożądanie, Rośliny, Lenistwo\
