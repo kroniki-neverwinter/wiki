@@ -17,14 +17,7 @@ Okradana postać/NPC:
 Nawet jeśli rzut na kradzież będzie udany, złodziej musi dodatkowo wykonać udany test na dotknięcie okradanego (obowiązują reguły jak przy typowym ataku dotykowym). Jeśli test się nie powiedzie, próba kradzieży pozostaje **niewykryta**, chociaż nie udało się zdobyć przedmiotu/sakiewki ze złotem.
 
 ### Okradanie innych postaci
-Maksymalna waga przedmiotu który można ukraść to `1.0`. Ten limit zostaje zwiększony przez Talenty:
-
-- Talent (Kradzież Kieszonkowa): `2.0`
-- Epicki talent (Kradzież Kieszonkowa): `4.0`
-
-Dodatkowo, postać gracza można okraść z przedmiotu* tylko raz na 24 godziny (czasu realnego). Oznacza to, że kradzież pierwszego przedmiotu blokuje dalszą możliwość okradania konkretnej postaci.
-
-*Przedmioty o wartości poniżej 10 sztuk złota nie są brane pod uwagę.*
+Okradanie postaci graczy jest obecnie wyłączone. 
 
 ### Okradanie NPC
 
