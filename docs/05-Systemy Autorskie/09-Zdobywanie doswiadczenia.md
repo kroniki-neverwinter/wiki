@@ -103,7 +103,7 @@ Oba typy limitów sumują się, czyli 50% z 20% punktów daje 10% bazowej warto�
 Wieloklasowcy otrzymują karę -20% doświadczenia zdobywanego za potwory, zgodnie ze [**standardowaymi zasadami gry**](https://nwn.fandom.com/wiki/Multiclass_penalty).
 
 ## Punkty doświadczenia wymagane do awansu
-Ilość PD wymaganych do awansu została zwiększona o dodatkowe 10.000 na poziomach powyżej 10. 
+Ilość PD wymaganych do awansu została zwiększona o dodatkowe 10.000 na poziomach powyżej 10. Ponad to, każdy poziom powyżej 30 to dodatkowe 100.000. 
 
 Np. 11 poziom oryginalnie wymagał 55.000, obecnie wymaga 65.000. 13 poziom to już 108.000 (oryginalne 78.000 + 3 * 10.000).
 
@@ -139,13 +139,13 @@ Np. 11 poziom oryginalnie wymagał 55.000, obecnie wymaga 65.000. 13 poziom to j
 | 28     | 558000                        |
 | 29     | 596000                        |
 | 30     | 635000                        |
-| 31     | 675000                        |
-| 32     | 716000                        |
-| 33     | 758000                        |
-| 34     | 801000                        |
-| 35     | 845000                        |
-| 36     | 890000                        |
-| 37     | 936000                        |
-| 38     | 983000                        |
-| 39     | 1031000                       |
-| 40     | 1080000                       |
+| 31     | 775000                        |
+| 32     | 916000                        |
+| 33     | 1058000                        |
+| 34     | 1101000                        |
+| 35     | 1245000                        |
+| 36     | 1390000                        |
+| 37     | 1436000                        |
+| 38     | 1583000                        |
+| 39     | 1631000                       |
+| 40     | 1780000                       |
