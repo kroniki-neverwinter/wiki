@@ -25,7 +25,7 @@ KW klasy Łowcy zostało zmienione z **k10** do **k8**.
 
 ### Umiejętności
 
-Łowca uzyskuje umiejętność **Upadanie** jako swoją klasową.
+Łowca uzyskuje umiejętność [**Akrobatykę**](https://wiki.nwn.net.pl/docs/Zmiany%20w%20Umiej%C4%99tno%C5%9Bciach/Akrobatyka) jako swoją klasową.
 
 ### Atuty
 
