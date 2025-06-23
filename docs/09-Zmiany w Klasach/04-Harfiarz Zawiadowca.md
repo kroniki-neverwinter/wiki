@@ -24,6 +24,12 @@ sidebar_label: 'Harfiarz Zawiadowca'
 
 Harfiarz przygotowuje zaklęcia jak Bard **(oparte o modyfikator Charyzmy, spontaniczne)** i uzyskuje dostęp do wymienionych poniżej zaklęć. Posiada on węższą gamę czarów niż Czarownik czy Bard, ale fabularnie uczy się on nowych zaklęć ze zwojów otrzymanych od Harfiarzy. Technicznie otrzymuje dostęp do wszystkich zaklęć danego kręgu automatycznie - wraz z awansem poziomu.
 
+:::info
+
+Księga zaklęć zastępuje atuty-zaklęcia z oryginalnej gry.
+
+:::
+
 ### I
 
 - Identyfikacja
