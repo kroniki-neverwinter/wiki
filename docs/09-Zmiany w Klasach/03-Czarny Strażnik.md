@@ -37,6 +37,12 @@ _**Uwaga!** Czar "Epicki Czarci Sługa" obecnie nie ma efektu. W dalszym termini
 
 Czarny Strażnik przygotowuje zaklęcia jak Kapłan (oparte o modyfikator Mądrości i księgę zaklęć) i uzyskuje dostęp do następujących zaklęć.
 
+:::info
+
+Księga zaklęć zastępuje atuty-zaklęcia z oryginalnej gry.
+
+:::
+
 ### I
 
 - Boskie Względy
