@@ -40,6 +40,7 @@ Przy każdej próbie wytopienia sztabki, wykonuje się rzut wg. następującej f
 | Stal (żelazo) | 15                    |
 | Adamant       | 25                    |
 | Mithral       | 40                    |
+| Ungol         | 50                    |
 
 
 **Przykład:** Rurik Rand jest początkującym metalurgiem (poziom rzemiosła 0), krasnoludem (+5) o inteligencji 14 (+2). Rurik wykonuje testy Górnictwa z premią ``0 + 5 + 2``, czyli ``+7``.
