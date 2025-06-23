@@ -8,7 +8,8 @@ sidebar_label: 'Drow'
 ![drow](../../static/img/wiki/wiki-rasy/drow.png)
 
 ### Rasa prestiżowa
-Przed rozpoczęciem gry Drowem należy wysłać kartę postaci do MG. Ekipa serwera zastrzega sobie prawo do odrzucenia kart, które zawierają niespójne lub dziwne informacje (np. postać nazywa się Drizzt Do'Urden).
+Aby ubiegać się o autoryzację gry rasą prestiżową, wymagany jest co najmniej [Status Gracza na poziomie Złoty](https://wiki.nwn.net.pl/docs/Systemy%20Autorskie/Zdobywanie%20doswiadczenia#status-gracza).\
+Dodatkowo, przed rozpoczęciem gry Drowem należy wysłać kartę postaci do MG. Ekipa serwera zastrzega sobie prawo do odrzucenia kart, które zawierają niespójne lub dziwne informacje (np. postać nazywa się Drizzt Do'Urden).
 
 ### Opis rasy
 Drowy, zwane potocznie mrocznymi elfami, powstały z elfów, które skorumpowane przez Lolth podążyłyseldarine za nią ścieżką zła. To spowodowało nałożenie przez Seldarine klątwy na drowy, której efektem jest ich charakterystyczny wygląd - skóra o barwie wygładzonego obsydianu i białe bądź bladożółte włosy. Oczy mrocznych elfów są zwykle czerwone. Inne kolory, takie jak blade odcienie liliowego, srebrnego, różowego czy niebieskiego też się zdarzają, lecz są nieporównywalnie rzadsze. Również budową ciała odstają oni od elfów z powierzchni będąc niższymi i smuklejszymi niż ich pobratymcy. Ich długość życia oraz wiek osiągnięcia dojrzałości nie różni się od pozostałych elfów. Tradycyjnie społeczeństwo drowów jest mocno zhierarchizowanym społeczeństwem matriarchalnym, na którego czele stoi kapłanka Lolth. Warto też dodać, że drowy mają głęboko zakorzenione zamiłowanie do podstępu, przebiegłości i niespodziewanego ostrza w mroku.
