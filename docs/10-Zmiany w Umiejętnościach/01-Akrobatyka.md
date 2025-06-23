@@ -2,6 +2,12 @@
 sidebar_label: 'Akrobatyka'
 ---
 
+:::warning
+
+Umiejętność "Upadanie" została całkowicie zastąpiona umiejętnością "Akrobatyka" o działaniu opisanym poniżej:
+
+:::
+
 **Cecha:** Zręczność\
 **Wymaga szkolenia:** tak.
 
