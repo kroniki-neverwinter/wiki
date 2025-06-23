@@ -24,6 +24,12 @@ Dodatkowo, umiejętność ta jest **na krótką chwilę niedostępna po użyciu 
 
 Zabójca przygotowuje zaklęcia jak Bard **(spontanicznie, ale oparte o modyfikator Intelektu)** i uzyskuje dostęp do następujących zaklęć.
 
+:::info
+
+Księga zaklęć zastępuje atuty-zaklęcia z oryginalnej gry.
+
+:::
+
 ### I
 
 - Celne Uderzenie
