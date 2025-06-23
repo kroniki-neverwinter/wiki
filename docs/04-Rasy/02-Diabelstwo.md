@@ -8,7 +8,8 @@ sidebar_label: 'Diabelstwo'
 ![diabelstwo](../../static/img/wiki/wiki-rasy/diabelstwo.png)
 
 ### Rasa prestiżowa
-Przed rozpoczęciem gry Diabelstwem należy wysłać kartę postaci do MG. Ekipa serwera zastrzega sobie prawo do odrzucenia kart, które zawierają niespójne lub dziwne informacje (np. postać jest potomkiem bóstwa).
+Aby ubiegać się o autoryzację gry rasą prestiżową, wymagany jest co najmniej [Status Gracza na poziomie Złoty](https://wiki.nwn.net.pl/docs/Systemy%20Autorskie/Zdobywanie%20doswiadczenia#status-gracza).\
+Dodatkowo, przed rozpoczęciem gry Diabelstwem należy wysłać kartę postaci do MG. Ekipa serwera zastrzega sobie prawo do odrzucenia kart, które zawierają niespójne lub dziwne informacje (np. postać jest potomkiem bóstwa).
 
 ### Opis rasy
 Odlegli potomkowie ludzi i złych pozasferowców, takich jak diabły, demony, nocne wiedźmy, albo rakshasów czy złych bóstw bądź ich sług, diabelstwa są zazwyczaj postrzegane przez mieszkańców Faerunu jako złe i niegodne zaufania. Wiele z nich istotnie jest złe, jednak zdarzają się i tacy, którzy pokonując wpływ swojego dziedzictwa dokonują własnego wyboru w kwestii dobra i zła. Z pozoru wyglądający jak ludzie, mają jednak tą jedną lub dwie cechy zdradzające ich pochodzenie. Mogą to być m.in. małe rogi, kły lub spiczaste zęby, rozwidlony język, świecące się, czerwone oczy, kocie oczy, więcej lub mniej niż 5 palców, koźle nogi, kopyta, ogon, futrzasta, skórzasta lub łuskowata skóra, czerwona skóra, sino-niebieska skóra, skóra gorąca w dotyku, roztaczająca się wokół postaci woń siarki (nie jest to wyczerpująca lista). Ponieważ diabelstwa mogą być potomkami różnych istot z Niższych Planów, ciężko jest stwierdzić czy dwa diabelstwa mogą być ze sobą spokrewnione. Często dwóch potomków demonów pochodzące od podobnych, bądź nawet tego samego demona, mogą się znacznie różnić wyglądem. \
