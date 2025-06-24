@@ -11,7 +11,7 @@ Metalurgia pozwala na wytapianie sztabek z rudy lub złomu. Sztabki można nast�
 
 Surowce potrzebne do rzemiosła można zdobywać na trzy sposoby.
 
-1. Wydobycie rudy: [Górnictwo](./05-Gornictwo.md)
+1. Wydobycie rudy: [Górnictwo](./03-Gornictwo.md)
 2. Zbieranie metalowych części (np. ze zniszczonego golema).
 3. Złomowanie metalowych przedmiotów
 
