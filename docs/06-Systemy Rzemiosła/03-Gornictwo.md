@@ -5,7 +5,7 @@ title: 'Górnictwo'
 
 ## Ogólne zasady
 
-System górnictwa pozwala na wydobywanie rud metali (obecnie: rudy żelaza). Z rudy można wytapiać sztabki, które można sprzedawać u kowala lub wykuwać broń (obecnie tylko u NPC w Port Llast, w niedalekiej przyszłości również postacie graczy będą mogły wykuwać broń).
+System górnictwa pozwala na wydobywanie rud metali (obecnie: rudy żelaza). Z rudy można wytapiać sztabki, które można sprzedawać u kowala lub wykuwać broń (u NPC w Port Llast lub przez postacie graczy).
 
 ### Czas wydobycia
 
