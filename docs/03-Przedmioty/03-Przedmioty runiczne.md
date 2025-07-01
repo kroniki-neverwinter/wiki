@@ -47,7 +47,7 @@ Moc run na przedmiocie kumuluje się, co oznacza, że sztylet, który ma 3 Runy 
 
 #### Runa Cienia
 
-- Na broni: Premia do obrażeń: +1 Cień, Ciemność 1x dziennie
+- Na broni: Premia do obrażeń: +2 Cień, Ciemność 1x dziennie
 - Pozostałe przedmioty: Ukrycie 5%
 
 #### Specjalne zasady:
