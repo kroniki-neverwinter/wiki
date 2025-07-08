@@ -23,7 +23,7 @@ Nie ma zastosowania, jak i wszelkie inne atuty związane z jeździectwem.
 
 ### Niszczycielskie trafienie krytyczne
 
-**Rodzaj atutu**: bojowy\
+**Rodzaj atutu**: Bojowy\
 **Wymagania**: Siła 25+, Rozpłatanie, Wielkie rozpłatanie, Ulepszone trafienie krytyczne (w wybranej broni), Przytłaczające trafienie krytyczne (w wybranej broni), Potężny atak, Ulubiona broń (wybranego typu), **Epicki Wojownik**.\
 **Opis**: Jeśli postać trafi krytycznie wroga swoją bronią, ofiara musi wykonać rzut obronny na Wytrwałość przeciwko ST 10 + 1 za każdy epicki poziom wojownika + modyfikator siły; jeśli rzut obronny się nie powiedzie, otrzyma zwiększone obrażenia, w zależności od rozmiaru broni (200 dla dużej broni, 100 dla średniej i 50 dla małej). Postacie odporne na trafienia krytyczne są też odporne na ten atut.\
 **Używanie**: automatyczne.
@@ -40,7 +40,7 @@ Nie ma zastosowania, jak i wszelkie inne atuty związane z jeździectwem.
 
 ### Potężny Atak
 
-**Rodzaj atutu**: ogólny.\
+**Rodzaj atutu**: Ogólny.\
 **Wymagania**: Siła 13+.\
 **Opis**: ten atut pozwala postaci wykonać atak z karą -5 do trafienia, ale z premią +5 do obrażeń. Jest to wyjątkowo przydatne w walce z wytrzymałymi, ale łatwymi do trafienia przeciwnikami. Premia do obrażeń jest podwojona, jeśli postać walczy bronią dwuręczną.\
 **Używanie**: w walce.
@@ -51,14 +51,24 @@ Nie ma zastosowania, jak i wszelkie inne atuty związane z jeździectwem.
 
 ### Ulepszony Potężny Atak
 
-**Rodzaj atutu**: ogólny.\
+**Rodzaj atutu**: Ogólny.\
 **Wymagania**: Siła 13+, Potężny Atak.\
 **Opis**: ten atut pozwala postaci wykonać atak z karą -10 do trafienia, ale z premią +10 do obrażeń. Jest to wyjątkowo przydatne w walce z wytrzymałymi, ale łatwymi do trafienia przeciwnikami. Premia do obrażeń jest podwojona, jeśli postać walczy bronią dwuręczną.\
 **Używanie**: w walce.
 
+### Uprzejmy Magokrata 
+
+**Rodzaj atutu**: Ogólny\
+**Wymagania**: Atut ten można wybrać tylko na pierwszym poziomie.\
+**Opis**: Postać uzyskuje premię +2 do wszystkich testów Dyplomacji i Czaroznawstwa.\
+**Użycie**: Automatyczne.
+
 ### Warzenie Mikstur
 
-**Zastosowanie w autorskim systemie rzemiosła**: [Alchemia](https://wiki.nwn.net.pl/docs/Systemy%20Rzemios%C5%82a/Alchemia#specjalne-premie)
+**Rodzaj atutu**: Rzemiosło.\
+**Wymagania**: Postać rzucająca czary co najmniej 3 poziomu.\
+**Opis**: Atut Warzenie Mikstur zapewnia +2 do testów Wiedzy (Natura) i Wiedzy (Tajemna). Dodatkowo postać otrzymuje premię +5 do rzutów na [Alchemię](https://wiki.nwn.net.pl/docs/Systemy%20Rzemios%C5%82a/Alchemia#specjalne-premie) i odblokowuje wszystkie wyroby poziomów 3-4 oraz następujące Wyroby Specjalne: bomba kwasowa, bomba ogniowa i zestaw uzdrowiciela +10.\
+**Użycie**: Automatyczne.
 
 ### Wiedza barda
 
