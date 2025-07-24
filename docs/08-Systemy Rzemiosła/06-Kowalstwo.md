@@ -86,7 +86,7 @@ Jakie właściwości ostatecznie otrzyma broń wykuta przez twoją postać? Jest
 - Dodatkowo, zawsze jest szansa na stworzenie broni z runą.
 
 Czyli ostatecznie, w najlepszym wypadku możesz stworzyć, np. Mithralowy Długi Miecz +3, Ostrość, PTK 2k12, z 3 miejscami na runę.
-Taki przedmiot nie posiada innych specjalnych właściwości, takich jak np. premia do obrażeń. Można je dodać później przy pomocy [run](../03-Przedmioty/03-Przedmioty%20runiczne.md). 
+Taki przedmiot nie posiada innych specjalnych właściwości, takich jak np. premia do obrażeń. Można je dodać później przy pomocy [run](../09-Przedmioty//03-Przedmioty%20runiczne.md).
 
 ### Krok po kroku
 
