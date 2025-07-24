@@ -108,3 +108,10 @@ Za każde wytworzenie mikstury postać otrzymuje 1 punkt [cząstkowy] w rzemioś
 - Runa Czaszki (tabliczka runiczna, diament, węgiel, ząb wilka)
 - Runa Błogosławieństwa (tabliczka runiczna, topaz, diament, woda święcona)
 - Runa Wampira (tabliczka runiczna, rtęć, rubin, kieł wampira)
+
+### Krok po kroku
+
+![alchemia_okno1](../../static/img/wiki/wiki-rzemioslo/alchemia-1.png)\
+**Kliknij na nazwę przedmiotu, by zacząć wytwarzanie.**
+
+![alchemia_okno2](../../static/img/wiki/wiki-rzemioslo/alchemia-2.png)
