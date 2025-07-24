@@ -1,0 +1,3 @@
+# Informacje o świecie
+
+Tutaj znajdziesz informacje o świecie gry...
