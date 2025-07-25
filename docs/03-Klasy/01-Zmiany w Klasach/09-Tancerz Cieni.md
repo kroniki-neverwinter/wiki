@@ -14,10 +14,10 @@ Ukrywanie na Widoku jest **na krótką chwilę niedostępne po użyciu (cooltime
 | 4      | 16 sekund   |
 | 7      | 14 sekund   |
 | 10     | 12 sekund   |
-| 13     | 10 sekund   |
-| 16     | 8 sekund    |
-| 19     | 6 sekund    |
-| 22     | 0.5 sekundy |
+| 12     | 10 sekund   |
+| 14     | 8 sekund    |
+| 16     | 6 sekund    |
+| 18     | 0.5 sekundy |
 
 ### Unik Cienia
 
