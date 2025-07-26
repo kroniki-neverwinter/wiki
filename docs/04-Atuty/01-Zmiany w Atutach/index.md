@@ -24,8 +24,8 @@ Nie ma zastosowania, jak i wszelkie inne atuty związane z jeździectwem.
 ### Niszczycielskie trafienie krytyczne
 
 **Rodzaj atutu**: Bojowy\
-**Wymagania**: Siła 25+, Rozpłatanie, Wielkie rozpłatanie, Ulepszone trafienie krytyczne (w wybranej broni), Przytłaczające trafienie krytyczne (w wybranej broni), Potężny atak, Ulubiona broń (wybranego typu), **Epicki Wojownik**.\
-**Opis**: Jeśli postać trafi krytycznie wroga swoją bronią, ofiara musi wykonać rzut obronny na Wytrwałość przeciwko ST 10 + 1 za każdy epicki poziom wojownika + modyfikator siły; jeśli rzut obronny się nie powiedzie, otrzyma zwiększone obrażenia, w zależności od rozmiaru broni (200 dla dużej broni, 100 dla średniej i 50 dla małej). Postacie odporne na trafienia krytyczne są też odporne na ten atut.\
+**Wymagania**: Siła 25+, Rozpłatanie, Wielkie rozpłatanie, Ulepszone trafienie krytyczne (w wybranej broni), Przytłaczające trafienie krytyczne (w wybranej broni), Potężny atak, Ulubiona broń (wybranego typu) \
+**Opis**: Jeśli postać trafi krytycznie wroga swoją bronią, ofiara musi wykonać rzut obronny na Wytrwałość przeciwko ST poziom wojownika + modyfikator siły LUB 1/2 poziomu postaci + modyfikator siły (jeśli postać nie jest wojownikiem); jeśli rzut obronny się nie powiedzie, otrzyma zwiększone obrażenia, w zależności od rozmiaru broni (200 dla dużej broni, 100 dla średniej i 50 dla małej). Postacie odporne na trafienia krytyczne są też odporne na ten atut.\
 **Używanie**: automatyczne.
 
 | Rozmiar broni | Dodatkowe obrażenia |
