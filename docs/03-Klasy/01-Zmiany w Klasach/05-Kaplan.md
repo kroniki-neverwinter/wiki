@@ -6,7 +6,8 @@ sidebar_label: 'Kapłan'
 
 ### Wymagania
 
-Przed rozpoczęciem gry kapłanem należy wysłać [kartę postaci](https://wiki.nwn.net.pl/karta-postaci) do MG. Dopiero po jej zatwierdzeniu można rozpocząć rozgrywkę.
+Przed rozpoczęciem gry kapłanem należy wysłać [kartę postaci](https://wiki.nwn.net.pl/karta-postaci) do MG. Dopiero po jej zatwierdzeniu można rozpocząć rozgrywkę.\
+W formularzu muszą się znaleźć wszystkie planowane klasy, zarówno podstawowe, jak i prestiżowe.
 
 ### Kapłani w Faerûnie
 
