@@ -21,7 +21,7 @@ Bycie **Niewiernym**, czyli osobą nieoddającą czci żadnemu bogu, to sytuacja
 
 ## Magia objawień
 
-Paladyni, kapłani, druidzi i łowcy (a także Boscy Czempioni, Czarni Strażnicy itd.) czerpią swoją moc od bóstwa, które ich obdarzyło nią w zamian za szerzenie jego woli. Używanie magii objawionej nie jest tylko przywilejem – wiąże się z odpowiedzialnością i koniecznością przestrzegania zasad wiary. Otrzymane moce służą do walki z wrogami bóstwa, nawracania innych lub ochrony miejsc kultu. Nadużywanie ich lub działanie sprzeczne z wolą boga może prowadzić do utraty zdolności czarowania, a nawet boskiej kary.
+Paladyni, kapłani, druidzi i łowcy czerpią swoją moc od bóstwa, które ich obdarzyło nią w zamian za szerzenie jego woli. Używanie magii objawionej nie jest tylko przywilejem – wiąże się z odpowiedzialnością i koniecznością przestrzegania zasad wiary. Otrzymane moce służą do walki z wrogami bóstwa, nawracania innych lub ochrony miejsc kultu. Nadużywanie ich lub działanie sprzeczne z wolą boga może prowadzić do utraty zdolności czarowania, a nawet boskiej kary.
 
 ### Zmiana wiary
 
