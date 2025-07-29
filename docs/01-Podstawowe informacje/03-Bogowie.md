@@ -4,7 +4,6 @@ sidebar_label: 'Bogowie'
 
 # Bogowie i religia Zapomnianych Krain
 
-
 ## Politeizm w Faerûnie
 
 Faerûn to kraina, w której bogowie są wszechobecni, a ich wpływ odczuwalny na każdym kroku. Wiele bóstw nie tylko ingeruje w losy śmiertelników, ale także pojawiało się na świecie w fizycznej postaci. Większość mieszkańców oddaje cześć wielu bogom, kierując modły do różnych bóstw w zależności od aktualnych potrzeb. Modlitwa do Mystry może pomóc czarodziejowi, Chauntea sprzyja rolnikom, a żeglarze składają ofiary Umberlee, aby uniknąć jej gniewu.
@@ -18,12 +17,11 @@ Choć politeizm jest powszechny, niemal każdy Faeruńczyk ma jedno bóstwo opie
 - Regionu (np. Chauntea na terenach wiejskich),
 - Obecności świątyń (np. Tyr w Neverwinter).
 
-
 Bycie **Niewiernym**, czyli osobą nieoddającą czci żadnemu bogu, to sytuacja skrajnie rzadka i budząca powszechne niezrozumienie. Dusza takiej osoby po śmierci trafia na **Ścianę Niewiernych** – miejsce wiecznego potępienia. Podobny los spotyka **Fałszywych**, czyli tych, którzy deklarują oddanie konkretnemu bóstwu, lecz nie spełniają minimalnych wymagań jego kultu – nie modlą się, nie przestrzegają dogmatów lub wręcz działają przeciwko interesom swojego kościoła.
 
 ## Magia objawień
 
-Paladyni, kapłani, druidzi i łowcy czerpią swoją moc od bóstwa, które ich obdarzyło nią w zamian za szerzenie jego woli. Używanie magii objawionej nie jest tylko przywilejem – wiąże się z odpowiedzialnością i koniecznością przestrzegania zasad wiary. Otrzymane moce służą do walki z wrogami bóstwa, nawracania innych lub ochrony miejsc kultu. Nadużywanie ich lub działanie sprzeczne z wolą boga może prowadzić do utraty zdolności czarowania, a nawet boskiej kary.
+Paladyni, kapłani, druidzi i łowcy (a także Boscy Czempioni, Czarni Strażnicy itd.) czerpią swoją moc od bóstwa, które ich obdarzyło nią w zamian za szerzenie jego woli. Używanie magii objawionej nie jest tylko przywilejem – wiąże się z odpowiedzialnością i koniecznością przestrzegania zasad wiary. Otrzymane moce służą do walki z wrogami bóstwa, nawracania innych lub ochrony miejsc kultu. Nadużywanie ich lub działanie sprzeczne z wolą boga może prowadzić do utraty zdolności czarowania, a nawet boskiej kary.
 
 ### Zmiana wiary
 
@@ -41,257 +39,207 @@ W kontekście rozgrywki fabularnej, jeśli postać „umiera” na wyprawie lub 
 Boscy wysłannicy – kapłani, paladyni, druidzi – są darzeni wielkim szacunkiem przez zwykłych ludzi. Dla przeciętnego mieszkańca Faerunu nawet drobna cudowna interwencja, jak uzdrowienie rany czy złagodzenie choroby, jest czymś niezwykłym i godnym podziwu. Większość społeczeństwa odnosi się do nich z czcią, respektem lub przynajmniej bojaźnią.
 Jednak nie wszyscy okazują im posłuch – szlachta, władcy, bogaci kupcy czy wpływowe organizacje nie zawsze przyjmują autorytet kleryków i paladynów bezkrytycznie. Osoba, która próbuje wywierać wpływ na możnych, może zostać uznana za problem, który należy rozwiązać – niekoniecznie w pokojowy sposób.
 
-## Dostępne bóstwa, domeny i dozwolone połączenia klas dla kapłana
+## Dostępne bóstwa, domeny i dozwolone połączenia klas podstawowych dla kapłana
 
 #### **Akadi**
 **Domeny:** Powietrze, Iluzje, Oszustwa, Podróż\
-**Łączenie z klasami:** ŻADNYCH KLAS PODSTAWOWYCH ANI PRESTIŻOWYCH\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** ŻADNYCH KLAS PODSTAWOWYCH ANI PRESTIŻOWYCH
 
 #### **Auril**
 **Domeny:** Powietrze, Zimno, Zło, Burza, Woda, Gniew\
-**Łączenie z klasami:** łowca\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** łowca
 
 #### **Azuth**
 **Domeny:** Iluzje, Wiedza, Prawo, Magia, Zaklęcia\
-**Łączenie z klasami:** czarodziej (dowolna specjalizacja)\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** czarodziej (dowolna specjalizacja)
 
 #### **Bane**
 **Domeny:** Zazdrość, Zło, Zniszczenie, Nienawiść, Prawo, Duma, Tyrania, Gniew\
-**Łączenie z klasami:** wojownik, czarodziej, czarownik\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** wojownik, czarodziej, czarownik
 
 #### **Beshaba**
 **Domeny:** Chaos, Zło, Przeznaczenie, Pożądanie, Szczęście, Oszustwa, Gniew, Zazdrość\
-**Łączenie z klasami:** łotrzyk\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** łotrzyk
 
 #### **Chauntea**
 **Domeny:** Zwierzęta, Rośliny, Hojność, Dobro, Ochrona, Odnowienie, Ziemia\
-**Łączenie z klasami:** łowca, druid, paladyn\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** łowca, druid, paladyn
 
 #### **Cyric**
 **Domeny:** Chciwość, Chaos, Zło, Zniszczenie, Iluzje, Duma\
-**Łączenie z klasami:** łotrzyk, czarodziej (specjalista iluzji)\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** łotrzyk, czarodziej (specjalista iluzji)
 
 #### **Czerwona Rycerka**
 **Domeny:** Prawo, Szlachectwo, Planowanie, Wstrzemięźliwość, Wojna\
-**Łączenie z klasami:** wojownik, mnich\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** TAK
+**Łączenie z klasami:** wojownik, mnich
 
 #### **Deneir**
 **Domeny:** Dobro, Wiedza, Cierpliwość, Ochrona, Runy\
-**Łączenie z klasami:** czarodziej, mnich\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** czarodziej, mnich
 
 #### **Eldath**
 **Domeny:** Dobro, Rośliny, Ochrona, Woda, Dobroczynność, Społeczność, Rodzina\
-**Łączenie z klasami:** łowca\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** łowca
 
 #### **Gargauth**
 **Domeny:** Zachłanność, Urok, Zazdrość, Zło, Prawo, Duma, Lenistwo, Oszustwa\
-**Łączenie z klasami:** czarownik, łotrzyk\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** czarownik, łotrzyk
 
 #### **Gond**
 **Domeny:** Rzemiosło, Ziemia, Ogień, Wiedza, Metal, Planowanie, Duma\
-**Łączenie z klasami:** łotrzyk\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** łotrzyk
 
 #### **Grumbar**
 **Domeny:** Ziemia, Metal, Równowaga, Jaskinie, Czas\
-**Łączenie z klasami:** ŻADNYCH KLAS PODSTAWOWYCH ANI PRESTIŻOWYCH\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** ŻADNYCH KLAS PODSTAWOWYCH ANI PRESTIŻOWYCH
 
 #### **Helm**
 **Domeny:** Pokora, Prawo, Planowanie, Duma, Ochrona, Siła\
-**Łączenie z klasami:** wojownik, paladyn\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** TAK
+**Łączenie z klasami:** wojownik, paladyn
 
 #### **Ilmater**
 **Domeny:** Dobroczynność, Wytrwałość, Dobro, Leczenie, Pokora, Prawo, Siła, Cierpienie, Wstrzemięźliwość\
-**Łączenie z klasami:** mnich\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** mnich
 
 #### **Istishia**
 **Domeny:** Zniszczenie, Woda, Ocean, Burza, Podróż\
-**Łączenie z klasami:** ŻADNYCH KLAS PODSTAWOWYCH ANI PRESTIŻOWYCH\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** ŻADNYCH KLAS PODSTAWOWYCH ANI PRESTIŻOWYCH
 
 #### **Jergal**
 **Domeny:** Śmierć, Przeznaczenie, Wieczny Spoczynek, Runy, Cierpienie\
-**Łączenie z klasami:** czarodziej (specjalista nekromancji), mnich\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** czarodziej (specjalista nekromancji), mnich
 
 #### **Kelemvor**
 **Domeny:** Prawo, Przeznaczenie, Ochrona, Podróż, Wieczny Spoczynek\
-**Łączenie z klasami:** łowca\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** TAK
+**Łączenie z klasami:** łowca
 
 #### **Kossuth**
 **Domeny:** Zniszczenie, Ogień, Odnowienie, Cierpienie, Gniew\
-**Łączenie z klasami:** czarodziej (specjalista wywoływania), czarownik, mnich\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** czarodziej (specjalista wywoływania), czarownik, mnich
 
 #### **Lathander**
 **Domeny:** Czystość, Chwała, Dobro, Szlachectwo, Ochrona, Blask, Odnowienie, Siła, Słońce, Gorliwość\
-**Łączenie z klasami:** paladyn, mnich\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** TAK
+**Łączenie z klasami:** paladyn, mnich
 
 #### **Leira**
 **Domeny:** Zaklęcia, Urok, Oszustwo, Iluzje\
-**Łączenie z klasami:** czarodziej (specjalista iluzji)\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** czarodziej (specjalista iluzji)
 
 #### **Lliira**
 **Domeny:** Radość, Lenistwo, Podróż, Rodzina, Chaos, Dobro, Urok, Pożądanie, Blask\
-**Łączenie z klasami:** bard\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** bard
 
 #### **Loviatar**
 **Domeny:** Zło, Prawo, Pożądanie, Zemsta, Siła, Cierpienie, Ból, Gniew\
-**Łączenie z klasami:** czarownik, wojownik, czarodziej (specjalista iluzji lub oczarowań), mnich\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** czarownik, wojownik, czarodziej (specjalista iluzji lub oczarowań), mnich
 
 #### **Lurue**
 **Domeny:** Zwierzęta, Dobro, Chaos, Leczenie, Gorliwość, Fey\
-**Łączenie z klasami:** łowca\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** łowca
 
 #### **Malar**
 **Domeny:** Zwierzęta, Bestie, Chaos, Zło, Obżarstwo, Łowy, Księżyc, Siła, Gniew\
-**Łączenie z klasami:** barbarzyńca, łowca, druid\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** barbarzyńca, łowca, druid
 
 #### **Maska**
 **Domeny:** Chciwość, Ciemność, Zazdrość, Zło, Szczęście, Lenistwo, Oszustwa\
-**Łączenie z klasami:** bard, czarodziej (specjalista Iluzji), łotrzyk, zalecane klasy prestiżowe: tancerz cieni\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** bard, czarodziej (specjalista Iluzji), łotrzyk, zalecane klasy prestiżowe: tancerz cieni
 
 #### **Mielikki**
 **Domeny:** Zwierzęta, Fey, Dobro, Rośliny, Podróż\
-**Łączenie z klasami:** łowca, druid\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** łowca, druid
 
 #### **Milil**
 **Domeny:** Urok, Dobro, Wiedza, Szlachectwo, Lenistwo\
-**Łączenie z klasami:** bard, mnich, wojownik\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** bard, mnich, wojownik
 
 #### **Mystra**
 **Domeny:** Magia, Dobro, Iluzje, Wiedza, Runy, Zaklęcia\
-**Łączenie z klasami:** czarownik, czarodziej (dowolna specjalizacja)\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** czarownik, czarodziej (dowolna specjalizacja)
 
 #### **Oghma**
 **Domeny:** Równowaga, Wiedza, Urok, Szczęście, Oszustwa, Podróż, Duma\
-**Łączenie z klasami:** bard, czarodziej (dowolna specjalizacja)\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** bard, czarodziej (dowolna specjalizacja)
 
 #### **Savras**
 **Domeny:** Przeznaczenie, Wiedza, Prawo, Zaklęcia\
-**Łączenie z klasami:** czarodziej, mnich\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** czarodziej, mnich
 
 #### **Selune**
 **Domeny:** Czystość, Chaos, Dobro, Księżyc, Noc, Ochrona, Podróż\
-**Łączenie z klasami:** bard, czarownik\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** bard, czarownik
 
 #### **Shar**
 **Domeny:** Jaskinie, Ciemność, Zło, Wiedza, Noc, Duma\
-**Łączenie z klasami:** łotrzyk, czarownik, czarodziej (specjalista Iluzji, Zaklinania lub Nekromancji)\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** łotrzyk, czarownik, czarodziej (specjalista Iluzji, Zaklinania lub Nekromancji)
 
 #### **Sharess**
 **Domeny:** Chaos, Urok, Zazdrość, Dobro, Pożądanie, Przyjemność, Lenistwo, Podróż, Oszustwa\
-**Łączenie z klasami:** bard\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** bard
 
 #### **Shaundakul**
 **Domeny:** Powietrze, Chaos, Portal, Ochrona, Handel, Podróż\
-**Łączenie z klasami:** łowca\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** łowca
 
 #### **Siamorphe**
 **Domeny:** Wiedza, Prawo, Szlachectwo, Planowanie, Duma\
-**Łączenie z klasami:** wojownik, paladyn\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** TAK
+**Łączenie z klasami:** wojownik, paladyn
 
 #### **Silvanus**
 **Domeny:** Zwierzęta, Rośliny, Ochrona, Odnowienie, Woda\
-**Łączenie z klasami:** druid, łowca\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** druid, łowca
 
 #### **Sune**
 **Domeny:** Chaos, Urok, Dobro, Pożądanie, Przyjemność, Ochrona\
-**Łączenie z klasami:** bard, łotrzyk\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** bard, łotrzyk
 
 #### **Talona**
 **Domeny:** Plagi, Chaos, Zniszczenie, Zło, Zazdrość, Cierpienie\
-**Łączenie z klasami:** łotrzyk\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** łotrzyk
 
 #### **Talos**
 **Domeny:** Chaos, Zniszczenie, Zło, Ogień, Burza, Gniew\
-**Łączenie z klasami:** barbarzyńca, czarownik, czarodziej (specjalista wywoływań)\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** barbarzyńca, czarownik, czarodziej (specjalista wywoływań)
 
 #### **Tempus**
 **Domeny:** Chaos, Duma, Wojna, Siła, Ochrona, Gniew\
-**Łączenie z klasami:** barbarzyńca, wojownik\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** barbarzyńca, wojownik
 
 #### **Tiamat**
 **Domeny:** Zło, Zachłanność, Prawo, Duma, Reptillioni, Tyrania, Gniew\
-**Łączenie z klasami:** czarownik, wojownik\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** czarownik, wojownik
 
 #### **Torm**
 **Domeny:**  Leczenie, Prawo, Duma, Ochrona, Siła, Gorliwość\
-**Łączenie z klasami:** paladyn\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** TAK
+**Łączenie z klasami:** paladyn
 
 #### **Tymora**
 **Domeny:** Szczęście, Dobro, Chaos, Hojność, Zmiany, Ochrona, Podróż, Lenistwo\
-**Łączenie z klasami:** dowolna podstawowa (wyjątki: druid, paladyn, mnich)\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** dowolna podstawowa (wyjątki: druid, paladyn, mnich)
 
 #### **Tyr**
 **Domeny:** Dobro, Wiedza, Prawo, Cierpliwość, Duma, Zemsta, Wstrzemięźliwość, Wojna\
-**Łączenie z klasami:** paladyn, mnich\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** TAK
+**Łączenie z klasami:** paladyn, mnich
 
 #### **Umberlee**
 **Domeny:** Chaos, Zniszczenie, Zazdrość, Zło, Obżarstwo, Ocean, Duma, Burza, Woda, Utopienie, Gniew\
-**Łączenie z klasami:** druid, wojownik, łotrzyk\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** druid, wojownik, łotrzyk
 
 #### **Uthgar**
 **Domeny:** Zwierzęta, Chaos, Zemsta, Siła, Wojna, Gniew\
-**Łączenie z klasami:** wojownik, barbarzyńca, łowca\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** wojownik, barbarzyńca, łowca
 
 #### **Valkur**
 **Domeny:** Powietrze, Chaos, Dobro, Ocean, Ochrona, Gniew\
-**Łączenie z klasami:** łotrzyk, wojownik\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** TAK
+**Łączenie z klasami:** łotrzyk, wojownik
 
 #### **Velsharoon**
 **Domeny:** Chciwość, Magia, Śmierć, Zazdrość, Zło, Duma, Nieśmierć\
-**Łączenie z klasami:** czarodziej (specjalista nekromancji)\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** czarodziej (specjalista nekromancji)
 
 #### **Waukeen**
 **Domeny:** Chciwość, Równowaga, Zazdrość, Wiedza, Duma, Ochrona, Lenistwo, Podróż, Handel\
-**Łączenie z klasami:** bard, łotrzyk\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** bard, łotrzyk
 
 ## Panteony Rasowe
 
@@ -299,64 +247,51 @@ Jednak nie wszyscy okazują im posłuch – szlachta, władcy, bogaci kupcy czy 
 
 #### **Angharradh**
 **Domeny:** Chaos, Elfy, Dobro, Wiedza, Roślina, Ochrona, Odnowienie, Gorliwość\
-**Łączenie z klasami:** Wojownik\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** TAK
+**Łączenie z klasami:** Wojownik
 
 #### **Aerdrie Faenya**
 **Domeny:** Powietrze, Zwierzę, Dobro, Chaos, Elfy, Burza\
-**Łączenie z klasami:** bard, czarownik, łowca\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** bard, czarownik, łowca
 
 #### **Corellon Larethian**
 **Domeny:** Chaos, Dobro, Elfy, Magia, Ochrona, Wojna, Duma\
-**Łączenie z klasami:** wojownik, czarodziej\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** TAK
+**Łączenie z klasami:** wojownik, czarodziej
 
 #### **Eilistraee**
 **Domeny:** Chaos, Urok, Elfy, Drowy, Dobro, Pożądanie, Księżyc, Noc, Łowy\
-**Łączenie z klasami:** Bard, Łowca\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** TAK
+**Łączenie z klasami:** Bard, Łowca
 
 #### **Erevan Ilesere**
 **Domeny:** Chaos, Elfy, Szczęście, Oszustwo, Lenistwo\
-**Łączenie z klasami:** Łotrzyk, czarownik\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** Łotrzyk, czarownik
 
 #### **Fenmarel Mestarine**
 **Domeny:** Zwierzę, Chaos, Elf, Roślina, Podróż\
-**Łączenie z klasami:** łotrzyk, łowca\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** łotrzyk, łowca
 
 #### **Hanali Celanil**
 **Domeny:** Magia, Chaos, Urok, Elfy, Dobro, Żądza, Ochrona, Przyjemność, Gorliwość\
-**Łączenie z klasami:** czarownik, czarodziej (Specjalista Zaklinania)\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** czarownik, czarodziej (Specjalista Zaklinania)
 
 #### **Labelas Enoreth**
 **Domeny:** Chaos, Dobro, Elfy, Wiedza, Czas, Cierpliwość\
-**Łączenie z klasami:** Bard\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** Bard
 
 #### **Rillifane Rallathil**
 **Domeny:** Chaos, Elfy, Dobro, Roślina, Ochrona\
-**Łączenie z klasami:** Łowca\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** Łowca
 
 #### **Sehanine Moonbow**
 **Domeny:** Chaos, Dobro, Elfy, Sen, Księżyc, Iluzja, Wiedza, Podróż\
-**Łączenie z klasami:** Czarodziej (specjalista iluzji lub poznania)\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** Czarodziej (specjalista iluzji lub poznania)
 
 #### **Shevarash**
 **Domeny:** Chaos, Elfy, Odwet, Wojna, Duma, Gniew\
-**Łączenie z klasami:** Wojownik, Czarownik\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** Wojownik, Czarownik
 
 #### **Solonor Thelandira**
 **Domeny:** Chaos, Dobro, Elfy, Roślina, Wojna\
-***Łączenie z klasami:*** Łowca, Czarodziej lub Czarownik (celem rozwoju Mistycznego Łucznika)\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
-
+***Łączenie z klasami:*** Łowca, Czarodziej lub Czarownik (celem rozwoju Mistycznego Łucznika)
 
 ### Panteon drowów - Mroczne Seldarine
 
@@ -364,170 +299,136 @@ Jednak nie wszyscy okazują im posłuch – szlachta, władcy, bogaci kupcy czy 
 
 #### **Eilistraee**
 **Domeny:** Chaos, Urok, Elfy, Drowy, Dobro, Pożądanie, Księżyc, Noc, Łowy\
-**Łączenie z klasami:** Bard, Łowca\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** Bard, Łowca
 
 #### **Vhaeraun**
 **Domeny:** Zachłanność, Drowy, Zazdrość, Zło, Duma, Podróże, Oszustwa\
-**Łączenie z klasami:** Łotrzyk, Czarodziej\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
-
+**Łączenie z klasami:** Łotrzyk, Czarodziej
 
 ### Panteon krasnoludów - Morndinsamman
 
 #### **Abbathor**
 **Domeny:** Chciwość, Krasnoludy, Szczęście, Handel, Oszustwa, Zachłanność\
-**Łączenie z klasami:** łotrzyk\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** łotrzyk
 
 #### **Berronar Czyste Srebro**
 **Domeny:** Społeczność, Krasnoludy, Rodzina, Dobro, Leczenie, Prawo\
-**Łączenie z klasami:** wojownik, bard\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** TAK
+**Łączenie z klasami:** wojownik, bard
 
 #### **Clangeddin Srebrnobrody**
 **Domeny:** Krasnoludy, Dobro, Prawo, Siła, Wstrzemięźliwość, Wojna, Gniew\
-**Łączenie z klasami:** wojownik, mnich\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** wojownik, mnich
 
 #### **Duerra z Podziemi**
 **Domeny:** Krasnoludy, Zło, Prawo, Wojna\
-**Łączenie z klasami:** wojownik\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** wojownik
 
 #### **Dugmaren Jasny Płaszcz**
 **Domeny:** Chaos, Rzemiosło, Krasnoludy, Dobro, Wiedz, Cierpliwość, Runy\
-**Łączenie z klasami:** czarodziej\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** czarodziej
 
 #### **Dumathoin**
 **Domeny:** Chciwość, Jaskinia, Rzemiosło, Krasnoludy, Ziemia, Wiedza, Metal, Duma, Ochrona\
-**Łączenie z klasami:** BRAK\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** BRAK
 
 #### **Gorm Gulthyn**
 **Domeny:** Krasnoludy, Dobro, Prawo, Ochrona, Wojna\
-**Łączenie z klasami:** wojownik\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** wojownik
 
 #### **Haela Jasny Topór**
 **Domeny:** Chaos, Krasnoludy, Dobro, Szczęście, Wojna, Gorliwość\
-**Łączenie z klasami:** barbarzyńca, wojownik\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** barbarzyńca, wojownik
 
 #### **Laduguer**
 **Domeny:** Rzemiosło, Krasnoludy, Zło, Prawo, Magia, Metal, Ochrona\
-**Łączenie z klasami:** wojownik, czarodziej\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** wojownik, czarodziej
 
 #### **Marthammor Duin**
 **Domeny:** Krasnoludy, Dobro, Ochrona, Podróże\
-**Łączenie z klasami:** wojownik, łowca\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** wojownik, łowca
 
 #### **Moradin**
 **Domeny:** Chciwość, Rzemiosło, Krasnoludy, Ziemia, Dobro, Prawo, Duma, Ochrona, Gniew\
-**Łączenie z klasami:** wojownik\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** TAK
+**Łączenie z klasami:** wojownik
 
 #### **Sharindlar**
 **Domeny:** Chaos, Czystość, Dobroczynność, Dobro, Krasnoludy, Księżyc, Leczenie, Lenistwo, Urok, Pożądanie\
-**Łączenie z klasami:** bard\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** bard
 
 #### **Thard Harr**
 **Domeny:** Zwierzęta, Chaos, Krasnoludy, Dobro, Rośliny, Gniew\
-**Łączenie z klasami:** łowca, druid\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** łowca, druid
 
 #### **Vergadain**
 **Domeny:** Chciwość, Krasnoludy, Obżarstwo, Szczęście, Handel, Oszustwa\
-**Łączenie z klasami:** łotrzyk\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** łotrzyk
 
 ### Panteon gnomów - Władcy ze Złotych Wzgórz
 
 #### **Garl Świetlistozłoty**
 **Domeny:** Zachłanność, Rzemiosło, Zazdrość, Gnomy, Dobro, Prawo, Ochrona, Oszustwa\
-**Łączenie z klasami:**  Łotrzyk, Czarodziej (Specjalista Iluzji)\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:**  Łotrzyk, Czarodziej (Specjalista Iluzji)
 
 #### **Baervan Dziki Wędrowiec**
 **Domeny:** Zwierzęta, Gnomy, Dobro, Rośliny, Podróże\
-**Łączenie z klasami:** Łowca\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** Łowca
 
 #### **Callarduran Gładkoręki**
 **Domeny:** Jaskinie, Rzemiosło, Ziemia, Gnomy\
-**Łączenie z klasami:**  Wojownik, Czarodziej (Specjalista Iluzji)\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:**  Wojownik, Czarodziej (Specjalista Iluzji)
 
 #### **Flandal Stalowoskóry**
 **Domeny:** Rzemiosło, Gnomy, Dobro, Metal\
-**Łączenie z klasami:** Wojownik\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** Wojownik
 
 #### **Segojan Herold Ziemi**
 **Domeny:** Jaskinie, Ziemia, Gnomy, Dobro\
-**Łączenie z klasami:** Wojownik, Czarodziej (Specjalista Iluzji)\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** Wojownik, Czarodziej (Specjalista Iluzji)
 
 #### **Baravar Cienista Szata**
 **Domeny:** Gnomy, Dobro, Iluzje, Ochrona, Oszustwa\
-**Łączenie z klasami:** Czarodziej (Specjalista Iluzji), Łotrzyk\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** Czarodziej (Specjalista Iluzji), Łotrzyk
 
 #### **Gaerdal Żelaznoręki**
 **Domeny:** Gnomy, Dobro, Prawo, Ochrona, Wojna\
-**Łączenie z klasami:** Wojownik, Mnich\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** TAK
+**Łączenie z klasami:** Wojownik, Mnich
 
 #### **Urdlen**
 **Domeny:** Chaos, Zachłanność, Ziemia, Zazdrość, Zło, Obżarstwo, Gnomy, Nienawiść\
-**Łączenie z klasami:** Łotrzyk\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** Łotrzyk
 
 ### Panteon niziołków - Dzieci Yondalli
 
 #### **Arvoreen**
 **Domeny:** Dobro, Niziołki, Prawo, Ochrona, Wojna\
-**Łączenie z klasami:** Wojownik, Łowca\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** Wojownik, Łowca
 
 #### **Brandobaris**
 **Domeny:** Zachłanność, Niziołki, Szczęście, Lenistwo, Oszustwa\
-**Łączenie z klasami:** Łotrzyk\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** Łotrzyk
 
 #### **Cyrrollalee**
 **Domeny:** Społeczność, Rodzina, Hojność, Obżarstwo, Dobro, Niziołi, Prawo, Lenistwo\
-**Łączenie z klasami:** Brak\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** Brak
 
 #### **Yondalla**
 **Domeny:** Rodzina, Obżarstwo, Dobro, Niziołki, Ochrona\
-**Łączenie z klasami:** Paladyn\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** TAK
+**Łączenie z klasami:** Paladyn
 
 #### **Sheela Peryroyl**
 **Domeny:** Powietrze, Urok, Niziołi, Pożądanie, Rośliny, Lenistwo\
-**Łączenie z klasami:** Łowca\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** Łowca
 
 #### **Urogalan**
 **Domeny:** Śmierć, Ziemia, Niziołki, Prawo, Ochrona, Wieczny Spoczynek, Wstrzemięźliwość\
-**Łączenie z klasami:** Brak\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** Brak
 
 #### **Dallah Thaun**
 **Domeny:** Chaos, Wiedza, Szczęście, Oszustwa, Niziołki\
-**Łączenie z klasami:** Łotrzyk\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
-
+**Łączenie z klasami:** Łotrzyk
 
 ### Panteon orków
 
 #### **Gruumsh**
 **Domeny:** Jaskinie, Chaos, Orkowie, Zło, Nienawiść, Pożądanie, Siła, Wojna, Gniew\
-**Łączenie z klasami:** Barbarzyńca, Wojownik\
-**Możliwość gry klasą Boski Czempion (Czempion Torma):** NIE
+**Łączenie z klasami:** Barbarzyńca, Wojownik
