@@ -2,7 +2,6 @@
 sidebar_label: 'System języków'
 ---
 
-
 # System języków
 
 ## Dostępne języki graczy
@@ -10,11 +9,16 @@ sidebar_label: 'System języków'
 | Komenda | Język        |
 |---------|--------------|
 | !dr     | Druidzki     |
-| !kr     | Krasnoludzki |
 | !el     | Elfi         |
 | !gn     | Gnomi        |
+| !kr     | Krasnoludzki |
+| !nb     | Niebiański   |
 | !ni     | Niziołczy    |
 | !or     | Orczy        |
+| !ot     | Otchłanny    |
+| !pi     | Piekielny    |
+| !pw     | Podwspólny   |
+| !sm     | Smoczy       |
 
 ## Stopnie znajomości języka
 
@@ -25,6 +29,12 @@ sidebar_label: 'System języków'
 | 61-80     | Średniozaawansowany |
 | 81-94     | Zaawansowany        |
 | 95-100    | Pełna biegłość      |
+
+:::info
+
+Języków można się uczyć w trakcie rozgrywki, wchodząc w interakcję z innymi graczami posługującymi się danym językiem.
+
+:::
 
 ## Opisy przedmiotów języku rasowym
 
