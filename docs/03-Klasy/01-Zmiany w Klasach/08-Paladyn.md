@@ -18,3 +18,7 @@ Nowy atut, który postać otrzymuje automatycznie na 12 poziomie.
 **Wymagania**: Paladyn poziomu 12.\
 **Opis**: Postać otrzymuje wiernego towarzysza, który wspomaga ją w walce.\
 **Użycie**: Poprzez aktywacje.
+
+### Zakony Paladynów
+
+![zakony-paladyn](../../../static/img/wiki/wiki-klasy/czakony-paladyn.png)
