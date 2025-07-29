@@ -15,9 +15,9 @@ Nieznajomość regulaminu nie zwalnia gracza od jego przestrzegania. Administrac
 
 Zalecaną przez administrację kategorią wiekową serwera jest 18+.
 
-### 3. Profil serwera
+### 3. Profil i setting serwera
 
-Kroniki Neverwinter skupiają się na odgrywaniu ról i proaktywnym prowadzeniu historii swojej postaci.
+Kroniki Neverwinter skupiają się na odgrywaniu ról i proaktywnym prowadzeniu historii swojej postaci. Akcja dzieje się w świecie Zapomnianych Krain.
 
 ### 4. Konflikty pomiędzy graczami
 
@@ -50,13 +50,13 @@ Zasadniczo postać na 2 poziomie nie ma prawa posiadać ekwipunku z mithrillu i 
 - **Odgrywanie powinno być zabawą dla wszystkich**. Wszelkiego typu sytuacje, które mogą uderzać w godność osobistą, być wyjątkowo okrutne, obsceniczne, szokujące czy po prostu niesmaczne mogą mieć miejsce tylko za zgodą obu stron.
 - Nie robimy logoutu w pokojach - zdaje mi się to dość oczywiste, dlaczego? A dlatego, żeby nie było dziwnych przypadków, że ktoś loguje się w pokoju zajętym przez kogoś innego i rzuca emotą, że wychodzi spod łóżka.
 - Poleca się stosowanie zasady zdrowego rozsądku wykonując różne akcje w grze. Na przykład, odpoczywanie postacią na środku ulicy, albo wprowadzanie dużych zwierząt do pomieszczeń nie jest zbyt fabularnym zachowaniem i będzie negatywnie odbierane przez straż czy mieszkańców miasta.
-- Zaklęcia mogą mieć różne efekty fabularne, jendak by wszystkim dobrze się grało należy zapoznać się z [**ustanowionymi zasadami**](https://wiki.nwn.net.pl/docs/category/zakl%C4%99cia).
+- Zaklęcia mogą mieć różne efekty fabularne, jendak by wszystkim dobrze się grało należy zapoznać się z [**ustanowionymi zasadami**](https://wiki.nwn.net.pl/docs/Zakl%C4%99cia/Zakl%C4%99cia%20PnP).
+- Zakazuje się okradania postaci, które straciły wszystkie punkty życia podczas przygód - nawet jeśli coś mechanicznie z nich wypadło. Jeśli chce się podjąć taką akcję, nalezy to odegrać i upewnić się, że MG nadzoruje sytuację.
 
 ### 8. Karta Postaci
 Napisanie Karty Postaci nie jest obowiązkowe dla większości klas by mieć możliwość gry na serwerze. Jednakże ekipa zachęca do jej przygotowania i wysłania. Karta Postaci pomaga Mistrzom Gry "poczuć" postać gracza, poznać jej motywacje, historie a także przygotować elementy osobiste na prowadzonych wątkach i questach, które trafią bezpośrednio w potrzeby danej postaci. 
 
 **Ważne!** KP opisuje losy postaci zanim pojawiła się ona w świecie serwera - czyli zanim zaczęła zdobywać poziomy doświadczenia. Dopiero po przejściu przez portal zaczyna się zdobywanie awanturniczego doświadczenia i stawanie się profesjonalistą w swojej dziedzinie.\
-Parę podpowiedzi o przygotowaniu Karty Postaci możecie znaleźć [**tutaj**](https://discord.com/channels/752493729289601025/1345495105707970601).
 
 Dodatkowo, za napisanie Karty Postaci, która zostanie zaakceptowana, przysługują nagrody, w zależności od progu nagrody, który zostanie jej przydzielony:
 - **Próg I** - 1 punkt SAM, 2000 doświadczenia
@@ -144,6 +144,8 @@ Autoryzacja następuje poprzez akceptację Karty Postaci przez Mistrzów Gry, po
 Klasy podstawowe, które wymagają autoryzacji to:
 - [Kapłan](https://wiki.nwn.net.pl/docs/Zmiany%20w%20Klasach/Kaplan)
 - [Mnich](https://wiki.nwn.net.pl/docs/Zmiany%20w%20Klasach/Mnich)
+
+Autoryzacja jest również wymagana, gdy zostaje stworzona postać z wartością cech poniżej 8.
 
 Autoryzacje na rasy prestiżowe będą odrzucone automatycznie, jeśli gracz nie posiada przynajmniej statusu Złoty w [**systemie SAM**](https://wiki.nwn.net.pl/docs/Systemy%20Autorskie/Zdobywanie%20doswiadczenia#status-gracza).
 
@@ -269,7 +271,7 @@ Kapłan MUSI być klasą startową (wybraną na 1 poziomie), jeśli planujesz gr
 
 Chociaż podczas przygody w "papierowej" sesji D&D Czarownik mógłby prawdopodobnie zostać zarówno Mnichem jak i Paladynem (a może nawet jednym i drugim!), ekipa serwera nakłada pewne ograniczenia w tym zakresie. Połączenia klas postaci graczy powinny w niekwestionowany sposób odzwierciedlać ich fabułę. Aby wykluczyć najbardziej kontrowersyjne połączenia, wprowadzamy następujące zasady:
 
-**Kapłan** nie może być łączony z klasami podstawowymi, chyba że połączenie klas pasuje fabularnie do bóstwa. Lista dozwolonych połączeń znajduje się w [opisie Bogów](https://wiki.nwn.net.pl/docs/Podstawowe%20informacje/Bogowie#dost%C4%99pne-b%C3%B3stwa-domeny-i-dozwolone-po%C5%82%C4%85czenia-klas-dla-kap%C5%82ana).
+**Kapłan** nie może być łączony z klasami podstawowymi, chyba że połączenie klas pasuje fabularnie do bóstwa. Lista dozwolonych połączeń znajduje się w [**opisie Bogów**](https://wiki.nwn.net.pl/docs/Podstawowe%20informacje/Bogowie#dost%C4%99pne-b%C3%B3stwa-domeny-i-dozwolone-po%C5%82%C4%85czenia-klas-dla-kap%C5%82ana).
 
 **Paladyn** poświęca swoje życie bóstwu i nie może awansować w żadnej innej klasie podstawowej (wyjątkiem może być Mnich/Paladyn LUB Kapłan/Paladyn, o ile opis bóstwa i zakon dopuszczają takie połączenie - patrz poprzedni punkt)
 
