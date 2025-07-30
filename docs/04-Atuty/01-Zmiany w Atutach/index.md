@@ -49,6 +49,13 @@ Nie ma zastosowania, jak i wszelkie inne atuty związane z jeździectwem.
 
 **Zastosowanie w autorskim systemie rzemiosła**: [Tworzenie Różdżek](https://wiki.nwn.net.pl/docs/Systemy%20Rzemios%C5%82a/Tworzenie%20rozdzek)
 
+### Ulepszone Wyspecjalizowanie
+
+**Rodzaj atutu**: Ogólny\
+**Wymagania**: Int 13+, Wyspecjalizowanie.\
+**Opis**: Postać posiadające ten atut może wykonywać ataki defensywne, uzysując premię +10 do KP i otrzymuje karę -6 do rzutów ataku.\
+**Użycie**: tryb walki.
+
 ### Ulepszony Potężny Atak
 
 **Rodzaj atutu**: Ogólny.\
@@ -76,3 +83,10 @@ Nie ma zastosowania, jak i wszelkie inne atuty związane z jeździectwem.
 **Wymagania**: Bard 1. poziomu, Harfiarz Zwiadowca 1. poziomu.\
 **Opis**: Ten atut zapewnia postaci premię równą 1/4 poziomowi klasowemu do testów wiedzy z każdej dziedziny.\
 **Użycie**: Automatyczne.
+
+### Wyspecjalizowanie
+
+**Rodzaj atutu**: Ogólny\
+**Wymagania**: Int 13+.\
+**Opis**: Postać posiadające ten atut może wykonywać ataki defensywne, uzysując premię +5 do KP i otrzymuje karę -3 do rzutów ataku.\
+**Użycie**: tryb walki.
