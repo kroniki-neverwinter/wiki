@@ -21,4 +21,4 @@ Nowy atut, który postać otrzymuje automatycznie na 12 poziomie.
 
 ### Zakony Paladynów
 
-![zakony-paladyn](../../../static/img/wiki/wiki-klasy/czakony-paladyn.png)
+![zakony-paladyn](../../../static/img/wiki/wiki-klasy/zakony-paladyn.png)

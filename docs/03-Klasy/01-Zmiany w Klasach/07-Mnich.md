@@ -10,9 +10,9 @@ Każdy mnich w Zapomnianych Krainach zobowiązany jest przynależeć do konkretn
 
 #### Lista mnisich zakonów
 
-![zakony-mnich-1](../../static/img/wiki/wiki-klasy/zakony-mnich-1.png)
+![zakony-mnich-1](../../../static/img/wiki/wiki-klasy/zakony-mnich-1.png)
 
-![zakony-mnich-2](../../static/img/wiki/wiki-klasy/zakony-mnich-2.png)
+![zakony-mnich-2](../../../static/img/wiki/wiki-klasy/zakony-mnich-2.png) 
 
 ### Broń mnicha
 Oprócz Kamy, mnich może także używać następujących broni w trybie **Gradu Ciosów**:
