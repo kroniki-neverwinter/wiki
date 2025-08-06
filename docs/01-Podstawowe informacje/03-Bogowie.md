@@ -27,7 +27,7 @@ Paladyni, kapłani, druidzi i łowcy czerpią swoją moc od bóstwa, które ich 
 Poniżej rozpisana jest kompletna lista bóstw natury w Zapomnianych Krainach. Druidzi i łowcy muszą wybrać jedno z tych bóstw na patrona, by móc posługiwać się magią objawień. Druidzi mogą posługiwać się ulubioną bronią wybranego bóstwa bez łamania swoich spirytualistycznych przysiąg (jednak nie znaczy to, że automatycznie są wyszkoleni w używaniu ich). Pogrubiona czcionka wskazuje na bóstwa dostępne na naszym serwerze:\
 [**Aerdrie Faenya**](https://wiki.nwn.net.pl/docs/Podstawowe%20informacje/Bogowie#aerdrie-faenya), [**Angharradh**](https://wiki.nwn.net.pl/docs/Podstawowe%20informacje/Bogowie#angharradh), Anhur, [**Auril**](https://wiki.nwn.net.pl/docs/Podstawowe%20informacje/Bogowie#auril), [**Baervan Dziki Wędrowiec**](https://wiki.nwn.net.pl/docs/Podstawowe%20informacje/Bogowie#baervan-dziki-w%C4%99drowiec), [**Chauntea**](https://wiki.nwn.net.pl/docs/Podstawowe%20informacje/Bogowie#chauntea), Deep Sashelas, [**Eldath**](https://wiki.nwn.net.pl/docs/Podstawowe%20informacje/Bogowie#eldath), [**Fenmarel Mestarine**](https://wiki.nwn.net.pl/docs/Podstawowe%20informacje/Bogowie#fenmarel-mestarine), Gwaeron Windstorm, Hiatea (bóstwo potworów), Isis, [**Lurue**](https://wiki.nwn.net.pl/docs/Podstawowe%20informacje/Bogowie#lurue), [**Malar**](https://wiki.nwn.net.pl/docs/Podstawowe%20informacje/Bogowie#malar), [**Mielikki**](https://wiki.nwn.net.pl/docs/Podstawowe%20informacje/Bogowie#mielikki), Nobanion, Osiris, [**Rillifane Rallanthil**](https://wiki.nwn.net.pl/docs/Podstawowe%20informacje/Bogowie#rillifane-rallathil), Sebek, [**Segojan Herold Ziemi**](https://wiki.nwn.net.pl/docs/Podstawowe%20informacje/Bogowie#segojan-herold-ziemi), Sekolah (bóstwo potworów), Sheela Peryroyl, Shiallia, [**Silvanus**](https://wiki.nwn.net.pl/docs/Podstawowe%20informacje/Bogowie#silvanus), [**Solonor Thelandira**](https://wiki.nwn.net.pl/docs/Podstawowe%20informacje/Bogowie#solonor-thelandira), Stronmaus (bóstwo potworów), [**Talona**](https://wiki.nwn.net.pl/docs/Podstawowe%20informacje/Bogowie#talona), [**Talos**](https://wiki.nwn.net.pl/docs/Podstawowe%20informacje/Bogowie#talos), [**Thard Harr**](https://wiki.nwn.net.pl/docs/Podstawowe%20informacje/Bogowie#thard-harr), Ubtao, Ulutiu, [**Umberlee**](https://wiki.nwn.net.pl/docs/Podstawowe%20informacje/Bogowie#umberlee).
 
-Dodatkowo, [**Kelemevor**](https://wiki.nwn.net.pl/docs/Podstawowe%20informacje/Bogowie#kelemvor) i [**Selune**](https://wiki.nwn.net.pl/docs/Podstawowe%20informacje/Bogowie#selune), mimo że nie należą do zbioru bóstw natury, również mogą obdarzać druidów i łowców mocą magii objawień.
+Dodatkowo, [**Selune**](https://wiki.nwn.net.pl/docs/Podstawowe%20informacje/Bogowie#selune), mimo że nie należy do zbioru bóstw natury, również może obdarzać **łowców** mocą magii objawień. Podobnie jest z [**Kelemevorem**](https://wiki.nwn.net.pl/docs/Podstawowe%20informacje/Bogowie#kelemvor), należy jednak pamiętać, że jego łowcy na pierwszym poziomie _**muszą**_ wybrać Nieumarłego jako Wroga Rasowego.
 
 ### Zmiana wiary
 
@@ -117,7 +117,7 @@ Jednak nie wszyscy okazują im posłuch – szlachta, władcy, bogaci kupcy czy 
 
 #### **Kelemvor**
 **Domeny:** Prawo, Przeznaczenie, Ochrona, Podróż, Wieczny Spoczynek\
-**Łączenie z klasami:** łowca
+**Łączenie z klasami:** łowca (z Wróg Rasowy: Nieumarły)
 
 #### **Kossuth**
 **Domeny:** Zniszczenie, Ogień, Odnowienie, Cierpienie, Gniew\
