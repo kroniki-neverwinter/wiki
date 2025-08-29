@@ -27,7 +27,7 @@ _**Uwaga!** ze względu na ograniczenia silnika gry nie doradzamy łączenia tej
 **Rzucanie zaklęć mistycznych 2 kręgu**\
 **Atak z Zaskoczenia 2k6 (łotrzyk)**\
 **Talent Magiczny:** Iluzje\
-**Umiejętności:** Wiedza Tajemna (4), Upadanie (7), Rozbrajanie Pułapek (7)
+**Umiejętności:** Akrobatyka (7), Wiedza Tajemna (4), Rozbrajanie Pułapek (7)
 
 
 ### Umiejętności
