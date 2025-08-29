@@ -23,6 +23,7 @@ Moc run na przedmiocie kumuluje się, co oznacza, że sztylet, który ma 3 Runy 
 #### Runa Mocy
 
 - Na broni: +1 ulepszenie lub +1 ataku i +2 potężny (broń dystansowa)
+- Na torbach przechowywania: +20% zmniejszenia obciążenia
 - Pozostałe przedmioty: +1 do KP lub +1 do cechy (jeśli przedmiot zapewnia premię do cechy)
 
 #### Runa Ognia
@@ -50,12 +51,14 @@ Moc run na przedmiocie kumuluje się, co oznacza, że sztylet, który ma 3 Runy 
 - Na broni: Premia do obrażeń: +2 Cień, Ciemność 1x dziennie
 - Pozostałe przedmioty: Ukrycie 5%
 
-#### Specjalne zasady:
+##### Specjalne zasady:
 
-Cień to specjalny typ obrażeń, reprezentujący Magię Cienia (praktycznie nieredukowalny)
-ulepszony przedmiot staje się Przedmiotem Cienistego Splotu
-premia do ukrycia sumuje się z Unikiem Cienia Tancerza Cieni i DODATKOWO zapewnia +1 KP do premii z Uniku Cienia za każdą runę
-premia uzyskana z kilku przedmiotów nie sumuje się (czyli maksimum to 15% ukrycia)
+- Cień to specjalny typ obrażeń, reprezentujący Magię Cienia (praktycznie nieredukowalny)
+- premia do ukrycia sumuje się z Unikiem Cienia Tancerza Cieni i DODATKOWO zapewnia +1 KP do premii z Uniku Cienia za każdą runę
+- premia uzyskana z kilku przedmiotów nie sumuje się (czyli maksimum to 15% ukrycia)
+- fabularnie przedmioty ulepszone Runą Cienia posiadają aurę Iluzji (na potrzeby czarów takich jak Wykrycie Magii)
+- Przedmiot ulepszony Runą Cienia nie staje się automatycznie plugawy, ale używanie go może np. godzić w kodeks paladyński
+- Prawa Neverwinter nie dopuszczają do handlu Cienistych Klejnotów ani run, które są z nich wykonane 
 
 #### Runa Trucizny
 
@@ -72,6 +75,11 @@ premia uzyskana z kilku przedmiotów nie sumuje się (czyli maksimum to 15% ukry
 - Na broni: Premia do obrażeń: +1k4 Negatywna Energia
 - Pozostałe przedmioty: Odporność na obrażenia: -5 Negatywna Energia
 
+##### Specjalne zasady:
+
+- Runa Czaszki oraz przedmioty ulepszone Runą Czaszki są postrzegane jako **plugawe** 
+- Prawa Neverwinter nie dopuszczają do handlu przedmiotów nasyconych energią negatywną
+
 #### Runa Błogosławiona
 
 - Na broni: Premia do obrażeń: +1k6 Pozytywna Energia przeciwko Nieumarłym
@@ -82,10 +90,12 @@ premia uzyskana z kilku przedmiotów nie sumuje się (czyli maksimum to 15% ukry
 - Na broni: Wampiryczna Regeneracja 4
 - Pozostałe przedmioty: Szybkie Leczenie +1
 
-#### Specjalne zasady:
+##### Specjalne zasady:
 
-Szybkie Leczenie to typ regeneracji, który się nie sumuje z kilku przedmiotów (czyli leczenie maksimum 3 punkty wytrzymałości co rundę)
-Runa Chaosu
+- Szybkie Leczenie to typ regeneracji, który się nie sumuje z kilku przedmiotów (czyli leczenie maksimum 3 punkty wytrzymałości co rundę)
+- Przedmiot ulepszony Runą Wampira nie staje się automatycznie plugawy, ale używanie go może np. godzić w kodeks paladyński
+
+### Runa Chaosu
 Runa Chaosu może dać dowolny efekt replikujący działanie pozostałych 11 run (losowany podczas ulepszania).
 
 ### Ulepszanie przedmiotów
