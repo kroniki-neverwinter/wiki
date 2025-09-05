@@ -120,7 +120,6 @@ Domena Nienawiści zapewnia automatyczne wzmocnienie zaklęć Zadawania Ran.
 - **Rozproszenie:** Talent, Większy Talent i Epicki Talent Magiczny Odrzucanie zapewniają kolejno premię +2, +4 i +6 do testu rozproszenia (premie się nie sumują, czyli maksymalnie +6)
 - **Większa Magiczna Broń:** Zapewnia premię za ulepszenie broni +1 na 5 poziomów rzucającego, maksymalnie +5 na 25 poziomie. Czar działa wyłącznie na broń, a więc nie na przywołane istoty korzystające z broni naturalnej. Można go stosować również na broń dystansową (łuki, kusze, proce). Czas trwania to 1 runda na poziom. Talent, Większy Talent i Epicki Talent Magiczny Przemiany zwiększają kolejno czas trwania zaklęcia 2x, 3x i 5x.
 - **Wykrycie Pułapek:** Zapewnia premię 10 + 1/2 poziomu czarującego do przeszukiwania, 1 runda / poziom czarującego. Nie rozbraja pułapek.
-Zadawanie Poważnych Ran: Analogicznie do wersji leczącej; zadaje obrażenia lub leczy nieumarłych.
 
 ### Poziom IV
 - **Boska Moc:** +1 do ataku na 5 poziomów kapłana, max +5; podniesienie Siły do 18 i dodatkowe Punkty Wytrzymałości: 1 / poziom Kapłana (jak w oryginale), dodatkowy atak (nie sumuje się z Przyspieszeniem)
@@ -128,7 +127,6 @@ Zadawanie Poważnych Ran: Analogicznie do wersji leczącej; zadaje obrażenia lu
 - **Tarcza Żywiołów:** Magiczna tarcza która zapewnia 50% niewrażliwości na ogień i zimno oraz zadaje 2k6 obrażeń od ognia, Talent, Większy Talent i Epicki Talent Magiczny Wywoływanie zapewniają kolejno premię +1, +2 i +3 do obrażeń
 - **Ulepszona Niewidzialność:** Zapewnia standardową niewidzialność oraz zasłonę 10 + 1/2 poziomu rzucającego (30% na 40 poziomie). Talent, Większy Talent i Epicki Talent Magiczny Iluzje zapewniają kolejno premię +2%, +4% i +6% (premie się nie sumują, czyli maksymalnie +6% do zasłony).
 - **Nałożenie Klątwy:** Nakłada karę do wszystkich cech w wysokości poziom rzucającego / 5 (czyli maksymalnie 8).
-Zadawanie Krytycznych Ran: Analogicznie do wersji leczącej; zadaje obrażenia lub leczy nieumarłych.
 - **Przyzwanie Cieni:** W miejsce Cienia, czarujący przywołuje Iluzoryczny Twór (częściowo realny konstrukt). Jego moc rośnie wraz z poziomem czarującego, osiągając maksymalną siłę na 15 poziomie. Talent, Większy Talent i Epicki Talent Magiczny Iluzje dodatkowo wzmacniają przywołaną istotę. 
 
 ### Poziom V
