@@ -101,15 +101,15 @@ Domena Nienawiści zapewnia automatyczne wzmocnienie zaklęć Zadawania Ran.
 - **Zbroja Maga:** zapewnia +4 KP za zbroję
 
 ### Poziom II
-- **Kocia Zwinność:** +4 do Zręczności, 1 tura/poziom; Czar nie działa na Konstrukty i Nieumarłych
+- **Kocia Zwinność:** +4 do Zręczności, 3 tury/poziom
 - **Kołatka:** Otwiera zamknięty na zamek obiekt lub drzwi, jeśli rzut na czaroznastwo przewyższa ST zamka
-- **Lisia Przebiegłość:** +4 do Inteligencji, 1 tura/poziom; Czar nie działa na Konstrukty i Nieumarłych
-- **Majestat Orła:** +4 do Charyzmy, 1 tura/poziom; Czar nie działa na Konstrukty i Nieumarłych
-- **Mądrość Sowy:** +4 do Mądrości, 1 tura/poziom;; Czar nie działa na Konstrukty i Nieumarłych
+- **Lisia Przebiegłość:** +4 do Inteligencji, 3 tury/poziom
+- **Majestat Orła:** +4 do Charyzmy, 3 tury/poziom
+- **Mądrość Sowy:** +4 do Mądrości, 3 tury/poziom
 - **Mniejsze Rozproszenie:** Talent, Większy Talent i Epicki Talent Magiczny Odrzucanie zapewniają kolejno premię +2, +4 i +6 do testu rozproszenia (premie się nie sumują, czyli maksymalnie +6)
 - **Płonąca Broń:** premia 1k4 obrażeń od ognia na broń; 1k6 od 15 poziomu i 1k8 od 30. Czar ten rozprasza Mrożącą Broń. Czar działa wyłącznie na broń, a więc nie na przywołane istoty korzystające z broni naturalnej. Można go stosować również na broń dystansową (łuki, kusze, proce).
-- **Siła Byka:** +4 do Siły, 1 tura/poziom; Czar nie działa na Konstrukty i Nieumarłych
-- **Wytrzymałość:** +4 do Kondycji, 1 tura/poziom; Czar nie działa na Konstrukty i Nieumarłych
+- **Siła Byka:** +4 do Siły, 3 tury/poziom
+- **Wytrzymałość:** +4 do Kondycji, 3 tury/poziom
 - **Zbroja Śmierci:** Magiczna tarcza która zadaje 1k4 obrażeń od energii negatywnej, Talent, Większy Talent i Epicki Talent Magiczny Nekromancja zapewniają kolejno premię +1, +2 i +3 do obrażeń
 
 ### Poziom III
@@ -129,12 +129,16 @@ Zadawanie Poważnych Ran: Analogicznie do wersji leczącej; zadaje obrażenia lu
 - **Ulepszona Niewidzialność:** Zapewnia standardową niewidzialność oraz zasłonę 10 + 1/2 poziomu rzucającego (30% na 40 poziomie). Talent, Większy Talent i Epicki Talent Magiczny Iluzje zapewniają kolejno premię +2%, +4% i +6% (premie się nie sumują, czyli maksymalnie +6% do zasłony).
 - **Nałożenie Klątwy:** Nakłada karę do wszystkich cech w wysokości poziom rzucającego / 5 (czyli maksymalnie 8).
 Zadawanie Krytycznych Ran: Analogicznie do wersji leczącej; zadaje obrażenia lub leczy nieumarłych.
+- **Przyzwanie Cieni:** W miejsce Cienia, czarujący przywołuje Iluzoryczny Twór (częściowo realny konstrukt). Jego moc rośnie wraz z poziomem czarującego, osiągając maksymalną siłę na 15 poziomie. Talent, Większy Talent i Epicki Talent Magiczny Iluzje dodatkowo wzmacniają przywołaną istotę. 
 
 ### Poziom V
+- **Dominacja: Osoba:** Zaklęcie trwa 2 rundy na poziom rzucającego, Talent, Większy Talent i Epicki Talent Magiczny Zaklinanie zapewniają kolejno wydłużenie czasu działania do 3 / 5 / 10 rund na poziom. 
 - **Kwasowa Opoka Mestila:** Magiczna tarcza która zapewnia 50% niewrażliwości na kwas i zadaje 2k10 obrażeń od kwasu, Talent, Większy Talent i Epicki Talent Magiczny Sprowadzanie zapewniają kolejno premię +1, +2 i +3 do obrażeń
 - **Potworna Regeneracja:** Czar nie działa na Konstrukty i Nieumarłych
+- **Większe Przyzwanie Cieni:** W miejsce Cienia, czarujący przywołuje Iluzoryczny Twór (częściowo realny konstrukt). Jego moc rośnie wraz z poziomem czarującego, osiągając maksymalną siłę na 15 poziomie. Talent, Większy Talent i Epicki Talent Magiczny Iluzje dodatkowo wzmacniają przywołaną istotę.
 
 ### Poziom VI
+- **Cienie:** W miejsce Cienia, czarujący przywołuje Iluzoryczny Twór (częściowo realny konstrukt). Jego moc rośnie wraz z poziomem czarującego, osiągając maksymalną siłę na 15 poziomie. Talent, Większy Talent i Epicki Talent Magiczny Iluzje dodatkowo wzmacniają przywołaną istotę.
 - **Grupowe Przyspiszenie**: +50% szybkości poruszania się, dodatkowy atak, +2 KP / 3 KP z Talentem Magicznym Przemiany / 4 KP z Większym Talentem Magicznym Przemiany, jedynie zaklęcia kręgów 0-3 mogą być przyspieszone (w oryginale mag dostawał dodatkowy czar na rundę)
 - **Kontrola nad Nieumarłym:** Zaklęcie trwa 2 rundy na poziom rzucającego, Talent, Większy Talent i Epicki Talent Magiczny Nekromancja zapewniają kolejno wydłużenie czasu działania do 3 / 5 / 10 rund na poziom. 
 - **Krzywda:** Udany rzut obronny na Siłę Woli pozwala otrzymać połowę obrażeń.
@@ -147,6 +151,7 @@ Zadawanie Krytycznych Ran: Analogicznie do wersji leczącej; zadaje obrażenia l
 
 ### Poziom VII
 - **Chwytająca Dłoń Bigby'ego:** Zaklęcie trwa 1 rundę na 2 poziomy rzucającego, ale przeciwko postaciom graczy czas trwania jest skrócony do 1 rundy na 12 poziomów rzucającego (maksymalnie 3 rundy na 36 poziomie). Przeciwko postaciom graczy Przedłużenie Zaklęcia wydłuża czas działania o 1 rundę.
+- **Miecz Mordenkainena:** Zaklęcie trwa 2 rundy na poziom rzucającego, Talent, Większy Talent i Epicki Talent Magiczny Przemiany zapewniają kolejno wydłużenie czasu działania do 3 / 5 / 10 rund na poziom. Talenty magiczne dodatkowo wzmacniają przyzwany konstrukt. 
 - **Regeneracja:** Czar nie działa na Konstrukty i Nieumarłych
 
 ### Poziom VIII
