@@ -87,7 +87,7 @@ Domena Nienawiści zapewnia automatyczne wzmocnienie zaklęć Zadawania Ran.
 
 ### Sztuczki
 - **Flara:** Talent Magiczny Wywoływanie zapewnia efekt -3 premii do ataku dla celu (standardowo -1)
-- **Odporność:** Talent Magiczny w Odrzucaniu zapewnia premię +2 (standardowo +1) do rzutów obronnych, czar nie działa na Konstrukty i Nieumarłych
+- **Odporność:** Talent Magiczny w Odrzucaniu zapewnia premię +2 (standardowo +1) do rzutów obronnych
 - **Oszołomienie:** wpływa na istoty które mają 5 KW + 1 KW / 3 poziomy rzucającego
 - **Wstrząs Elektryczny:** zadaje 1k4 obrażeń na dwa poziomy rzucającego, maksymalnie 5k4
 
