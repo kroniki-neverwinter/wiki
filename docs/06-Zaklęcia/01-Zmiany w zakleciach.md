@@ -92,7 +92,7 @@ Domena Nienawiści zapewnia automatyczne wzmocnienie zaklęć Zadawania Ran.
 - **Wstrząs Elektryczny:** zadaje 1k4 obrażeń na dwa poziomy rzucającego, maksymalnie 5k4
 
 ### Poziom I
-- **Celne Uderzenie:** Zapewnia premię do ataku 1/2 poziomu czarującego (maksymalnie +20)
+- **Celne Uderzenie:** Zapewnia premię do ataku 7 + 1/3 poziomu czarującego (maksymalnie +20)
 - **Huk Horizikaul'a:** Zadaje 1k6 obrażeń dźwiękowych / 2 poziomy (maksymalnie 5k6), nieudany rzut obronny powoduje ogłuszenie na 1k4 rundy
 - **Identyfikacja:** Identyfikuje przedmiot o wartości 10000 + 1000/poziom rzucającego
 - **Przerażenie:** Wpływa na istoty o poziomie 5 + 1/3 poziomu czarującego (maksymalnie 18)
