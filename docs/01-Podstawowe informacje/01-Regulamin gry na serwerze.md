@@ -56,7 +56,7 @@ Zasadniczo postać na 2 poziomie nie ma prawa posiadać ekwipunku z mithrillu i 
 ### 8. Karta Postaci
 Napisanie Karty Postaci nie jest obowiązkowe dla większości klas by mieć możliwość gry na serwerze. Jednakże ekipa zachęca do jej przygotowania i wysłania. Karta Postaci pomaga Mistrzom Gry "poczuć" postać gracza, poznać jej motywacje, historie a także przygotować elementy osobiste na prowadzonych wątkach i questach, które trafią bezpośrednio w potrzeby danej postaci. 
 
-**Ważne!** KP opisuje losy postaci zanim pojawiła się ona w świecie serwera - czyli zanim zaczęła zdobywać poziomy doświadczenia. Dopiero po przejściu przez portal zaczyna się zdobywanie awanturniczego doświadczenia i stawanie się profesjonalistą w swojej dziedzinie.\
+**Ważne!** KP opisuje losy postaci zanim pojawiła się ona w świecie serwera - czyli zanim zaczęła zdobywać dalsze poziomy doświadczenia. Dopiero po przejściu przez portal zaczyna się znaczące zdobywanie awanturniczego doświadczenia i stawanie się profesjonalistą w swojej dziedzinie. Karta Postaci może się odnosić do mocy postaci na maksymalnie 3 poziomie, jednak musi mieć to odpowiednie podłoże fabularne.\
 
 Dodatkowo, za napisanie Karty Postaci, która zostanie zaakceptowana, przysługują nagrody, w zależności od progu nagrody, który zostanie jej przydzielony:
 - **Próg I** - 1 punkt SAM, 2000 doświadczenia
