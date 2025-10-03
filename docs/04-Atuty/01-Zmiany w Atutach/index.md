@@ -54,7 +54,7 @@ Nie ma zastosowania, jak i wszelkie inne atuty związane z jeździectwem.
 **Rodzaj atutu**: Ogólny\
 **Wymagania**: Int 13+, Wyspecjalizowanie.\
 **Opis**: Postać posiadające ten atut może wykonywać ataki defensywne, uzysując premię +10 do KP i otrzymuje karę -6 do rzutów ataku.\
-**Użycie**: tryb walki.
+**Użycie**: tryb walki (podjęcie innych akcji, jak czarowanie, bądź zmiana broni, wyłącza tryb Wyspecjalizowania).
 
 ### Ulepszony Potężny Atak
 
@@ -89,4 +89,4 @@ Nie ma zastosowania, jak i wszelkie inne atuty związane z jeździectwem.
 **Rodzaj atutu**: Ogólny\
 **Wymagania**: Int 13+.\
 **Opis**: Postać posiadające ten atut może wykonywać ataki defensywne, uzysując premię +5 do KP i otrzymuje karę -3 do rzutów ataku.\
-**Użycie**: tryb walki.
+**Użycie**: tryb walki (podjęcie innych akcji, jak czarowanie, bądź zmiana broni, wyłącza tryb Wyspecjalizowania).
