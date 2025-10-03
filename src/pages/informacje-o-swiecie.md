@@ -7,11 +7,12 @@ Tutaj znajdziesz informacje o świecie gry...
 ## Znane języki
 Postać może znać różne [języki](https://forgottenrealms.fandom.com/wiki/Category:Languages), niektóre z nich mamy [dostępnie mechanicznie](https://wiki.nwn.net.pl/docs/Systemy%20Autorskie/System%20jezykow), inne istnieją na obecną chwilę jedynie fabularnie.
 
-Każda z postaci posiada:
+Każda z postaci może mieć:
 - Język wspólny
 - 1 język regionalny
 - 1 język rasowy (nie dotyczy ludzi)
-- Języki bonusowe w ilości równej modyfikatorowi **bazowej** Inteligencji +1
+- Języki bonusowe w ilości równej modyfikatorowi **bazowej** Inteligencji
+- 1 bonusowy język do nauki wyłącznie w trakcie rozgrywki
 
 **Na przykład:** Postać elfiego łowcy z Neverwinter, z inteligencją na poziomie 14, będzie znać język wspólny, [illuskański](https://forgottenrealms.fandom.com/wiki/Illuskan_language), elfi, a do tego może nauczyć się jeszcze 3 innych języków.
 
