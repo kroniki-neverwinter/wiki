@@ -7,7 +7,7 @@ sidebar_label: 'Czarny Strażnik'
 **Charakter:** dowolny Zły \
 **Bazowy atak:** +6 \
 **Atuty:** Rozpłatanie \
-**Umiejętności:** Ukrywanie (5), Wiedza Religia (2)
+**Umiejętności:** Ukrywanie (5), Wiedza Religia (2)\
 **Specjalne:** Musi wyznawać bóstwo o charakterze dowolnym Złym
 
 ### Umiejętności
