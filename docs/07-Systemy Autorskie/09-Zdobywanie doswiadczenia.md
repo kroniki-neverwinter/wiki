@@ -6,8 +6,9 @@ sidebar_label: 'Zdobywanie doświadczenia'
 # Podstawowe informacje
 
 ## System Autoexpa Mefisto (SAM)
+Czyli swego rodzaju ocena odgrywania, przyznawana poprzez punkty nadawane przez MG. Punkty SAM nie są nagrodą za udział w przygodach, a docenieniem takich aspektów jak: spójność postaci, odgrywanie zgodne z kartą/statystykami, czy zachowanie immersji świata przedstawionego.
 
-Postać otrzymuje co godzinę **200 XP + 75** za każdy poziom autoexpa.
+Postać otrzymuje co godzinę **200 XP + 75** za każdy poziom autoexpa.\
 Poziomy autoexpa zdobywa się dzięki punktom od MG przyznawanym za odgrywanie.
 
 | Poziom autoexpa | Nagroda |
@@ -38,7 +39,7 @@ Poziomy autoexpa zdobywa się dzięki punktom od MG przyznawanym za odgrywanie.
 - jeśli mam 10 punktów SAM, mogę uzyskać maksymalnie 20 poziom, po czym PD za potwory zostaną zablokowane
 
 #### Ratunku, nigdy nie miałem więcej niż 1 punkt SAM! Jak grać?!
-Dzięki nowemu systemowi, a.k.a. "Storytelling", MG będą mogli obserwować każdy ruch twojej postaci i każdą odgrywkę, nawet jeśli w danym momencie nie będzie MG na serwerze. Umożliwi to lepsze przyznawanie nagród i punktów SAM (tak, nawet dla postaci nie biorących udziału w przygodach - np. ze względu na grę w "dziwnych" porach dnia; wystarczy odgrywać). 
+Dzięki nowemu systemowi, a.k.a. ["**Storytelling**"](https://wiki.nwn.net.pl/docs/Systemy%20Autorskie/Storytelling), MG mają wgląd w różne dodatkowe poczynania twojej postaci. Umożliwia to lepsze przyznawanie nagród i punktów SAM.
 
 :::info
 
