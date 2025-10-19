@@ -54,8 +54,27 @@ Ale jeśli coś chcecie wysłać i gdyby ktoś inny wam to pokazał, jedyne co b
 - Odpowiedzi będą przekazywane zależnie od mocy przerobowych ekipy. Nie mamy SLA :smile: kiedy damy radę - odpiszemy.
 - Jeśli wysłałeś zapytanie do konkretnego wątku, poczekaj na odpowiedź od MG, nim ponownie napiszesz w tym samym temacie.
 
-### Czego można się spodziewać w odpowiedzi?
-TBD
+### Przykłady
+**Przykład storytellingu:** *Alaric chce przeszukać stary magazyn, starając się znaleźć jakiekolwiek dokumenty dotyczące zaginionego konwoju oraz wysyła list do kapitana straży, informując go o podejrzeniach wobec gildii kupieckiej.*
+| Typ sytuacji | Czego można się spodziewać od MG | Czym kieruje się MG (wiedza IC, której gracz/postać jeszcze nie posiada, a wynika z rozpisania fabuły) | Przykłady |
+| - | - | - | - |
+| Opis możliwości, otoczenia, wynik poszukiwań | Nie jesteś w stanie dostać się do magazynu - jest zbyt dobrze chroniony. | Organizacja jest zbyt dobrze zorganizowana, by dostać się do środka konwencjonalnymi metodami. | Postać musi znaleźć alternatywną drogę lub pomoc. |
+| Opis możliwości, otoczenia, wynik poszukiwań | MG prosi o doprecyzowanie sposobu dostania się do magazynu + ewentualne rzuty. | MG sprawdza, czy gracz wybrał logiczny lub kreatywny sposób działania. | „Jak dokładnie próbujesz się dostać do środka?” / „Rzuć na Skradanie lub Zręczność.” |
+| Opis możliwości, otoczenia, wynik poszukiwań | Dostajesz się do magazynu – wewnątrz znajdujesz stare skrzynie. | Magazyn nie jest szczególnie wymagający do zbadania; scena służy budowaniu tła fabularnego. | Znalezienie śladu lub przedmiotu pomocnego w dalszej fabule. |
+| Prośba o rzut (np. na przeszukiwanie) | Wśród zbutwiałych skrzyń znajdujesz fragment mapy z zaznaczoną trasą. | Wynik **udanego rzutu** – postać dostrzega coś istotnego. | Trop do dalszej części przygody. |
+| Prośba o rzut (np. na przeszukiwanie) | Znajdujesz mnóstwo zbutwiałych skrzyń, nic więcej. | Wynik **nieudanego rzutu** – postać nie odnajduje nic wartościowego. | Można wrócić później lub poprosić o pomoc innego gracza. |
+| Odpowiedź od NPC (kapitan straży) | Kapitan dziękuje ci za czujność, ale prosi o dowody — nie może działać bez podstaw. | Kapitan decyduje się nie angażować z przyczyn politycznych lub osobistych. | Sprawa wymaga dalszych działań ze strony gracza. |
+| Odpowiedź od NPC (kapitan straży) | Kapitan odpowiada, że zarzuty są bezpodstawne. | Kapitan nie wierzy postaci lub nie chce uznać winy gildii. | Gracz może zdobywać dowody lub przekonać NPC do zmiany zdania. |
+| Odpowiedź od NPC (kapitan straży) | Kapitan nie udziela odpowiedzi. | Kapitan uznaje, że mają ważniejsze sprawy na głowie. | Wskazówka, by poszukać innej drogi (np. rady miejskiej, innych NPC lub postaci graczy). |
+| Konsekwencje fabularne | Brak konsekwencji. | Sytuacja nie ma dalszego wpływu na świat gry. | Nie każda akcja musi prowadzić do efektu. |
+
+### Dodatkowe wskazówki
+- MG nie zdradza wiedzy, której postać nie posiada (IC ≠ OOC) - MG kieruje się wyłącznie wiedzą świata gry (IC). Nie ujawnia informacji spoza fabuły (OOC), nawet jeśli mogłyby one ułatwić działania postaci. To pozwala zachować realizm i spójność narracji.
+- Storytelling to współtworzenie świata - opisuj działania i emocje, nie tylko efekty.
+- Nie wszystko musi się udać - porażka to też rozwój historii, otwiera nowe możliwości, ujawnia cechy postaci i pozwala rozwijać wątek w nieoczekiwany sposób.
+- Nieudana akcja też jest informacją - fabularna wskazówka, zachęta do innego podejścia lub szansa na odkrycie nowych szczegółów.
+- Bądź precyzyjny - im dokładniejszy opis, tym bogatsza reakcja MG. Nie chodzi o piękne słownictwo, tylko o jasny, konkretny opis tego, co dokładnie i w jaki sposób robi postać.
+- Zapytaj MG, gdy nie wiesz, co dalej - jeśli po otrzymaniu odpowiedzi na opis storytellingowy nie masz pomysłu, jak kontynuować (lub nie wiesz, czy to koniec wątku), możesz dopytać Mistrza Gry, czy wątek jest już zamknięty, czy też można w nim jeszcze coś zrobić.
 
 ## Komenda na Discord /milestone
 Gracze mają dostęp do nowej komendy na Discordzie serwera: `/milestone`\
