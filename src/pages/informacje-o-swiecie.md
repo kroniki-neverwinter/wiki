@@ -1,4 +1,4 @@
-# Informacje o świecie
+# Informacje o świecie (WIP)
 
 Tutaj znajdziesz informacje o świecie gry...
 
@@ -16,7 +16,7 @@ Każda z postaci może mieć:
 
 **Na przykład:** Postać elfiego łowcy z Neverwinter, z inteligencją na poziomie 14, będzie znać język wspólny, [**illuskański**](https://forgottenrealms.fandom.com/wiki/Illuskan_language), elfi, a do tego może nauczyć się jeszcze 3 innych języków.
 
-Postać może uczyć się nowych języków już podczas rozgrywki, na przykład od jakiegoś NPC, albo od innej postaci, czy z pomocą [**storytellingu**](https://wiki.nwn.net.pl/docs/Systemy%20Autorskie/Storytelling). Można też wykazać znajomość jakiegoś języka w przesłanej Karcie Postaci. Należy wtedy zaznaczyć w historii kiedy postać miała okazję nauczyć się tego języka.
+Postać może uczyć się nowych języków już podczas rozgrywki, na przykład od jakiegoś NPC, albo od innej postaci, czy z pomocą [**storytellingu**](https://wiki.nwn.net.pl/docs/Systemy%20Autorskie/StorytellingMilestone). Można też wykazać znajomość jakiegoś języka w przesłanej Karcie Postaci. Należy wtedy zaznaczyć w historii kiedy postać miała okazję nauczyć się tego języka.
 
 Należy pamiętać, że jeśli ktoś nie przesłał pełnej Karty Postaci, języki bonusowe nie przysługują i postać musi się ich nauczyć już podczas rozgrywki.
 
@@ -25,9 +25,17 @@ A tłumacząc dokładniej - "*przynależność moralna*". Jest to jedna ze staty
 To czyny, których postać dokonuje decydują o tym jaką ma przynależność moralną, a nie odwrotnie. "Alignment" nie określa usposobienia czy cech charakteru postaci, a jest konsekwencją jej działań. W momencie kreacji postaci, jej historia do tej pory określi charakter.
 
 ### Znaczenie przynależności moralnej
-Główne znaczenie ma dla tych, którzy posługują się magią objawień...TBD
+Główne znaczenie ma dla tych, którzy posługują się magią objawień - zbaczenie na ścieżkę niezgoną z tym, jaki charakter dane bóstwo akceptuje u swoich wyznawców, prowadzi do utracenia mocy pochodzącej od tego bóstwa.\
+Mnisi również muszą trzymać się ścieżki praworządności by nie utracić możliwości awansu w tej klasie.
 
-Ważne jest, aby pamiętać, że w kosmologii Faerunu nie liczą się intencje czy konsekwencje czynów - o tym czy czyn jest Dobry, czy Zły, decyduje się tu i teraz.
+Ważne jest, aby pamiętać, że w kosmologii Faerunu nie liczą się intencje czy dalekosiężne konsekwencje czynów - o tym czy czyn jest dobry, zły, chaotyczny czy praworządny decyduje się tu i teraz.
+
+#### Na przykład:
+Drużyna zabija praworządnego dobrego lorda, który przemieniony za pomocą klątwy w wielkiego moredrczego wilka atakował kogo popadnie. Jeśli lord:
+- A) Chodził po swoim dworzyszczu na uboczu i atakował wszystko co sie rusza w okolicy - czy to była sytuacja, w której drużyna nie miała czasu zorientować się co się dzieje, przygotować się, pokonać go bez zabijania?
+- B) Napadł na Neverwinter, zabił wielu niewinnych, co wywołało ogólny chaos i nie było czasu na myślenie - czy drużyna miała moment na przemyślenia tutaj, czy gonił ją czas?
+
+W przypadku A to będzie zły czyn, w przypadku B to nie będzie zły czyn, bo drużyna działała w trybie nagłym. Ważne było ratowanie życia i nie było czasu by przemyśleć inne alternatywy.
 
 ### Przyznawanie punktów charakteru
 Obserwując zachowania postaci Mistrzowie Gry mogą przydzielać punkty charakteru. Otrzymywanie punktów w stronę innych charakterów niż te, które widnieją w karcie postaci **nie jest karą**. To tylko i wyłącznie konsekwencja jakiegoś działania postaci.
