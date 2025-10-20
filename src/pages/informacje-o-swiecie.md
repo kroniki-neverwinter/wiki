@@ -25,8 +25,13 @@ A tłumacząc dokładniej - "*przynależność moralna*". Jest to jedna ze staty
 To czyny, których postać dokonuje decydują o tym jaką ma przynależność moralną, a nie odwrotnie. "Alignment" nie określa usposobienia czy cech charakteru postaci, a jest konsekwencją jej działań. W momencie kreacji postaci, jej historia do tej pory określi charakter.
 
 ### Znaczenie przynależności moralnej
-Główne znaczenie ma dla tych, którzy posługują się magią objawień - zbaczenie na ścieżkę niezgoną z tym, jaki charakter dane bóstwo akceptuje u swoich wyznawców, prowadzi do utracenia mocy pochodzącej od tego bóstwa.\
-Mnisi również muszą trzymać się ścieżki praworządności by nie utracić możliwości awansu w tej klasie.
+Główne znaczenie ma dla tych, którzy posługują się magią objawień - zbaczenie na ścieżkę niezgoną z tym, jaki charakter dane bóstwo akceptuje u swoich wyznawców, prowadzi do utracenia mocy pochodzącej od tego bóstwa. Dodatkowo druidzi muszą zawsze pozostać neutralni.
+
+Również:
+- Mnisi muszą trzymać się ścieżki praworządności by nie utracić możliwości awansu w tej klasie.
+- Paladyn updanie gdy zboczy ze ścieżki praworządnie dobrej i również nie będzie mógł awansować.
+- Barbarzyńca musi pozostać nie-praworządny, inaczej straci zdolność wpadania w szał.
+- Bard musi pozostać nie-praworządny by nie utracić możliwości awansu w tej klasie.
 
 Ważne jest, aby pamiętać, że w kosmologii Faerunu nie liczą się intencje czy dalekosiężne konsekwencje czynów - o tym czy czyn jest dobry, zły, chaotyczny czy praworządny decyduje się tu i teraz.
 
