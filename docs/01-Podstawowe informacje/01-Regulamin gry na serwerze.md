@@ -45,6 +45,8 @@ Zasadniczo postać na 2 poziomie nie ma prawa posiadać ekwipunku z mithrillu i 
 - Za współczesne słownictwo uznaje się także wszelkie nowożytne wulgaryzmy.
 - Przeklinanie nie jest zakazane, ale powinno być klimatyczne i nienadużywane.
 - Akcje postaci można opisywać w emotkach np. `*śpi*`, `*pije wino*`.
+- Odgrywa się swoją postać, nie postaci innych graczy lub NPC; gracz może opisywać wyłącznie czynności swojej postaci lub kontrolowanych przez siebie stworzeń (np. chowaniec, towarzysz paladyna).
+- Obowiązuje zakaz odgrywania inwazyjnego (`*kopnąłem twoją postać tak mocno, że poleciałeś 2 metry do tyłu*` albo `*po moim uderzeniu twoja postać traci przytomność*`); tego rodzaju narracja jest zarezerwowana wyłącznie dla MG; zamiast tego zaemotuj `*próbuje kopnąć postać X*` - niech o rezultacie zdecyduje MG, a jeśli akcja nie jest moderowana przez MG, ustal wynik rzutu z drugim graczem na priv.
 - Kategorycznie zabronione jest prowadzenie rozmów czy pisanie komunikatów OOC jako "emotek", np. wcale nie uciąłeś mojej postaci ręki, ponieważ moja postać straciła obie ręce w Q DM Mefisto. Wszelkie niejasności załatwiamy na privie!
 - W wyjątkowych sytuacjach, np. kiedy ktoś musi odejść od komputera podczas grupowego Q dopuszczalne jest napisanie: `//OOC: wracam za 5 min`. Jest to jedyny wyjątek od przedstawionych reguł i w żadnych wypadku nie stanowi przyzwolenia do pogaduch OOC na kanale Rozmowa.
 - **Odgrywanie powinno być zabawą dla wszystkich**. Wszelkiego typu sytuacje, które mogą uderzać w godność osobistą, być wyjątkowo okrutne, obsceniczne, szokujące czy po prostu niesmaczne mogą mieć miejsce tylko za zgodą obu stron.
