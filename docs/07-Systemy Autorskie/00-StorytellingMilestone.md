@@ -67,6 +67,9 @@ Ale jeśli coś chcecie wysłać i gdyby ktoś inny wam to pokazał, jedyne co b
 | Odpowiedź od NPC (kapitan straży) | Kapitan odpowiada, że zarzuty są bezpodstawne. | Kapitan nie wierzy postaci lub nie chce uznać winy gildii. | Gracz może zdobywać dowody lub przekonać NPC do zmiany zdania. |
 | Odpowiedź od NPC (kapitan straży) | Kapitan nie udziela odpowiedzi. | Kapitan uznaje, że mają ważniejsze sprawy na głowie. | Wskazówka, by poszukać innej drogi (np. rady miejskiej, innych NPC lub postaci graczy). |
 | Konsekwencje fabularne | Brak konsekwencji. | Sytuacja nie ma dalszego wpływu na świat gry. | Nie każda akcja musi prowadzić do efektu. |
+| Konsekwencje fabularne | Złośliwa plotka. | Świadkowie rozpuszczają plotkę o „jakimś chłopie, co próbował nieudolnie włamać się przez okno”. | Wpływ społeczny – reputacja postaci. |
+| Konsekwencje fabularne | Zgłasza się do ciebie strażnik, który ma podobne podejrzenia i daje wskazówkę. | Wątek był już rozgrywany przez innych graczy – NPC mógł o nim usłyszeć. | Tworzy połączenie między postaciami i nowy trop fabularny. |
+| Konsekwencje fabularne | Gildia dowiaduje się o liście i podejmuje działania odwetowe. | Gildia ma szeroką siatkę szpiegowską – dowiaduje się o liście bez problemu. | Konflikt fabularny lub nowa przygoda. |
 
 ### Dodatkowe wskazówki
 - MG nie zdradza wiedzy, której postać nie posiada (IC ≠ OOC) - MG kieruje się wyłącznie wiedzą świata gry (IC). Nie ujawnia informacji spoza fabuły (OOC), nawet jeśli mogłyby one ułatwić działania postaci. To pozwala zachować realizm i spójność narracji.
