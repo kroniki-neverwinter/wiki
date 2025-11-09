@@ -35,7 +35,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: './sidebars.js',
+          sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
@@ -84,7 +84,11 @@ const config = {
             position: 'left',
             label: 'Wiki',
           },
-          { to: '/informacje-o-swiecie', label: 'Informacje o świecie', position: 'left' },
+          {
+            to: '/informacje-o-swiecie',
+            label: 'Informacje o świecie',
+            position: 'left',
+          },
           { to: '/karta-postaci', label: 'Karta postaci', position: 'left' },
         ],
       },
@@ -125,6 +129,20 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Kroniki Neverwinter`,
       },
     }),
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'informacje',
+        path: 'informacje-o-swiecie',
+        routeBasePath: 'informacje-o-swiecie',
+        sidebarPath: require.resolve('./sidebarsInfo.js'),
+        editUrl: 'https://github.com/kroniki-neverwinter/wiki/tree/main/',
+        remarkPlugins: [],
+        rehypePlugins: [],
+      },
+    ],
+  ],
 };
 
 export default config;
