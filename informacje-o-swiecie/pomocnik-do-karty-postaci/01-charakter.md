@@ -1,24 +1,8 @@
-# Informacje o świecie (WIP)
+---
+title: Charakter
+---
 
-Tutaj znajdziesz informacje o świecie gry...
-
-# Pomocnik do Karty Postaci (WIP)
-
-## Znane języki
-Postać może znać różne [**języki**](https://forgottenrealms.fandom.com/wiki/Category:Languages), niektóre z nich mamy [**dostępnie mechanicznie**](https://wiki.nwn.net.pl/docs/Systemy%20Autorskie/System%20jezykow), inne istnieją na obecną chwilę jedynie fabularnie.
-
-Każda z postaci może mieć:
-- Język wspólny
-- 1 język regionalny
-- 1 język rasowy (nie dotyczy ludzi)
-- Języki bonusowe w ilości równej modyfikatorowi **bazowej** Inteligencji
-- 1 bonusowy język do nauki wyłącznie w trakcie rozgrywki
-
-**Na przykład:** Postać elfiego łowcy z Neverwinter, z inteligencją na poziomie 14, będzie znać język wspólny, [**illuskański**](https://forgottenrealms.fandom.com/wiki/Illuskan_language), elfi, a do tego może nauczyć się jeszcze 3 innych języków.
-
-Postać może uczyć się nowych języków już podczas rozgrywki, na przykład od jakiegoś NPC, albo od innej postaci, czy z pomocą [**storytellingu**](https://wiki.nwn.net.pl/docs/Systemy%20Autorskie/StorytellingMilestone). Można też wykazać znajomość jakiegoś języka w przesłanej Karcie Postaci. Należy wtedy zaznaczyć w historii kiedy postać miała okazję nauczyć się tego języka.
-
-Należy pamiętać, że jeśli ktoś nie przesłał pełnej Karty Postaci, języki bonusowe nie przysługują i postać musi się ich nauczyć już podczas rozgrywki.
+# Charakter
 
 ## "Alignment" czyli charakter
 A tłumacząc dokładniej - "*przynależność moralna*". Jest to jedna ze statystyk postaci, określająca jej położenie na osiach moralnej ([**Dobro-Zło**](https://easydamus.s3.us-east-1.amazonaws.com/alignment.html#goodvsevil)) i etycznej ([**Chaos-Porządek**](https://easydamus.s3.us-east-1.amazonaws.com/alignment.html#lawvschaos)). Informacja o tym, gdzie obecnie postać znajduje się na tych osiach jest wyłącznie informacją OOC.\
@@ -93,19 +77,3 @@ Postać chaotyczna zła czyni wszystko, do czego popycha ją żądza władzy, ni
 Bycie chaotycznym złym często nazywa się „demonicznym”, ponieważ demony najlepiej je uosabiają.\
 Uważają, że to najlepsze nastawienie, bo łączy interes własny z całkowitą wolnością.\
 Może być jednak najbardziej niebezpieczne, gdyż oznacza zniszczenie nie tylko życia i piękna, ale też porządku, który je podtrzymuje.
-
-## Cechy i odgrywanie
-Postać posiada sześć podstawowych cech: [**Siłę**](https://www.d20srd.org/srd/theBasics.htm#strengthStr), [**Zręczność**](https://www.d20srd.org/srd/theBasics.htm#dexterityDex), [**Kondycję**](https://www.d20srd.org/srd/theBasics.htm#constitutionCon), [**Mądrość**](https://www.d20srd.org/srd/theBasics.htm#wisdomWis), [**Inteligencję**](https://www.d20srd.org/srd/theBasics.htm#intelligenceInt) i [**Charyzmę**](https://www.d20srd.org/srd/theBasics.htm#charismaCha).\
-Wartości tych cech odpowiadają fizyczności i zdolnościom mentalnym, więc mają one duże znaczenie przy kreowaniu i opisywaniu postaci jak również podczas późniejszego jej odgrywania. By dowiedzieć się więcej o tym co reprezentuje każda cecha, odwiedź podane linki bądź przeczytaj opisy cech w grze.
-
-Poziom cechy na wysokości 10 oznacza przeciętność. Zwykły, szary mieszkaniec Krain, ma właśnie taką wartość cech. **Kiedy dochodzimy do cechy na poziome 8, oznacza to już jakąś ułomność, nieporadność, coś przez co postać ma utrudnione funkcjonowanie.**
-
-:::info
-
-Gra z cechami o wartości poniżej 8 wymaga wpierw zatwierdzenia Karty Postaci przez grono MG.
-
-:::
-
-Udane rzuty na cechę o niskim poziomie (czy na powiązane z nią umiejętności), można uznać za przebłysk, jednak nie zmieni to ogólnego obycia lub sprawności postaci. Jeśli chodzi o magiczne przedmioty - odgrywa się na tyle, ile w danym momencie postać ma.
-
-Warto zaznaczyć, że odgrywanie bardzo wysokich cech jest do pewnego stopnia ograniczone, bo realistycznie nie da się odgrywać cech powyżej pewnej wartości. Jako że gramy w mechaniczną grę gdzie są dostępne bonusy większe niż miałoby to miejsce w sesji papierowej, ponad pewnym poziomem po prostu nie ma już różnicy.
