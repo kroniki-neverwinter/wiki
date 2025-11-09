@@ -138,6 +138,8 @@ const config = {
         routeBasePath: 'informacje-o-swiecie',
         sidebarPath: require.resolve('./sidebarsInfo.js'),
         editUrl: 'https://github.com/kroniki-neverwinter/wiki/tree/main/',
+        remarkPlugins: [],
+        rehypePlugins: [],
       },
     ],
   ],
