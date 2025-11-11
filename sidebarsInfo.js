@@ -15,6 +15,17 @@ const sidebars = {
         'pomocnik-do-karty-postaci/cechy-i-odgrywanie',
       ],
     },
+        {
+      type: 'category',
+      label: 'Organizacje i Ugrupowania',
+      link: {
+        type: 'doc',
+        id: 'organizacje-i-ugrupowania/index',
+      },
+          items: [
+         'organizacje-i-ugrupowania/szare-plaszcze',
+      ],
+    },
   ],
 };
 

@@ -1,6 +1,6 @@
 ---
 id: index
-title: Pomocnik do karty postaci
+title: Organizacje i Ugrupowania
 ---
 
 
