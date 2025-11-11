@@ -85,8 +85,8 @@ const config = {
             label: 'Wiki',
           },
           {
-            to: '/informacje-o-swiecie',
-            label: 'Informacje o świecie',
+            to: '/wiedza-o-swiecie',
+            label: 'Wiedza o świecie',
             position: 'left',
           },
           { to: '/karta-postaci', label: 'Karta postaci', position: 'left' },
@@ -133,9 +133,9 @@ const config = {
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'informacje',
-        path: 'informacje-o-swiecie',
-        routeBasePath: 'informacje-o-swiecie',
+        id: 'wiedza-o-swiecie',
+        path: 'wiedza-o-swiecie',
+        routeBasePath: 'wiedza-o-swiecie',
         sidebarPath: require.resolve('./sidebarsInfo.js'),
         editUrl: 'https://github.com/kroniki-neverwinter/wiki/tree/main/',
         remarkPlugins: [],
