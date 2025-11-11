@@ -2,13 +2,12 @@
 sidebar_label: 'Święta Pięść'
 ---
 
-
 # Święta Pięść
 
 ![święta pięść](../../../static/img/wiki/wiki-klasy/swieta-piesc.png)
 
 ### (KLASA PRESTIŻOWA)
-Święte Pięści to niezależne organizacje działające w wielu świątyniach. Ich ascetyczni członkowie skierowali swoją boską magię do wewnątrz, harmonizując swoje ciała i wolę. Święte Pięści wyrzekły się używania broni i ciężkiej zbroi. Uważają swoje ciała i umysły za dary od swojego bóstwa i wierzą, że niewykorzystanie tych darów do ich pełnego potencjału jest grzechem. Rzucanie zaklęć nie jest dla nich ani dla ich bóstwa hańbą. Święte Pięści są silne w wierze, woli i ciele. Klerycy są doskonałymi kandydatami do zakonów Świętych Pięści. Paladyni również mogą do nich dołączyć, ale rzadko czują się komfortowo, rezygnując z zewnętrznych oznak swojego powołania. Wojownicy, łotrzykowie, bardowie, a nawet byli mnisi mogą się sprawdzić w tej roli, pod warunkiem że posiadają wystarczającą liczbę poziomów w klasie zapewniającej boskie zaklęcia.
+Święte Pięści to niezależne organizacje działające w wielu świątyniach. Ich ascetyczni członkowie skierowali swoją boską magię do wewnątrz, harmonizując swoje ciała i wolę. Święte Pięści wyrzekły się używania broni i ciężkiej zbroi. Uważają swoje ciała i umysły za dary od swojego bóstwa i wierzą, że niewykorzystanie tych darów do ich pełnego potencjału jest grzechem. Rzucanie zaklęć nie jest dla nich ani dla ich bóstwa hańbą. Święte Pięści są silne w wierze, woli i ciele. Klerycy są doskonałymi kandydatami do zakonów Świętych Pięści. Wojownicy, łotrzykowie, bardowie, a nawet byli mnisi mogą się sprawdzić w tej roli, pod warunkiem że posiadają wystarczającą liczbę poziomów w klasie zapewniającej boskie zaklęcia.
 
 **Maksymalna ilość poziomów:** 10.\
 **Kość Wytrzymałości:** k8.\
@@ -20,10 +19,9 @@ sidebar_label: 'Święta Pięść'
 
 ### Wymagania
 **Bazowa premia do ataku:** +4\
-**Rzucanie zaklęć objawień 1 kręgu (kapłan, paladyn lub czarny strażnik)**\
+**Rzucanie zaklęć objawień 1 kręgu (kapłan)**\
 **Atuty:** Magia w walce, uniki, ulepszona walka bez broni, ogłuszająca pięść\
 **Umiejętności:** Wiedza Religia (8)
-
 
 ### Umiejętności
 Akrobatyka\
@@ -36,7 +34,6 @@ Nasłuchiwanie\
 Parowanie\
 Wiedza (Religia)\
 Wyczucie pobudek
-
 
 ### Zdolności klasowe
 
