@@ -2,7 +2,6 @@
 title: Znane języki
 ---
 
-## Znane języki
 Postać może znać różne [**języki**](https://forgottenrealms.fandom.com/wiki/Category:Languages), niektóre z nich mamy [**dostępnie mechanicznie**](https://wiki.nwn.net.pl/docs/Systemy%20Autorskie/System%20jezykow), inne istnieją na obecną chwilę jedynie fabularnie.
 
 Każda z postaci może mieć:
