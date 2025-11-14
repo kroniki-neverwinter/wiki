@@ -13,6 +13,7 @@ const sidebars = {
         'pomocnik-do-karty-postaci/charakter',
         'pomocnik-do-karty-postaci/znane-jezyki',
         'pomocnik-do-karty-postaci/cechy-i-odgrywanie',
+        'pomocnik-do-karty-postaci/wzrost-i-waga',
       ],
     },
         {
@@ -23,7 +24,11 @@ const sidebars = {
         id: 'organizacje-i-ugrupowania/index',
       },
           items: [
-         'organizacje-i-ugrupowania/szare-plaszcze',
+         'organizacje-i-ugrupowania/władza-w-neverwinter',
+            'organizacje-i-ugrupowania/akademia-neverwinter',
+            'organizacje-i-ugrupowania/władza-w-luskan',
+            'organizacje-i-ugrupowania/harfiarze',
+            'organizacje-i-ugrupowania/zhentarim',
       ],
     },
   ],
