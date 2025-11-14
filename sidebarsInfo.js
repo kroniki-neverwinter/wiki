@@ -1,7 +1,17 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
   infoSidebar: [
-    'index',
+    {
+      type: 'category',
+      label: 'Wiedza o świecie',
+      link: {
+        type: 'doc',
+        id: 'index',
+      },
+      items: [
+        'bogowie-i-religia',
+      ],
+    },
     {
       type: 'category',
       label: 'Pomocnik do karty postaci',
