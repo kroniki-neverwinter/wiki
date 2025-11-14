@@ -2,7 +2,6 @@
 title: Cechy i odgrywanie
 ---
 
-## Cechy i odgrywanie
 Postać posiada sześć podstawowych cech: [**Siłę**](https://www.d20srd.org/srd/theBasics.htm#strengthStr), [**Zręczność**](https://www.d20srd.org/srd/theBasics.htm#dexterityDex), [**Kondycję**](https://www.d20srd.org/srd/theBasics.htm#constitutionCon), [**Mądrość**](https://www.d20srd.org/srd/theBasics.htm#wisdomWis), [**Inteligencję**](https://www.d20srd.org/srd/theBasics.htm#intelligenceInt) i [**Charyzmę**](https://www.d20srd.org/srd/theBasics.htm#charismaCha).\
 Wartości tych cech odpowiadają fizyczności i zdolnościom mentalnym, więc mają one duże znaczenie przy kreowaniu i opisywaniu postaci jak również podczas późniejszego jej odgrywania. By dowiedzieć się więcej o tym co reprezentuje każda cecha, odwiedź podane linki bądź przeczytaj opisy cech w grze.
 
