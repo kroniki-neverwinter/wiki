@@ -1,5 +1,5 @@
 ---
-title: Wzrost i Waga postaci
+title: Wiek, waga, wzrost
 ---
 
 ## Wiek
