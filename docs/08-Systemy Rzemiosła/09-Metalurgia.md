@@ -36,11 +36,12 @@ Przy każdej próbie wytopienia sztabki, wykonuje się rzut wg. następującej f
 - krasnoludy posiadają modyfikator rasowy +5 do wydobycia
 
 | Rodzaj metalu | ST wytopienia sztabki |
-|---------------|-----------------------|
-| Stal (żelazo) | 15                    |
-| Adamant       | 25                    |
-| Mithral       | 40                    |
-| Ungol         | 50                    |
+|--------------------|------------------|
+| Stal (żelazo)      | 15               |
+| Adamant            | 25               |
+| Mithral            | 40               |
+| Mithral jubilerski | 50               |
+| Rtęć (ruda ungol)  | 60               |
 
 
 **Przykład:** Rurik Rand jest początkującym metalurgiem (poziom rzemiosła 0), krasnoludem (+5) o inteligencji 14 (+2). Rurik wykonuje testy Górnictwa z premią ``0 + 5 + 2``, czyli ``+7``.
@@ -58,7 +59,7 @@ Za każde udane wytopienie sztabki postać otrzymuje 1 punkt [cząstkowy] w rzem
 | 6                 | 15              |
 | ...               | ...             |
 
-**Obecnie maksymalny poziom metalurgii to 40.**
+**Obecnie maksymalny poziom metalurgii to 60.**
 
 ### Krok po kroku
 
