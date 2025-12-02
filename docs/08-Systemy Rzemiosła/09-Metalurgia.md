@@ -59,7 +59,7 @@ Za każde udane wytopienie sztabki postać otrzymuje 1 punkt [cząstkowy] w rzem
 | 6                 | 15              |
 | ...               | ...             |
 
-**Obecnie maksymalny poziom metalurgii to 60.**
+**Obecnie maksymalny poziom metalurgii to 55.**
 
 ### Krok po kroku
 
