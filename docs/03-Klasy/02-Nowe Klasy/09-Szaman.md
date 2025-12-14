@@ -21,7 +21,7 @@ Dyplomacja\
 Koncentracja\
 Leczenie\
 Wiedza (Religia)\
-Wiedza (Tajemna)
+Wiedza (Tajemna)\
 Zrozumienie Zwierząt
 
 ### Zdolności klasowe
