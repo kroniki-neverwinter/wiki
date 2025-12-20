@@ -14,6 +14,7 @@ Typowy BN należący do tej klasy prestiżowej to samotnik szukający przygody o
 
 **Maksymalna ilość poziomów:** 10.\
 **Kość Wytrzymałości:** k10.\
+**Biegłości**: może posługiwać się bronią bojową.\
 **Punkty Umiejętności:** 3 + Modyfikator Inteligencji.\
 **Bazowa premia do ataku:** wysoka\
 **Wysoki rzut obronny:** Refleks
