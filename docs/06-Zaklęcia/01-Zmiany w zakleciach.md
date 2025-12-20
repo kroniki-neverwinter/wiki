@@ -127,7 +127,8 @@ Domena Nienawiści zapewnia automatyczne wzmocnienie zaklęć Zadawania Ran.
 - **Tarcza Żywiołów:** Magiczna tarcza która zapewnia 50% niewrażliwości na ogień i zimno oraz zadaje 2k6 obrażeń od ognia, Talent, Większy Talent i Epicki Talent Magiczny Wywoływanie zapewniają kolejno premię +1, +2 i +3 do obrażeń
 - **Ulepszona Niewidzialność:** Zapewnia standardową niewidzialność oraz zasłonę 10 + 1/2 poziomu rzucającego (30% na 40 poziomie). Talent, Większy Talent i Epicki Talent Magiczny Iluzje zapewniają kolejno premię +2%, +4% i +6% (premie się nie sumują, czyli maksymalnie +6% do zasłony).
 - **Nałożenie Klątwy:** Nakłada karę do wszystkich cech w wysokości poziom rzucającego / 5 (czyli maksymalnie 8).
-- **Przyzwanie Cieni:** W miejsce Cienia, czarujący przywołuje Iluzoryczny Twór (częściowo realny konstrukt). Jego moc rośnie wraz z poziomem czarującego, osiągając maksymalną siłę na 15 poziomie. Talent, Większy Talent i Epicki Talent Magiczny Iluzje dodatkowo wzmacniają przywołaną istotę. 
+- **Przyzwanie Cieni:** W miejsce Cienia, czarujący przywołuje Iluzoryczny Twór (częściowo realny konstrukt). Jego moc rośnie wraz z poziomem czarującego, osiągając maksymalną siłę na 15 poziomie. Talent, Większy Talent i Epicki Talent Magiczny Iluzje dodatkowo wzmacniają przywołaną istotę.
+- **Spragnione Ostrze:** Dodatkowo daje teraz wampiryczną regenerację w wysokości Poziom czarującego / 5.
 
 ### Poziom V
 - **Dominacja: Osoba:** Zaklęcie trwa 2 rundy na poziom rzucającego, Talent, Większy Talent i Epicki Talent Magiczny Zaklinanie zapewniają kolejno wydłużenie czasu działania do 3 / 5 / 10 rund na poziom. 
@@ -162,4 +163,4 @@ Domena Nienawiści zapewnia automatyczne wzmocnienie zaklęć Zadawania Ran.
 - **Dominacja: Potwór:** Zaklęcie trwa 2 rundy na poziom rzucającego, Talent, Większy Talent i Epicki Talent Magiczny Zaklinanie zapewniają kolejno wydłużenie czasu działania do 3 / 5 / 10 rund na poziom. 
 - **Miażdżąca Dłoń Bigby'ego:** Obrażenia wynoszą 5k8 +30 co rundę. Zaklęcie trwa 1 rundę na 2 poziomy rzucającego, ale przeciwko postaciom graczy czas trwania jest skrócony do 1 rundy na 13 poziomów rzucającego (maksymalnie 3 rundy na 39 poziomie).
 - **Rozproszenie Mordenkainena:** Talent, Większy Talent i Epicki Talent Magiczny Odrzucanie zapewniają kolejno premię +2, +4 i +6 do testu rozproszenia (premie się nie sumują, czyli maksymalnie +6)
-- **Zatrzymanie Czasu:** Zatrzymuje istoty w pobliżu na 1k4 + 5 sekund. Talent, Większy Talent i Epicki Talent Magiczny Przemiany zapewniają kolejno premię +1, +2 i +3 sekundy do czasu trwania zaklęcia.
+- **Zatrzymanie Czasu:** Zatrzymuje istoty w pobliżu na 1k4 + 5 sekund. Talent, Większy Talent i Epicki Talent Magiczny Przemiany zapewniają kolejno premię +1, +2 i +3 sekundy do czasu trwania zaklęcia. Zaklęcie posiada 20-sekundowy cooldown.
