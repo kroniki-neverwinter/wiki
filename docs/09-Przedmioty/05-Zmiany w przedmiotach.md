@@ -21,41 +21,39 @@ Maksymalna premia za zręczność została zmodyfikowana.
 
 ## Broń
 
-#### Kosa
+#### Katana
+Jest bronią finezyjną.
 
+#### Kosa
 Bazowe obrażenia: ``2k4``\
 Trafienie krytyczne: ``x3``
 
 #### Krótka włócznia
-
 Ograniczenia: ``może być trzymana tylko w prawej dłoni``
 
 #### Lekka kusza
-
 Bazowe obrażenia: ``1k10``\
 Trafienie krytyczne: ``18-20/x2``
 
 #### Ciężka kusza
-
 Bazowe obrażenia: ``3k4``\
 Trafienie krytyczne: ``18-20/x2``
 
 #### Rtęciowy długi miecz (Mercurial)
-
 Bazowe obrażenia: ``1k8``\
 Trafienie krytyczne: ``x3``
 
 #### Rtęciowy miecz dwuręczny (Mercurial)
-
 Bazowe obrażenia: ``2k6``\
 Trafienie krytyczne: ``x3``
 
-#### Trójząb (dwuręczny)
+#### Topór Krasnoludzki
+Krasnoludy mogą używać broni bez konieczności wybrania atutu posługiwania się bronią egzotyczną.
 
+#### Trójząb (dwuręczny)
 Bazowe obrażenia: ``1k10``\
 Trafienie krytyczne: ``19-20/x2``
 
 #### Trójząb (jednoręczny)
-
 Bazowe obrażenia: ``1k6``\
 Trafienie krytyczne: ``19-20/x2``
