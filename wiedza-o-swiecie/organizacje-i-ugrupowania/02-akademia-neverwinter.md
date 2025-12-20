@@ -15,12 +15,7 @@ Twoja postać będzie otrzymywać pensję w wartości 500 sz raz na tydzień cza
 Stanowisko Nauczyciela w Akademii Neverwinter to pozycja o umiarkowanym prestiżu. Dla porównania Wielogwiezdne Płaszcze to bardzo wysoki prestiż.\
 Pozycja Nauczyciela wiąże się z możliwością uzyskania unikalnych informacji. Dla Mistrzów Gry stanowi dobrą podstawę do prowadzenia postaciom Questów.
 
-Warunkiem utrzymania pozycji Nauczyciela przez daną postać jest:
-- Zorganizowanie raz na semestr czasu gry (2 miesiące czasu real) eventu gracza - wykładu otwartego dla wszystkich postaci. Temat lekcji musi być zbieżny z profilem postaci, przedstawiać treść zgodną z lore Świata i rzecz jasna winien dobyć się na terenie Akademii Neverwinter.
-
-LUB
-
--  Przesłanie raz na semestr storytellingu zawierającego opis dwóch lekcji udzielonych uczniom.
+Postacie Nauczycieli mogą liczyć na dodatkowe gratyfikacje w postaci punktów SAM oraz doświadczeniu za aktywne odgrywanie tej roli np. przez storytelling/milestone czy organizowanie eventów dla graczy.
 
 ## Uczniowie
 **Co zrobić, jeśli chcę by moja postać została uczniem Akademii Neverwinter?**
@@ -30,7 +25,6 @@ Uczniom nie przysługuje zapłata, acz fabularnie nie muszą oni płacić za nau
 Ukończenie Akademii Neverwinter nie wiąże się z prestiżem. Możliwość gry uczniem adresujemy dla osób zainteresowanych taką odgrywką, niekoniecznie wiążących z tym uzyskanie prestiżu fabularnego. Jednocześnie bycie Uczniem może wiązać się z uzyskaniem znajomości, a nawet sympatii u określonych NPC.\
 Pozycja Ucznia wiąże się z możliwością uzyskania unikalnych informacji. Dla Mistrzów Gry stanowi dobrą podstawę do prowadzenia postaciom Questów.
 
-Warunki utrzymania pozycji Ucznia przez daną postać:
-- Przesłanie raz na semestr czasu gry  (2 miesiące czasu real)  Storytellingu opisującego jak postać Ucznia radzi sobie w Akademii, jak przebiega jej nauka. Dodatkowo warto przesłać pracę domową wymyśloną przez gracza prowadzącego Ucznia, bądź gracza prowadzącego postać Nauczyciela. W przypadku braku weny, warto poprosić kogoś z Mistrzów Gry o pomoc w wymyśleniu tematu pracy domowej.
+Postacie Uczniów mogą liczyć na dodatkowe gratyfikacje w postaci punktów SAM oraz doświadczeniu za aktywne odgrywanie tej roli np. przez storytelling/milestone czy organizowanie eventów dla graczy.
 
 Pamiętaj, że bycie Uczniem oznacza, że Twoja postać lwią część swojego czasu poświęca na uczęszczanie na zajęcia i naukę poza nimi.
