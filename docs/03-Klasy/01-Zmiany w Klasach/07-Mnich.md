@@ -14,6 +14,8 @@ Każdy mnich w Zapomnianych Krainach zobowiązany jest przynależeć do konkretn
 
 ![zakony-mnich-2](../../../static/img/wiki/wiki-klasy/zakony-mnich-2.png) 
 
+*Ze względu na brak informacji fabularnych o Starym Zakonie w lore, nie jest on dozwolony na serwerze.*
+
 ### Broń mnicha
 Oprócz Kamy, mnich może także używać następujących broni w trybie **Gradu Ciosów**:
 
