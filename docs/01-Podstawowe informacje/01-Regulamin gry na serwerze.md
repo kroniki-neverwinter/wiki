@@ -204,61 +204,9 @@ Pozostałe subrasy mogą być ustawione **TYLKO** po konsultacji z MG. Gracz mo�
 
 **Ważne! => Nie ma mechanicznych bonusów dla żadnej subrasy, której nie da się wybrać mechanicznie jako rasę.**
 
-### 5. Wiek, waga, wzrost
+### 5. Wieloklasowość
 
-#### 5.1 Wiek
-
-Wybierając wiek swojej postaci, należy się kierować tabelą wieku z [Podręcznika Gracza](https://www.d20srd.org/srd/description.htm), gdzie kolumna **Dorosłość** (plus ilość kostek na klasę) wskazuje minimalny dozwolony wiek:
-
-| Rasa      | Dorosłość | Barbarzyńca, Łotr, Czarownik | Bard, Wojownik, Paladyn, Łowca, Żeglarz | Kapłan, Druid, Mnich, Czarodziej |
-|-----------|-----------|------------------------------|-----------------------------------------|----------------------------------|
-| Człowiek  | 15 lat    | +1k4                         | +1k6                                    | +2k6                             |
-| Krasnolud | 40 lat    | +3k6                         | +5k6                                    | +7k6                             |
-| Elf       | 110 lat   | +4k6                         | +6k6                                    | +10k6                            |
-| Gnom      | 40 lat    | +4k6                         | +6k6                                    | +9k6                             |
-| Półelf    | 20 lat    | +1k6                         | +2k6                                    | +3k6                             |
-| Półork    | 14 lat    | +1k4                         | +1k6                                    | +2k6                             |
-| Niziołek  | 20 lat    | +2k4                         | +3k6                                    | +4k6                             |
-
-- Zwróć uwagę na większy wiek wymagany na poszczególne klasy!
-
-**Jeśli ze względów fabularnych twoja postać odbiega od tych wytycznych, należy podesłać Kartę Postaci do grona MG do akceptacji przed rozpoczęciem rozgrywki.**
-
-#### 5.2 Waga i wzrost
-
-Aby dobrać wagę i wzrost postaci, również możesz odnieść się do tabeli z Podręcznika:
-
-| Rasa        | Bazowy wzrost | Modyfikator wzrostu (cale) | Bazowa waga | Modyfikator wagi|
-|-------------|---------------|----------------------------|-------------|---------------------|
-| Człowiek ♂  | 4' 10"        | +2k10                      | 120 lb.     | x(2k4) lb.          |
-| Człowiek ♀  | 4' 5"         | +2k10                      | 85 lb.      | x(2k4) lb.          |
-| Krasnolud ♂ | 3' 9"         | +2k4                       | 130 lb.     | x(2k6) lb.          |
-| Krasnolud ♀ | 3' 7"         | +2k4                       | 100 lb.     | x(2k6) lb.          |
-| Elf ♂       | 4' 5"         | +2k6                       | 85 lb.      | x(1k6) lb.          |
-| Elf ♀       | 4' 5"         | +2k6                       | 80 lb.      | x(1k6) lb.          |
-| Gnom ♂      | 3' 0"         | +2k4                       | 40 lb.      | x1 lb.              |
-| Gnom ♀      | 2' 10"        | +2k4                       | 35 lb.      | x1 lb.              |
-| Półelf ♂    | 4' 7"         | +2k8                       | 100 lb.     | x(2k4) lb.          |
-| Półelf ♀    | 4' 5"         | +2k8                       | 80 lb.      | x(2k4) lb.          |
-| Półork ♂    | 4' 10"        | +2k12                      | 150 lb.     | x(2k6) lb.          |
-| Półork ♀    | 4' 5"         | +2k12                      | 110 lb.     | x(2k6) lb.          |
-| Niziołek ♂  | 2' 8"         | +2k4                       | 30 lb.      | x1 lb.              |
-| Niziołek ♀  | 2' 6"         | +2k4                       | 25 lb.      | x1 lb.              |
-
-1 stopa = 12 cali
-
-:::info
-
-Aby uzyskać swóją losową wagę: wynik kostki wzrostu pomnóż przez wynik kostki wagi i dodaj do bazowej wagi.\
-**Dla przykładu**: rzucasz na modyfikator wzrostu dla twojego krasnoluda ♂, wypada **9** (co daje końcowy wzrost **4'6"**). Następnie rzucasz na modyfikator wagi, wypada **8**. 9 pomnożone przez 8 daje **72**. 72 dodajesz do bazowej wagi, razem wychodzi **202 lb**. Po przekonwertowaniu na system metryczny, otrzymujemy krasnoluda o wzroście 137 cm i wadze 92 kg.
-
-:::
-
-Przekonwertowanie na system metryczny najlepiej zrobić już po wybraniu wysokości/wagi w systemie imperialnym.
-
-### 6. Wieloklasowość
-
-#### 6.1. Naczelna zasada - ZASADA STARTU
+#### 5.1. Naczelna zasada - ZASADA STARTU
 
 Jeżeli postać chce łączyć dwie klasy podstawowe, na drugim poziomie musi posiadać po jednym poziomie z obu klas. Np. jeżeli chcemy grać wojownikiem/łotrzykiem, na drugim poziomie powinniśmy mieć rozkład klas wojownik 1/ łotrzyk 1 (lub na odwrót, jak kto woli). Dalszy rozwój zależy już tylko od gracza.
 
@@ -269,32 +217,34 @@ Od w/w zasady mogą występować wyjątki, jednak muszą one posiadać silne pod
  W przypadku podejrzeń o próbę wzmocnienia sobie mechanicznie postaci pod przykrywką fabularną zgody nie będzie (czyli wysokopoziomowy czarownik nigdy nie uzyska zgody awansowanie jako Paladyn).
 Kapłan MUSI być klasą startową (wybraną na 1 poziomie), jeśli planujesz grę wieloklasowym Kapłanem.
 
-#### 6.2. ZASADA FABULARNOŚCI
+#### 5.2. ZASADA FABULARNOŚCI
 
 Chociaż podczas przygody w "papierowej" sesji D&D Czarownik mógłby prawdopodobnie zostać zarówno Mnichem jak i Paladynem (a może nawet jednym i drugim!), ekipa serwera nakłada pewne ograniczenia w tym zakresie. Połączenia klas postaci graczy powinny w niekwestionowany sposób odzwierciedlać ich fabułę. Aby wykluczyć najbardziej kontrowersyjne połączenia, wprowadzamy następujące zasady:
 
 **Kapłan** nie może być łączony z klasami podstawowymi, chyba że połączenie klas pasuje fabularnie do bóstwa. Lista dozwolonych połączeń znajduje się w [**opisie Bogów**](https://wiki.nwn.net.pl/docs/Podstawowe%20informacje/Bogowie#dost%C4%99pne-b%C3%B3stwa-domeny-i-dozwolone-po%C5%82%C4%85czenia-klas-dla-kap%C5%82ana).
 
-**Paladyn** poświęca swoje życie bóstwu i nie może awansować w żadnej innej klasie podstawowej (wyjątkiem może być Mnich/Paladyn LUB Kapłan/Paladyn, o ile opis bóstwa i zakon dopuszczają takie połączenie - patrz poprzedni punkt)
+**Paladyn** poświęca swoje życie bóstwu i nie może awansować w żadnej innej klasie podstawowej (wyjątkiem może być Mnich/Paladyn LUB Kapłan/Paladyn, o ile opis bóstwa i zakon dopuszczają takie połączenie - patrz poprzedni punkt). Klasy prestiżowe również muszą być zezwolone przez wybrany zakon.
 
 **Mnich** nie może w żaden sposób zmieniać swojej ścieżki ani filozofii życiowej; dla postaci wieloklasowych oznacza to że ilość poziomów Mnicha musi być większa lub równa łącznym poziomom w pozostałych klasach podstawowych  (np. Mnich 5 / Wojownik 5 - DOZWOLONY, Mnich 5 / Wojownik 6 - NIEDOZWOLONY, Mnich 5 / Wojownik 3 / Łotr 3 - NIEDOZWOLONY). Mnich MUSI być wybrany jako klasa startowa, za wyjątkiem połączenia z Kapłanem (w takim wypadku trzeba wybrać na 1 poziomie Kapłana, aby uzyskać domeny).  
 
 **UCS i Blady Mistrz** Nie można łączyć Ucznia Czerwonego Smoka i Bladego Mistrza. Albo smok, albo nieumarli - wybierz jedno. Nie, uczeń drakolisza to nie jest dobre uzasadnienie.
 
-### 7. Ograniczenia fabularne poszczególnych klas
+### 6. Ograniczenia fabularne poszczególnych klas
 
 Mnich powinien należeć do klasztoru. Mnich poza strukturami klasztornymi może KARNIE (decyzja MG) przestać być praworządny, co oznacza brak możliwości awansu. Mnich powinien przestrzegać kodeksu swojego zakonu. Za łamanie go może otrzymywać punkty w stronę charakteru chaotycznego, które mogą zaowocować brakiem możliwości awansu.
 
-### 8. Awans
+Paladyn powinien należeć do zakonu i przestrzegać jego kodeksu. Za łamanie go może otrzymywać punkty w stronę charakteru chaotycznego, które mogą zaowocować brakiem możliwości awansu.
+
+### 7. Awans
 
 Podczas awansu można zachować maksymalnie 5 punktów umiejętności. Ograniczenie to jest egzekwowane mechanicznie.
 
-### 9. Organizacje fabularne
+### 8. Organizacje fabularne
 
 MG przygotowali różne grupy, do których postacie graczy mogą się przyłączyć by budować swoje fabularne wpływy. Zazwyczaj dołączanie odbywa się już w grze, po serii questów od Mistrzów Gry, jednak przynależność może być ustalona wcześniej - o ile została zaakceptowana pełna Karta Postaci to uzasadniająca.\
 Należy jednak pamiętać, że jeśli już jakiś gracz przyłączył się jedną postacią do organizacji fabularnej, może to zamknąć drogę dla innych postaci tego gracza, by również ubiegać się o członkostwo w jakiejś grupie (decyzja MG).
 
-### 10. Śmierć fabularna
+### 9. Śmierć fabularna
 
 Postać może zginąć permanentnie w następujących przypadkach:
 - kiedy poświęci swoje życie w bohaterskim akcie (wola gracza)
