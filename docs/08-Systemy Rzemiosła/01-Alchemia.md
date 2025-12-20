@@ -53,61 +53,79 @@ Za każde wytworzenie mikstury postać otrzymuje 1 punkt [cząstkowy] w rzemioś
 ### Spis wyrobów alchemicznych
 
 #### Poziom I
-
-- Mikstura Leczenia Lekkich Ran (woda, krwawnik, elfie ziele)
-- Mikstura Korowej Skóry (woda, kora dębu, bagienne ziele)
-- Woda Święcona (kapłani) (woda, jemioła)
-- Mikstura Żelaznego Żołądka (woda, liść mięty, słońce Neverwinter)
-- Maść Kauczukowa (smalec, gałąź kauczukowca)
-- Maść Lecznicza (smalec, elfie ziele, pokrzywa)
-- Zestaw do kamuflażu (popiół, kora dębu, tatarak)
-- Zestaw Uzdrowiciela (+1) (sukno, elfie ziele)
+| Nazwa Mikstury       | Składniki                            |
+|----------------------|--------------------------------------|
+| Leczenia Lekkich Ran | butelka, woda, krwawnik, elfie ziele |
+| Korowej Skóry        | butelka, woda, kora dębu, bagienne ziele |
+| Woda Święcona (kapłani) | woda, jemioła |
+| Żelaznego Żołądka | butelka, woda, liść mięty, słońce Neverwinter |
+| Maść Kauczukowa | słoik, smalec, gałąź kauczukowca |
+| Maść Lecznicza | słoik, smalec, elfie ziele, pokrzywa |
+| Zestaw do kamuflażu | sakiewka, popiół, kora dębu, tatarak |
+| Zestaw Uzdrowiciela (+1) | sukno, elfie ziele |
 
 #### Poziom II
-
-- Mikstura Leczenia Średnich Ran (woda, krwawnik, elfie ziele)
-- Worek Pętlinogi (popiół, gałąź kauczukowca, lina)
-- Duszący Pył (popiół, powój, trujący bluszcz)
-- Mikstura Błogosławieństwa (woda święcona, aloes)
-- Kamień Gromu (tabliczka runiczna, opiłki metalu)
-- Ogień Alchemiczny (siarka, spirytus)
-- Mikstura Oddychania Pod Wodą (woda, ziarno gorczycy, rybie skrzela, liść kelanu)
+| Nazwa Mikstury       | Składniki                            |
+|----------------------|--------------------------------------|
+| Leczenia Średnich Ran | butelka, woda, krwawnik, elfie ziele |
+| Worek Pętlinogi | sakiewka, lina, gałąź kauczukowca |
+| Duszący Pył | sakiewka, popiół, powój, trujący bluszcz |
+| Błogosławieństwa | woda święcona, aloes |
+| Kamień Gromu | tabliczka runiczna, opiłki metalu |
+| Ogień Alchemiczny | słoik, siarka, spirytus |
+| Oddychania Pod Wodą | butelka, woda, ziarno gorczycy, rybie skrzela, liść kelanu |
 
 #### Poziom III
-
-- Mikstura Leczenia Poważnych Ran (woda, krwawnik, skrzyp, elfie ziele)
-- Mikstura Siły (woda, spirytus, ząb wilka, grzybki Velt)
-- Mikstura Zręczności (woda, spirytus, pazur pantery, grzybki Velt)
-- Mikstura Kondycji (woda, spirytus, kieł dzika, grzybki Velt)
-- Mikstura Intelektu (woda, kwiat rozmarynu, ogon myszy)
-- Mikstura Rozsądku (woda, pióro sowy, orzech Rout)
-- Mikstura Majestatu (woda, pióro orła, kwiat Orchidei)
-- Zestaw Uzdrowiciela (+3) (sukno, spirytus, elfie ziele)
-- Mikstura Pomocy (woda, imbir, liść kelanu)
+| Nazwa Mikstury       | Składniki                            |
+|----------------------|--------------------------------------|
+| Leczenia Poważnych Ran  | butelka, woda, krwawnik, skrzyp, elfie ziele |
+| Siły | butelka, woda, spirytus, ząb wilka, grzybki Velt |
+| Zręczności | butelka, woda, spirytus, pazur pantery, grzybki Velt |
+| Kondycji | butelka, woda, spirytus (???), kieł dzika, grzybki Velt |
+| Intelektu | butelka, woda, kwiat rozmarynu, ogon myszy |
+| Rozsądku | butelka, woda, pióro sowy, orzech Rout |
+| Majestatu | butelka, woda, pióro orła, kwiat Orchidei |
+| Pomocy | butelka, woda, imbir, liść kelanu |
+| Niewidzialności | butelka, woda, pyłek fey, kora dębu |
+| Zestaw Uzdrowiciela (+3) | sukno, spirytus, elfie ziele |
 
 #### Poziom IV
+| Nazwa Mikstury       | Składniki                            |
+|----------------------|--------------------------------------|
+| Widzenia | butelka, woda, widłak, orzech Rout |
+| Szybkości | butelka, woda, spirytus, żywotnik, grzybki Velt |
+| Mniejszego Przywrócenia | butelka, woda, pięciornik, elfie ziele |
+| Napar Trolla | butelka, woda, krew trolla, krwawnik, pokrzywa |
+| Antidotum | butelka, woda, ostopest, liść kelanu, liść mięty |
+| Mentat | butelka, woda, tatarak, melisa, aloes |
+| Księżycowy Pył | sakiewka, żywotnik, mąka, imbir, diament |
 
-- Napar Trolla (woda, krew trolla, krwawnik, pokrzywa)
-- Mikstura Widzenia (woda, widłak, orzech Rout)
-- Mikstura Szybkości (woda, spirytus, żywotnik, grzybki Velt)
-- Mikstura Mniejszego Przywrócenia (woda, pięciornik, elfie ziele)
-- Antidotum (woda, ostopest, liść kelanu, liść mięty)
-- Mentat (woda, tatarak, melisa, aloes)
-- Księżycowy Pył (żywotnik, mąka, imbir, diament)
+#### Poziom V - Runy
+| Nazwa Runy           | Składniki                            |
+|----------------------|--------------------------------------|
+| Mocy | tabliczka runiczna, rubin, uncja złota |
+| Ognia | tabliczka runiczna, ognisty opal, ogień alchemiczny |
+| Zimna | tabliczka runiczna, diament, szafir, zimny kamień |
+| Ziemi | tabliczka runiczna, węgiel, szmaragd, uncja mithralu |
+| Błyskawicy | tabliczka runiczna, szafir, topaz, pióro orła |
+| Cienia | tabliczka runiczna, cienisty klejnot, pył |
+| Trucizny | tabliczka runiczna, szmaragd, rtęć, butelka kwasu |
+| Magii | tabliczka runiczna, szafir, uncja mithralu, pióro sowy |
+| Czaszki | tabliczka runiczna, diament, węgiel, ząb wilka |
+| Błogosławieństwa | tabliczka runiczna, topaz, diament, woda święcona |
+| Wampira | tabliczka runiczna, rtęć, rubin, kieł wampira |
 
-#### Poziom V
+#### Poziom VI
+TBC
 
-- Runa Mocy (tabliczka runiczna, rubin, uncja mithralu)
-- Runa Ognia (tabliczka runiczna, ognisty opal, ogień alchemiczny)
-- Runa Zimna (tabliczka runiczna, diament, szafir, zimny kamień)
-- Runa Ziemi (tabliczka runiczna, węgiel, szmaragd, uncja mithralu)
-- Runa Błyskawicy (tabliczka runiczna, szafir, topaz, pióro orła)
-- Runa Cienia (tabliczka runiczna, cienisty klejnot, pył)
-- Runa Trucizny (tabliczka runiczna, szmaragd, rtęć, butelka kwasu)
-- Runa Magii (tabliczka runiczna, szafir, uncja mithralu, pióro sowy)
-- Runa Czaszki (tabliczka runiczna, diament, węgiel, ząb wilka)
-- Runa Błogosławieństwa (tabliczka runiczna, topaz, diament, woda święcona)
-- Runa Wampira (tabliczka runiczna, rtęć, rubin, kieł wampira)
+#### Poziom VII
+| Nazwa Mikstury       | Składniki                            |
+|----------------------|--------------------------------------|
+| Pył Ungol  | sakiewka, ruda ungol |
+| Olej Taggit | butelka, grzybki Taggit, orzech Rout |
+| Korzeń Teranivu | butelka, korzeń Teranivu, spirytus alchemiczny |
+| Jad Wielkiego Pająka | fiolka jadu wielkiego pająka |
+| Podmuch Zimy | słoik, smalec, zimny kamień |
 
 ### Krok po kroku
 
