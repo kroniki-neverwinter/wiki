@@ -42,7 +42,7 @@ W kontekście rozgrywki fabularnej, jeśli postać „umiera” na wyprawie lub 
 
 ## Społeczny stosunek do sług bogów
 
-Boscy wysłannicy – kapłani, paladyni, druidzi – są darzeni wielkim szacunkiem przez zwykłych ludzi. Dla przeciętnego mieszkańca Faerunu nawet drobna cudowna interwencja, jak uzdrowienie rany czy złagodzenie choroby, jest czymś niezwykłym i godnym podziwu. Większość społeczeństwa odnosi się do nich z czcią, respektem lub przynajmniej bojaźnią.
+Boscy wysłannicy – [**kapłani**](https://wiki.nwn.net.pl/docs/Klasy/Zmiany%20w%20Klasach/Kaplan), [**paladyni**](https://wiki.nwn.net.pl/docs/Klasy/Zmiany%20w%20Klasach/Paladyn), druidzi – są darzeni wielkim szacunkiem przez zwykłych ludzi. Dla przeciętnego mieszkańca Faerunu nawet drobna cudowna interwencja, jak uzdrowienie rany czy złagodzenie choroby, jest czymś niezwykłym i godnym podziwu. Większość społeczeństwa odnosi się do nich z czcią, respektem lub przynajmniej bojaźnią.
 Jednak nie wszyscy okazują im posłuch – szlachta, władcy, bogaci kupcy czy wpływowe organizacje nie zawsze przyjmują autorytet kleryków i paladynów bezkrytycznie. Osoba, która próbuje wywierać wpływ na możnych, może zostać uznana za problem, który należy rozwiązać – niekoniecznie w pokojowy sposób.
 
 ## Dostępne bóstwa, domeny i dozwolone połączenia klas podstawowych dla kapłana
