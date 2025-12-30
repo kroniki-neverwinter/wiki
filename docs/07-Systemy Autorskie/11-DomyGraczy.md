@@ -26,7 +26,7 @@ Poniżej orientacyjna cena bazowa kratek (docelowo MG może ją zmienić zależn
 
 _**Lokacje poza miastami - są case by case - prośba by zgłosić się do MG o to.**_
 
-**To są stawki bazowe. Finalna wycena zawsze należy do MG i może uwzględniać fabułę, standard budynku, dostępność lokacji, bezpieczeństwo okolicy itd. **
+**To są stawki bazowe. Finalna wycena zawsze należy do MG i może uwzględniać fabułę, standard budynku, dostępność lokacji, bezpieczeństwo okolicy itd.**
 
 ## Zamki i zabezpieczenia (ST) + koszt (orientacyjnie)
 Zamki w drzwiach mają ST, które pomaga MG szybko ocenić "klasę zabezpieczeń" w fabule.
