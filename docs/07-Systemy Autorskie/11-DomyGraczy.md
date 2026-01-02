@@ -42,10 +42,12 @@ Dodatkowe ST to następujące koszty, cena ST jest indywidualna:
 
 Mając ST 50 kupione i wykupienie od razu ST80 wiąże się z kosztem 600k.
 
+Wykupione ST obowiązuje zazwyczaj na cały budynek (zewnątrz + wnętrze). W wyjątkowych sytuacjach MG mogą postanowić inaczej, będzie to rozważane casy by case (np. przy wyjątkowo dużych budynkach).
+
 ## Włamania, kradzieże i "co można znaleźć w domu"
 - Zasada nadrzędna - Włamy do mieszkań/domów/siedzib są tylko fabularnie i wyłącznie pod nadzorem MG.
 - MG prowadzi scenę tak, by była fair, spójna i nie robiła "niewidzialnego okradania" poza kontrolą.
 - Rzeczy przechowywane w domu – info do MG (żeby nie było na ostatnią chwilę).
-- Żeby MG nie musiał dopytywać dopiero, gdy ktoś planuje włam, właściciele domostw/siedzib proszeni są o przygotowanie krótkiej informacji „na zaś” (może być na forum / w wiadomości do MG).
+- Żeby MG nie musiał dopytywać dopiero, gdy ktoś planuje włam, właściciele domostw/siedzib proszeni są o przygotowanie krótkiej informacji „na zaś” (może być na Discord / w wiadomości do MG).
 
 **Zamki mechanicznie są nieotwieralne bez klucza.**
