@@ -117,7 +117,7 @@ Jednak nie wszyscy okazują im posłuch – szlachta, władcy, bogaci kupcy czy 
 
 #### **Kelemvor**
 **Domeny:** Prawo, Przeznaczenie, Ochrona, Podróż, Wieczny Spoczynek\
-**Łączenie z klasami:** łowca (z Wróg Rasowy: Nieumarły)
+**Łączenie z klasami:** łowca (z Wróg Rasowy: Nieumarły), paladyn
 
 #### **Kossuth**
 **Domeny:** Zniszczenie, Ogień, Odnowienie, Cierpienie, Gniew\
