@@ -20,6 +20,7 @@
   --dark-link2-color: rgb(155,140,79);
   --dark-hover2-color: rgb(88,37,134);
   --dark-text2-color: rgb(227,227,227);
+  --new-link-color-light: rgb(98,126,227);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -40,7 +41,7 @@
   --ifm-footer-link-hover-color: var(--hover-link-root-color);
 
   /* other*/
-  --ifm-link-color: var(--font-root-color);
+  --ifm-link-color: var(--new-link-color-light);
   --ifm-menu-color-active: var(--hover-link-root-color);
   --ifm-breadcrumb-color-active: var(--hover-link-root-color);
   --ifm-background-color: var(--background-light-color);
