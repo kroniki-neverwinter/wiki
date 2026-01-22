@@ -263,5 +263,15 @@ Mistrzowie Gry posiadają w menu odpowiednie kary dla graczy łamiących regulam
 ## IV. Mistrz Gry
 
 Mistrz Gry ma zawsze rację.\
-Jeśli Mistrz Gry nie ma racji... możesz walczyć o swoje prawa na forum.\
+Jeśli Mistrz Gry nie ma racji... możesz walczyć o swoje prawa na Discordzie (skontaktuj się z administracją).\
 Nie musisz lubić wszystkich MG, ale powinieneś ich szanować.
+
+## V. Zasady Społeczności
+
+### 1. Polityka treści
+
+Wszelkie treści stworzone przez graczy i przekazane administracji (w tym grafiki, teksty, modele, mechaniki) z chwilą dodania ich do repozytoriów serwera przechodzą na własność administracji, w szczególności w zakresie autorskich praw majątkowych. Administracja zastrzega sobie pełne prawa do wykorzystywania, modyfikowania i rozpowszechniania tych treści w ramach serwera oraz powiązanych projektów. Prawa te obejmują również wszelkie treści opublikowane na publicznych kanałach serwera Discord, w szczególności teksty fabularne i opracowania tworzone przez Mistrzów Gry. Analogicznie, treści tworzone i publikowane przez graczy na wiki serwera stają się własnością administracji z chwilą ich zamieszczenia. Korzystanie z serwera oznacza akceptację niniejszej polityki.
+
+### 2. Polityka prywatności
+
+Administracja zastrzega sobie prawo do gromadzenia i przechowywania logów interakcji pomiędzy postaciami w grze (in character) w celu prowadzenia dokumentacji, moderacji oraz rozwoju świata gry. Zebrane dane mogą być analizowane przy użyciu modeli AI, wyłącznie na potrzeby administracyjne, organizacyjne i rozwojowe serwera. Administracja nie czyta, nie monitoruje ani nie gromadzi treści prywatnych rozmów pomiędzy graczami prowadzonych poza grą (out of character), w tym prywatnych wiadomości. Serwer może zbierać dane telemetryczne dotyczące działania systemów, wydajności oraz zachowań technicznych graczy w celu zapewnienia stabilności rozgrywki. Dane te mogą być również wykorzystywane do wykrywania i zapobiegania nadużyciom oraz oszustwom. Korzystanie z serwera oznacza akceptację niniejszej polityki prywatności.
