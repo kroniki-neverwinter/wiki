@@ -23,9 +23,10 @@ Należy pamiętać, że awanturnicy i bohaterowie PC operują zupełnie innymi z
 
 W świecie Zapomnianych Krain wszyscy posługujący się magią objawień **zobowiązani** są posiadać bóstwo opiekuńcze, gdyż mechanika tego świata nie pozwala na szeroko pojęty ateizm. Sama magia objawień - choć płynie ze Splotu - to zsyłana jest przez konkretne bóstwo, zwane patronem.
 
-### Dostępne bóstwa
+### Dostępne bóstwa i łączenie z innymi klasami
 
-Lista wszystkich dostępnych mechanicznie bóstw na serwerze Kroniki Neverwinter dostępna jest w zakładce **[Bogowie](https://wiki.nwn.net.pl/docs/Podstawowe%20informacje/Bogowie).**
+Lista wszystkich dostępnych mechanicznie bóstw na serwerze Kroniki Neverwinter dostępna jest na stronie [Bogowie i religia](https://wiki.nwn.net.pl/wiedza-o-swiecie/bogowie-i-religia).\
+Wymienione są tam również domeny dla każdego bóstwa i klasy podstawowe, z którymi można łamać klasę kapłana. Łamanie z klasami prestiżowymi jest rozpatrywane indywidualnie, na etapie autoryzacji Karty Postaci." 
 
 ### Wybór domen
 
