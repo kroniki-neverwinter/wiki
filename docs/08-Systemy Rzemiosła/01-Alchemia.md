@@ -112,7 +112,7 @@ Kliknij na **nazwę** przedmiotu, by zacząć wytwarzanie.
 |----------------------|--------------------------------------|
 | Mocy | tabliczka runiczna, rubin, uncja złota |
 | Ognia | tabliczka runiczna, ognisty opal, ogień alchemiczny |
-| Zimna | tabliczka runiczna, diament, szafir, zimny kamień |
+| Mrozu | tabliczka runiczna, perła, szafir, zimny kamień |
 | Ziemi | tabliczka runiczna, węgiel, szmaragd, uncja mithralu |
 | Błyskawicy | tabliczka runiczna, szafir, topaz, pióro orła |
 | Cienia | tabliczka runiczna, cienisty klejnot, pył |
