@@ -2,6 +2,7 @@
 title: 'Alchemia'
 ---
 
+###### Pokrewne tematy: [Zbieranie ziół](https://wiki.nwn.net.pl/docs/Systemy%20Autorskie/Zbieranie%20ziol), [Wyroby alchemiczne](https://wiki.nwn.net.pl/docs/Przedmioty/Wyroby%20alchemiczne), [Przedmioty runiczne](https://wiki.nwn.net.pl/docs/Przedmioty/Przedmioty%20runiczne)
 
 ## Ogólne zasady
 
@@ -15,9 +16,9 @@ Alchemia jest rzemiosłem natychmiastowym, co oznacza, że wytwarzanie mikstur t
 
 Wytwarzanie mikstur nie koliduje z systemami czasochłonnymi, takimi jak Kowalstwo czy Płatnerstwo.
 
-### Poziomy wtajemniczenia
+### Grupy wyrobów
 
-Alchemia dzieli się na 5 poziomów wtajemniczenia. Kręgi I - IV to głównie mikstury, a V krąg to runy ulepszające przedmioty. Początkowo postać zna jedynie kręgi I i II, a wykonywania wyrobów z wyższych kręgów uczy się z Recept. Większość Recept jest dostępna do kupienia u Alchemika, pozostałe można znaleźć w tubach ze zwojami lub dostać w nagrodę za wykonanie zadania od NPC.
+Wyroby alchemiczne dzielą się na kilka grup. I - IV to głównie mikstury, a V grupa to runy ulepszające przedmioty. Początkowo postać zna jedynie grupy I i II, a wykonywania wyrobów z wyższych uczy się z Recept. Większość Recept jest dostępna do kupienia u Alchemika, pozostałe można znaleźć w tubach ze zwojami lub dostać w nagrodę za wykonanie zadania od NPC.
 
 Istnieją jeszcze dwie osobne gałęzie alchemii: Wyroby Specjalne i Trucizny.
 
@@ -25,7 +26,7 @@ Istnieją jeszcze dwie osobne gałęzie alchemii: Wyroby Specjalne i Trucizny.
 
 ### Specjalne premie
 
-Atut **Warzenie Mikstur** zapewnia premię +5 do rzutów na Alchemię, odblokowuje wszystkie wyroby poziomów 3-4 oraz następujące Wyroby Specjalne:
+Atut **Warzenie Mikstur** zapewnia premię +5 do rzutów na Alchemię, odblokowuje wszystkie wyroby grup III-IV oraz następujące Wyroby Specjalne:
 
 - Bomba Kwasowa
 - Bomba Ogniowa
@@ -50,57 +51,63 @@ Za każde wytworzenie mikstury postać otrzymuje 1 punkt [cząstkowy] w rzemioś
 | 6               | 15              |
 | ...             | ...             |
 
-### Spis wyrobów alchemicznych
+### Krok po kroku
+Kliknij na **nazwę** przedmiotu, by zacząć wytwarzanie.
 
-#### Poziom I
-| Nazwa Mikstury       | Składniki                            |
+![alchemia_okno1](../../static/img/wiki/wiki-rzemioslo/alchemia-1.png)\
+![alchemia_okno2](../../static/img/wiki/wiki-rzemioslo/alchemia-2.png)
+
+## Spis wyrobów alchemicznych
+
+### Grupa I
+| Nazwa Wyrobu       | Składniki                            |
 |----------------------|--------------------------------------|
-| Leczenia Lekkich Ran | butelka, woda, krwawnik, elfie ziele |
-| Korowej Skóry        | butelka, woda, kora dębu, bagienne ziele |
+| Mikstura Leczenia Lekkich Ran | butelka, woda, krwawnik, elfie ziele |
+| Mikstura Korowej Skóry        | butelka, woda, kora dębu, bagienne ziele |
 | Woda Święcona (kapłani) | woda, jemioła |
-| Żelaznego Żołądka | butelka, woda, liść mięty, słońce Neverwinter |
+| Mikstura Żelaznego Żołądka | butelka, woda, liść mięty, słońce Neverwinter |
 | Maść Kauczukowa | słoik, smalec, gałąź kauczukowca |
 | Maść Lecznicza | słoik, smalec, elfie ziele, pokrzywa |
 | Zestaw do kamuflażu | sakiewka, popiół, kora dębu, tatarak |
 | Zestaw Uzdrowiciela (+1) | sukno, elfie ziele |
 
-#### Poziom II
-| Nazwa Mikstury       | Składniki                            |
+### Grupa II
+| Nazwa Wyrobu       | Składniki                            |
 |----------------------|--------------------------------------|
-| Leczenia Średnich Ran | butelka, woda, krwawnik, elfie ziele |
+| Mikstura Leczenia Średnich Ran | butelka, woda, krwawnik, elfie ziele |
 | Worek Pętlinogi | sakiewka, lina, gałąź kauczukowca |
 | Duszący Pył | sakiewka, popiół, powój, trujący bluszcz |
-| Błogosławieństwa | woda święcona, aloes |
+| Mikstura Błogosławieństwa | woda święcona, aloes |
 | Kamień Gromu | tabliczka runiczna, opiłki metalu |
 | Ogień Alchemiczny | słoik, siarka, spirytus |
-| Oddychania Pod Wodą | butelka, woda, ziarno gorczycy, rybie skrzela, liść kelanu |
+| Mikstura Oddychania Pod Wodą | butelka, woda, ziarno gorczycy, rybie skrzela, liść kelanu |
 
-#### Poziom III
-| Nazwa Mikstury       | Składniki                            |
+### Grupa III
+| Nazwa Wyrobu       | Składniki                            |
 |----------------------|--------------------------------------|
-| Leczenia Poważnych Ran  | butelka, woda, krwawnik, skrzyp, elfie ziele |
-| Siły | butelka, woda, spirytus, ząb wilka, grzybki Velt |
-| Zręczności | butelka, woda, spirytus, pazur pantery, grzybki Velt |
-| Kondycji | butelka, woda, spirytus (???), kieł dzika, grzybki Velt |
-| Intelektu | butelka, woda, kwiat rozmarynu, ogon myszy |
-| Rozsądku | butelka, woda, pióro sowy, orzech Rout |
-| Majestatu | butelka, woda, pióro orła, kwiat Orchidei |
-| Pomocy | butelka, woda, imbir, liść kelanu |
-| Niewidzialności | butelka, woda, pyłek fey, kora dębu |
+| Mikstura Leczenia Poważnych Ran  | butelka, woda, krwawnik, skrzyp, elfie ziele |
+| Mikstura Siły | butelka, woda, spirytus, ząb wilka, grzybki Velt |
+| Mikstura Zręczności | butelka, woda, spirytus, pazur pantery, grzybki Velt |
+| Mikstura Kondycji | butelka, woda, spirytus (???), kieł dzika, grzybki Velt |
+| Mikstura Intelektu | butelka, woda, kwiat rozmarynu, ogon myszy |
+| Mikstura Rozsądku | butelka, woda, pióro sowy, orzech Rout |
+| Mikstura Majestatu | butelka, woda, pióro orła, kwiat Orchidei |
+| Mikstura Pomocy | butelka, woda, imbir, liść kelanu |
+| Mikstura Niewidzialności | butelka, woda, pyłek fey, kora dębu |
 | Zestaw Uzdrowiciela (+3) | sukno, spirytus, elfie ziele |
 
-#### Poziom IV
-| Nazwa Mikstury       | Składniki                            |
+### Grupa IV
+| Nazwa Wyrobu       | Składniki                            |
 |----------------------|--------------------------------------|
-| Widzenia | butelka, woda, widłak, orzech Rout |
-| Szybkości | butelka, woda, spirytus, żywotnik, grzybki Velt |
-| Mniejszego Przywrócenia | butelka, woda, pięciornik, elfie ziele |
+| Mikstura Widzenia | butelka, woda, widłak, orzech Rout |
+| Mikstura Szybkości | butelka, woda, spirytus, żywotnik, grzybki Velt |
+| Mikstura Mniejszego Przywrócenia | butelka, woda, pięciornik, elfie ziele |
 | Napar Trolla | butelka, woda, krew trolla, krwawnik, pokrzywa |
 | Antidotum | butelka, woda, ostopest, liść kelanu, liść mięty |
 | Mentat | butelka, woda, tatarak, melisa, aloes |
 | Księżycowy Pył | sakiewka, żywotnik, mąka, imbir, diament |
 
-#### Poziom V - Runy
+### Grupa V - Runy
 | Nazwa Runy           | Składniki                            |
 |----------------------|--------------------------------------|
 | Mocy | tabliczka runiczna, rubin, uncja złota |
@@ -115,21 +122,25 @@ Za każde wytworzenie mikstury postać otrzymuje 1 punkt [cząstkowy] w rzemioś
 | Błogosławieństwa | tabliczka runiczna, topaz, diament, woda święcona |
 | Wampira | tabliczka runiczna, rtęć, rubin, kieł wampira |
 
-#### Poziom VI
-TBC
-
-#### Poziom VII
-| Nazwa Mikstury       | Składniki                            |
+### Grupa VI - Wyroby Specjalne
+| Nazwa Wyrobu       | Składniki                            |
 |----------------------|--------------------------------------|
-| Pył Ungol  | sakiewka, ruda ungol |
+| Biała Wróżka | butelka, spirytus, powój, melisa |
+| Bomba kwasowa | słoik, kwas, ogień alchemiczny, siarka |
+| Bomba ogniowa | słoik, węgiel, Ogień alchemiczny, siarka |
+| Flakon Życia | butelka, diament, woda święcona, kwiat orchidei |
+| Mikstura Oddechu Smoka | butelka, spirytus, siarka, fiolka jadu wiwerny |
+| Zestaw Uzdrowiciela +10 | sukno, spirytus, elfie ziele |
+| Mikstura Słonecznej Opończy | butelka, topaz, Słońce Neverwinter, woda święcona |
+| Jad Ogromnej Osy (trucizna) | fiolka jadu ogromnej osy |
+| Jad Ogromnego Skorpiona (trucizna) | fiolka jadu ogromnego skorpiona |
+
+
+### Grupa VII - Trucizny
+| Nazwa Trucizny       | Składniki                            |
+|----------------------|--------------------------------------|
+| Pył Ungol | sakiewka, ruda ungol |
 | Olej Taggit | butelka, grzybki Taggit, orzech Rout |
 | Korzeń Teranivu | butelka, korzeń Teranivu, spirytus alchemiczny |
 | Jad Wielkiego Pająka | fiolka jadu wielkiego pająka |
 | Podmuch Zimy | słoik, smalec, zimny kamień |
-
-### Krok po kroku
-
-![alchemia_okno1](../../static/img/wiki/wiki-rzemioslo/alchemia-1.png)\
-**Kliknij na nazwę przedmiotu, by zacząć wytwarzanie.**
-
-![alchemia_okno2](../../static/img/wiki/wiki-rzemioslo/alchemia-2.png)
