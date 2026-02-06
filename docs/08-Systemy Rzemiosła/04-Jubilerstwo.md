@@ -61,6 +61,8 @@ Szansa na 2 miejsca na runę:\
 Szansa na 3 miejsca na runę:\
 ``poziom Jubilerstwa / 15 + wartość umieszczonego kamienia / 500 vs k50``
 
+###### Więcej o: [przedmiotach runicznych](https://wiki.nwn.net.pl/docs/Przedmioty/Przedmioty%20runiczne).
+
 ### Przedmioty z klejnotem
 
 Aby zwiększyć wartość wytwarzanego przedmiotu, postać może zdecydować aby umieścić w nim klejnot. Im cenniejszy klejnot, tym wyższa wartość finalnego produktu. 
@@ -84,7 +86,7 @@ Za każde udane oszlifowanie kamienia postać otrzymuje 1/10 punktu, a za wykona
 | 6                 | 15              |
 | ...               | ...             |
 
-**Obecnie maksymalny poziom Jubilerstwa to 40.**
+**Obecnie Jubilerstwo nie posiada maksymalnego poziomu.**
 
 ### Krok po kroku
 
@@ -92,10 +94,10 @@ Za każde udane oszlifowanie kamienia postać otrzymuje 1/10 punktu, a za wykona
 
 ![log jubilerstwo](../../static/img/wiki/wiki-rzemioslo/jubiler-2.png)
 
-**Zwiększenie jakości**
+#### Zwiększenie jakości
 
 ![dialog jubilerstwo](../../static/img/wiki/wiki-rzemioslo/jubiler-3.png)
 
-**Tworzenie przedmiotów**
+#### Tworzenie przedmiotów
 
 ![dialog jubilerstwo](../../static/img/wiki/wiki-rzemioslo/jubiler-4.png)
