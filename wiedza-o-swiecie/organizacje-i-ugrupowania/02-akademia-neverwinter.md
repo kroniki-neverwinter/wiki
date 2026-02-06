@@ -11,7 +11,7 @@ Szkoła, zwana też Akademią Awanturników, otwarta jest nie tylko na uczniów.
 **Co zrobić, jeśli chcę by moja postać nauczała w Akademii Neverwinter i co się z tym wiąże?**
 
 Wyślij Storytelling mówiący o tym, że Twoja postać zgłosiła się do Akademii Neverwinter. Zawrzyj w nim informacje o tym, czego Twoja postać chce nauczać innych (może to być kilka dziedzin czy biegłości), zaznacz skąd (np. w oparciu o jaką klasę) posiada biegłość w zakresie, w jakim chce uczyć. Opisz też pokrótce przykładową lekcje w wykonaniu Twojej postaci.\
-Twoja postać będzie otrzymywać pensję w wartości 500 sz raz na tydzień czasu real (21 dni w grze).\
+Twoja postać będzie otrzymywać pensję w wartości 1500 sz raz na tydzień czasu real (21 dni w grze).\
 Stanowisko Nauczyciela w Akademii Neverwinter to pozycja o umiarkowanym prestiżu. Dla porównania Wielogwiezdne Płaszcze to bardzo wysoki prestiż.\
 Pozycja Nauczyciela wiąże się z możliwością uzyskania unikalnych informacji. Dla Mistrzów Gry stanowi dobrą podstawę do prowadzenia postaciom Questów.
 
