@@ -12,3 +12,5 @@ Wiele z organizacji zapewnia swoim członkom płacę.
 Jeśli już jakiś gracz przyłączył się jedną postacią do organizacji fabularnej, może to zamknąć drogę dla innych postaci tego gracza, by również ubiegać się o członkostwo w jakiejś grupie (decyzja MG).
 
 :::
+
+Oficjalna przynależność do różnych lokalnych kościołów również może się wiązać z niewielką rekompensatą dla postaci propagujących wiarę swego bóstwa (kapłani, paladyni).
