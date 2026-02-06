@@ -20,7 +20,7 @@ Zmian można dokonywać tylko na losowych przedmiotach ze skrzynek/potworów, kt
 
 Jeśli nie możesz używać Lekkiego Młota, porozmawiaj z kowalem aby pomógł ci z modyfikacją wyglądu przedmiotu (za opłatą).
 
-![kowal_zmiana_wygladu](../../static/img/wiki/wiki-obrazy/kowal_zmiana_wygladu.png)
+![kowal_zmiana_wygladu](../../static/img/wiki/kowal_zmiana_wygladu.png)
 
 ## Łuki i kusze
 
