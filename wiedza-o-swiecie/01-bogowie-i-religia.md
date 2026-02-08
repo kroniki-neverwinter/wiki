@@ -21,7 +21,7 @@ Bycie **Niewiernym**, czyli osobą nieoddającą czci żadnemu bogu, to sytuacja
 
 ## Magia objawień
 
-Paladyni, kapłani, druidzi i łowcy czerpią swoją moc od bóstwa, które ich obdarzyło nią w zamian za szerzenie jego woli. Używanie magii objawionej nie jest tylko przywilejem – wiąże się z odpowiedzialnością i koniecznością przestrzegania zasad wiary. Otrzymane moce służą do walki z wrogami bóstwa, nawracania innych lub ochrony miejsc kultu. Nadużywanie ich lub działanie sprzeczne z wolą boga może prowadzić do utraty zdolności czarowania, a nawet boskiej kary.
+[Paladyni](https://wiki.nwn.net.pl/docs/Klasy/Zmiany%20w%20Klasach/Paladyn), [kapłani](https://wiki.nwn.net.pl/docs/Klasy/Zmiany%20w%20Klasach/Kaplan), druidzi i [łowcy](https://wiki.nwn.net.pl/docs/Klasy/Zmiany%20w%20Klasach/Lowca) czerpią swoją moc od bóstwa, które ich obdarzyło nią w zamian za szerzenie jego woli. Używanie magii objawionej nie jest tylko przywilejem – wiąże się z odpowiedzialnością i koniecznością przestrzegania zasad wiary. Otrzymane moce służą do walki z wrogami bóstwa, nawracania innych lub ochrony miejsc kultu. Nadużywanie ich lub działanie sprzeczne z wolą boga może prowadzić do utraty zdolności czarowania, a nawet boskiej kary.
 
 ### Bóstwa natury
 Poniżej rozpisana jest kompletna lista bóstw natury w Zapomnianych Krainach. Druidzi i łowcy muszą wybrać jedno z tych bóstw na patrona, by móc posługiwać się magią objawień. Druidzi mogą posługiwać się ulubioną bronią wybranego bóstwa bez łamania swoich spirytualistycznych przysiąg (jednak nie znaczy to, że automatycznie są wyszkoleni w używaniu ich). Pogrubiona czcionka wskazuje na bóstwa dostępne na naszym serwerze:\
@@ -38,7 +38,7 @@ Zmiana wiary dla tych, którzy posługują się magią objawień jest poważnym 
 
 Magia przywracania życia jest niezwykle rzadka i dostępna jedynie dla nielicznych kleryków na całym Faerunie. Nawet ci, którzy ją posiadają, rzadko decydują się na jej użycie – wskrzeszenie wiąże się z wielkimi konsekwencjami i niemal zawsze wymaga wysokiej ceny, zarówno w sensie materialnym, jak i duchowym. Tego rodzaju cuda zarezerwowane są głównie dla monarchów, wielkich bohaterów lub wybrańców bogów.
 
-Po śmierci dusza trafia do domeny swojego bóstwa opiekuńczego, a żadne bóstwo nie oddaje chętnie dusz swoich wyznawców z powrotem do świata żywych. Niektórzy bogowie są w tej kwestii bardziej elastyczni, inni mniej – ale żaden nie pozwoli na wskrzeszenie, które sprzeciwiałoby się jego interesom.
+Po śmierci dusza trafia do domeny swojego bóstwa opiekuńczego, a żadne bóstwo nie oddaje chętnie dusz swoich wyznawców z powrotem do świata żywych. Niektórzy bogowie są w tej kwestii bardziej elastyczni, inni mniej – ale żaden nie pozwoli na wskrzeszenie, które sprzeciwiałoby się jego interesom.\
 W kontekście rozgrywki fabularnej, jeśli postać „umiera” na wyprawie lub w walce, warto przyjąć, że znajduje się „na skraju śmierci”, a magia objawiona jedynie powstrzymuje jej duszę przed opuszczeniem ciała. Każde wskrzeszenie powinno być przemyślane i traktowane jako rzadkie oraz doniosłe wydarzenie.
 
 ## Społeczny stosunek do sług bogów
@@ -48,7 +48,7 @@ Jednak nie wszyscy okazują im posłuch – szlachta, władcy, bogaci kupcy czy 
 
 ## Dostępne bóstwa
 
-Poniżej widnieje lista bóstw dostępnych na serwerze, oraz kilka podstawowych informacji pomocnych przy odgrywaniu, czy tworzeniu postaci kapłana. Więcej o tworzeniu kapłanów można znaleźć na [stronie tej klasy](https://wiki.nwn.net.pl/docs/Klasy/Zmiany%20w%20Klasach/Kaplan).
+Poniżej widnieje lista bóstw dostępnych na serwerze, oraz kilka podstawowych informacji pomocnych przy odgrywaniu, czy tworzeniu postaci kapłana (więcej o tworzeniu kapłanów można znaleźć na [stronie tej klasy](https://wiki.nwn.net.pl/docs/Klasy/Zmiany%20w%20Klasach/Kaplan)).
 
 Postrzeganie różnych wyznań w Neverwinter i Luskan zostało przedstawione w czterech progach:
 - **Zakazane** - obnoszenie się z tym wyznaniem może skutkować konfliktem z lokalnymi przedstawicielami władz
@@ -59,7 +59,7 @@ Postrzeganie różnych wyznań w Neverwinter i Luskan zostało przedstawione w c
 ### Panteon ogólny
 | Imię | Panteon | Postrzeganie w Neverwinter | Postrzeganie w Luskan | Domeny | Łączenie klas podstawowych dla kapłana |
 | --- | --- | --- | --- | --- | --- |
-| **[Akadi](https://forgottenrealms.fandom.com/wiki/Akadi)** | Ogólny | Neutralne | Neutralne | Powietrze, Iluzje, Oszustwa, Podróż | Żadne podstawowe, ani prestiżowe |
+| **[Akadi](https://forgottenrealms.fandom.com/wiki/Akadi)** | Ogólny | Neutralne | Neutralne | Powietrze, Iluzje, Oszustwa, Podróż | żadne podstawowe, ani prestiżowe |
 | **[Auril](https://forgottenrealms.fandom.com/wiki/Auril)** | Ogólny | Niechętnie widziane | Faworyzowane | Powietrze, Zimno, Zło, Burza, Woda, Gniew | łowca |
 | **[Azuth](https://forgottenrealms.fandom.com/wiki/Azuth)** | Ogólny | Neutralne | Neutralne | Iluzje, Wiedza, Prawo, Magia, Zaklęcia | czarodziej (dowolna specjalizacja) |
 | **[Bane](https://forgottenrealms.fandom.com/wiki/Bane)** | Ogólny | Zakazane | Niechętnie widziane | Zazdrość, Zło, Zniszczenie, Nienawiść, Prawo, Duma, Tyrania, Gniew | wojownik, czarodziej, czarownik |
@@ -71,10 +71,10 @@ Postrzeganie różnych wyznań w Neverwinter i Luskan zostało przedstawione w c
 | **[Eldath](https://forgottenrealms.fandom.com/wiki/Eldath)** | Ogólny | Neutralne | Neutralne | Dobro, Rośliny, Ochrona, Woda, Dobroczynność, Społeczność, Rodzina | łowca |
 | **[Gargauth](https://forgottenrealms.fandom.com/wiki/Gargauth)** | Ogólny | Zakazane | Zakazane | Zachłanność, Urok, Zazdrość, Zło, Prawo, Duma, Lenistwo, Oszustwa | czarownik, łotrzyk |
 | **[Gond](https://forgottenrealms.fandom.com/wiki/Gond)** | Ogólny | Faworyzowane | Neutralne | Rzemiosło, Ziemia, Ogień, Wiedza, Metal, Planowanie, Duma | łotrzyk |
-| **[Grumbar](https://forgottenrealms.fandom.com/wiki/Grumbar)** | Ogólny | Neutralne | Neutralne | Ziemia, Metal, Równowaga, Jaskinie, Czas | Żadne podstawowe, ani prestiżowe |
+| **[Grumbar](https://forgottenrealms.fandom.com/wiki/Grumbar)** | Ogólny | Neutralne | Neutralne | Ziemia, Metal, Równowaga, Jaskinie, Czas | żadne podstawowe, ani prestiżowe |
 | **[Helm](https://forgottenrealms.fandom.com/wiki/Helm)** | Ogólny | Faworyzowane | Neutralne | Pokora, Prawo, Planowanie, Duma, Ochrona, Siła | wojownik, paladyn |
 | **[Ilmater](https://forgottenrealms.fandom.com/wiki/Ilmater)** | Ogólny | Faworyzowane | Neutralne | Dobroczynność, Wytrwałość, Dobro, Leczenie, Pokora, Prawo, Siła, Cierpienie, Wstrzemięźliwość | mnich |
-| **[Istishia](https://forgottenrealms.fandom.com/wiki/Istishia)** | Ogólny | Neutralne | Neutralne | Zniszczenie, Woda, Ocean, Burza, Podróż | Żadne podstawowe, ani prestiżowe |
+| **[Istishia](https://forgottenrealms.fandom.com/wiki/Istishia)** | Ogólny | Neutralne | Neutralne | Zniszczenie, Woda, Ocean, Burza, Podróż | żadne podstawowe, ani prestiżowe |
 | **[Jergal](https://forgottenrealms.fandom.com/wiki/Jergal)** | Ogólny | Neutralne | Neutralne | Śmierć, Przeznaczenie, Wieczny Spoczynek, Runy, Cierpienie | czarodziej (specjalista nekromancji), mnich |
 | **[Kelemvor](https://forgottenrealms.fandom.com/wiki/Kelemvor)** | Ogólny | Faworyzowane | Neutralne | Prawo, Przeznaczenie, Ochrona, Podróż, Wieczny Spoczynek | łowca (z Wróg Rasowy: Nieumarły), paladyn |
 | **[Kossuth](https://forgottenrealms.fandom.com/wiki/Kossuth)** | Ogólny | Neutralne | Neutralne | Zniszczenie, Ogień, Odnowienie, Cierpienie, Gniew | czarodziej (specjalista wywoływania), czarownik, mnich |
@@ -155,7 +155,7 @@ Z uwagi na to, że drowy na serwerze Kroniki Neverwinter **opuściły Podmrok** 
 | **[Moradin](https://forgottenrealms.fandom.com/wiki/Moradin)** | Krasnoludzki (Morndinsamman) | Faworyzowane | Neutralne | Chciwość, Rzemiosło, Krasnoludy, Ziemia, Dobro, Prawo, Duma, Ochrona, Gniew | wojownik |
 | **[Sharindlar](https://forgottenrealms.fandom.com/wiki/Sharindlar)** | Krasnoludzki (Morndinsamman) | Neutralne | Neutralne | Chaos, Czystość, Dobroczynność, Dobro, Krasnoludy, Księżyc, Leczenie, Lenistwo, Urok, Pożądanie | bard |
 | **[Thard Harr](https://forgottenrealms.fandom.com/wiki/Thard_Harr)** | Krasnoludzki (Morndinsamman) | Neutralne | Neutralne | Zwierzęta, Chaos, Krasnoludy, Dobro, Rośliny, Gniew | łowca, druid |
-| **[Vergadain](https://forgottenrealms.fandom.com/wiki/Vergadain)** | Krasnoludzki (Morndinsamman) | Neutralne | Neutralne | Chciwość, Krasnoludy, Obżarstwo, Szczęście, Handel, Oszustwa | łotrzyk |
+| **[Vergadain](https://forgottenrealms.fandom.com/wiki/Vergadain)** | Krasnoludzki (Morndinsamman) | Neutralne | Faworyzowane | Chciwość, Krasnoludy, Obżarstwo, Szczęście, Handel, Oszustwa | łotrzyk |
 
 ### [Panteon gnomi](https://forgottenrealms.fandom.com/wiki/Lords_of_the_Golden_Hills)
 | Imię | Panteon | Postrzeganie w Neverwinter | Postrzeganie w Luskan | Domeny | Łączenie klas podstawowych dla kapłana |
