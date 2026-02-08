@@ -7,6 +7,7 @@ sidebar_label: 'Uczeń Smoka'
 ### Wymagania
 Przed rozpoczęciem gry Uczniem Smoka należy wysłać [kartę postaci](https://wiki.nwn.net.pl/karta-postaci) do MG. Dopiero po jej zatwierdzeniu można rozpocząć rozgrywkę.
 
+**Znane języki:** smoczy\
 **Klasa:** Bard lub Czarownik\
 **Umiejętności:** Wiedza (Tajemna) 8
 
