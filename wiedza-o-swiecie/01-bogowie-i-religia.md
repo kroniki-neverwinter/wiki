@@ -89,13 +89,13 @@ Postrzeganie różnych wyznań w Neverwinter i Luskan zostało przedstawione w c
 | **[Mystra](https://forgottenrealms.fandom.com/wiki/Mystra)** | Ogólny | Faworyzowane | Faworyzowane | Magia, Dobro, Iluzje, Wiedza, Runy, Zaklęcia | czarownik, czarodziej (dowolna specjalizacja) |
 | **[Oghma](https://forgottenrealms.fandom.com/wiki/Oghma)** | Ogólny | Faworyzowane | Neutralne | Równowaga, Wiedza, Urok, Szczęście, Oszustwa, Podróż, Duma | bard, czarodziej (dowolna specjalizacja) |
 | **[Savras](https://forgottenrealms.fandom.com/wiki/Savras)** | Ogólny | Neutralne | Neutralne | Przeznaczenie, Wiedza, Prawo, Zaklęcia | czarodziej, mnich |
-| **[Selune](https://forgottenrealms.fandom.com/wiki/Sel%C3%BBne)** | Ogólny | Faworyzowane | Faworyzowane | Czystość, Chaos, Dobro, Księżyc, Noc, Ochrona, Podróż | bard, czarownik, paladyn |
+| **[Selune](https://forgottenrealms.fandom.com/wiki/Sel%C3%BBne)** | Ogólny | Faworyzowane | Faworyzowane | Czystość, Chaos, Dobro, Księżyc, Noc, Ochrona, Podróż | bard, czarownik, mnich |
 | **[Shar](https://forgottenrealms.fandom.com/wiki/Shar)** | Ogólny | Zakazane | Niechętnie widziane | Jaskinie, Ciemność, Zło, Wiedza, Noc, Duma | łotrzyk, czarownik, czarodziej (specjalista iluzji, zaklinania lub nekromancji) |
 | **[Sharess](https://forgottenrealms.fandom.com/wiki/Sharess)** | Ogólny | Neutralne | Neutralne | Chaos, Urok, Zazdrość, Dobro, Pożądanie, Przyjemność, Lenistwo, Podróż, Oszustwa | bard |
 | **[Shaundakul](https://forgottenrealms.fandom.com/wiki/Shaundakul)** | Ogólny | Neutralne | Faworyzowane | Powietrze, Chaos, Portal, Ochrona, Handel, Podróż | łowca |
 | **[Siamorphe](https://forgottenrealms.fandom.com/wiki/Siamorphe)** | Ogólny | Faworyzowane | Neutralne | Wiedza, Prawo, Szlachectwo, Planowanie, Duma | wojownik, paladyn |
 | **[Silvanus](https://forgottenrealms.fandom.com/wiki/Silvanus)** | Ogólny | Neutralne | Neutralne | Zwierzęta, Rośliny, Ochrona, Odnowienie, Woda | druid, łowca |
-| **[Sune](https://forgottenrealms.fandom.com/wiki/Sune)** | Ogólny | Faworyzowane | Neutralne | Chaos, Urok, Dobro, Pożądanie, Przyjemność, Ochrona | bard, łotrzyk, paladyn |
+| **[Sune](https://forgottenrealms.fandom.com/wiki/Sune)** | Ogólny | Faworyzowane | Neutralne | Chaos, Urok, Dobro, Pożądanie, Przyjemność, Ochrona | bard, łotrzyk, mnich |
 | **[Talona](https://forgottenrealms.fandom.com/wiki/Talona)** | Ogólny | Zakazane | Niechętnie widziane | Plagi, Chaos, Zniszczenie, Zło, Zazdrość, Cierpienie | łotrzyk |
 | **[Talos](https://forgottenrealms.fandom.com/wiki/Talos)** | Ogólny | Niechętnie widziane | Neutralne | Chaos, Zniszczenie, Zło, Ogień, Burza, Gniew | barbarzyńca, czarownik, czarodziej (specjalista wywoływań) |
 | **[Tempus](https://forgottenrealms.fandom.com/wiki/Tempus)** | Ogólny | Faworyzowane | Faworyzowane | Chaos, Duma, Wojna, Siła, Ochrona, Gniew | barbarzyńca, wojownik |
