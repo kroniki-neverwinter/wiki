@@ -20,9 +20,9 @@ W internecie znajduje się mnóstwo podręczników i stron, z których można ko
 - Obecna data rozgrywki pokazuje się na Discordzie na kanale [#kalendarz](https://discord.com/channels/752493729289601025/1110140132700454923) (zwróć też uwagę na Przypięte tam wiadomości z pomocnymi informacjami).
 
 ## Przydatne linki
-- <https://forgottenrealms.fandom.com/>
-- <https://www.realmshelps.net/>
-- <https://www.aidedd.org/atlas/index.php?map=R&l=1>
+- https://forgottenrealms.fandom.com
+- https://www.realmshelps.net
+- https://www.aidedd.org/atlas/index.php?map=R&l=1
 
 ## ChatGPT i podobne
 Każdym narzędziem należy się posługiwać z umiarem i rozsądkiem. Kiedy prosisz AI (lub podobne narzędzie) o pomoc z szukaniem informacji, trzeba ja koniecznie samodzielnie weryfikować - bardzo często podaje błędne informacje, które mogą doprowadzić do sporego zamieszania. Mylenie chronologii i podawanie informacji, które wydarzyły się 150 lat po wydarzeniach ze świata gry, linki do nieistniejących artykułów bądź odniesienia do konkretnych stron w podręcznikach, które po sprawdzeniu nie mają nic wspólnego z tematem są bardzo częstym problemem.
