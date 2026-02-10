@@ -60,7 +60,7 @@ Kliknij na **nazwę** przedmiotu, by zacząć wytwarzanie.
 ## Spis wyrobów alchemicznych
 
 ### Grupa I
-| Nazwa Wyrobu       | Składniki                            |
+| Nazwa Wyrobu         | Składniki                            |
 |----------------------|--------------------------------------|
 | Mikstura Leczenia Lekkich Ran | butelka, woda, krwawnik, elfie ziele |
 | Mikstura Korowej Skóry        | butelka, woda, kora dębu, bagienne ziele |
@@ -72,7 +72,7 @@ Kliknij na **nazwę** przedmiotu, by zacząć wytwarzanie.
 | Zestaw Uzdrowiciela (+1) | sukno, elfie ziele |
 
 ### Grupa II
-| Nazwa Wyrobu       | Składniki                            |
+| Nazwa Wyrobu         | Składniki                            |
 |----------------------|--------------------------------------|
 | Mikstura Leczenia Średnich Ran | butelka, woda, krwawnik, elfie ziele |
 | Worek Pętlinogi | sakiewka, lina, gałąź kauczukowca |
@@ -83,7 +83,7 @@ Kliknij na **nazwę** przedmiotu, by zacząć wytwarzanie.
 | Mikstura Oddychania Pod Wodą | butelka, woda, ziarno gorczycy, rybie skrzela, liść kelanu |
 
 ### Grupa III
-| Nazwa Wyrobu       | Składniki                            |
+| Nazwa Wyrobu         | Składniki                            |
 |----------------------|--------------------------------------|
 | Mikstura Leczenia Poważnych Ran  | butelka, woda, krwawnik, skrzyp, elfie ziele |
 | Mikstura Siły | butelka, woda, spirytus, ząb wilka, grzybki Velt |
@@ -97,7 +97,7 @@ Kliknij na **nazwę** przedmiotu, by zacząć wytwarzanie.
 | Zestaw Uzdrowiciela (+3) | sukno, spirytus, elfie ziele |
 
 ### Grupa IV
-| Nazwa Wyrobu       | Składniki                            |
+| Nazwa Wyrobu         | Składniki                            |
 |----------------------|--------------------------------------|
 | Mikstura Widzenia | butelka, woda, widłak, orzech Rout |
 | Mikstura Szybkości | butelka, woda, spirytus, żywotnik, grzybki Velt |
@@ -123,7 +123,7 @@ Kliknij na **nazwę** przedmiotu, by zacząć wytwarzanie.
 | Wampira | tabliczka runiczna, rtęć, rubin, kieł wampira |
 
 ### Grupa VI - Wyroby Specjalne
-| Nazwa Wyrobu       | Składniki                            |
+| Nazwa Wyrobu         | Składniki                            |
 |----------------------|--------------------------------------|
 | Biała Wróżka | butelka, spirytus, powój, melisa |
 | Bomba kwasowa | słoik, kwas, ogień alchemiczny, siarka |
@@ -132,9 +132,6 @@ Kliknij na **nazwę** przedmiotu, by zacząć wytwarzanie.
 | Mikstura Oddechu Smoka | butelka, spirytus, siarka, fiolka jadu wiwerny |
 | Zestaw Uzdrowiciela +10 | sukno, spirytus, elfie ziele |
 | Mikstura Słonecznej Opończy | butelka, topaz, Słońce Neverwinter, woda święcona |
-| Jad Ogromnej Osy (trucizna) | fiolka jadu ogromnej osy |
-| Jad Ogromnego Skorpiona (trucizna) | fiolka jadu ogromnego skorpiona |
-
 
 ### Grupa VII - Trucizny
 | Nazwa Trucizny       | Składniki                            |
@@ -144,3 +141,5 @@ Kliknij na **nazwę** przedmiotu, by zacząć wytwarzanie.
 | Korzeń Teranivu | butelka, korzeń Teranivu, spirytus alchemiczny |
 | Jad Wielkiego Pająka | fiolka jadu wielkiego pająka |
 | Podmuch Zimy | słoik, smalec, zimny kamień |
+| Jad Ogromnej Osy | fiolka jadu ogromnej osy |
+| Jad Ogromnego Skorpiona | fiolka jadu ogromnego skorpiona |
