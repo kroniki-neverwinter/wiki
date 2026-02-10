@@ -73,9 +73,9 @@ Postrzeganie różnych wyznań w Neverwinter i Luskan zostało przedstawione w c
 | **[Gond](https://forgottenrealms.fandom.com/wiki/Gond)** | Ogólny | Faworyzowane | Neutralne | Rzemiosło, Ziemia, Ogień, Wiedza, Metal, Planowanie, Duma | łotrzyk |
 | **[Grumbar](https://forgottenrealms.fandom.com/wiki/Grumbar)** | Ogólny | Neutralne | Neutralne | Ziemia, Metal, Równowaga, Jaskinie, Czas | żadne podstawowe, ani prestiżowe |
 | **[Helm](https://forgottenrealms.fandom.com/wiki/Helm)** | Ogólny | Faworyzowane | Neutralne | Pokora, Prawo, Planowanie, Duma, Ochrona, Siła | wojownik, paladyn |
-| **[Ilmater](https://forgottenrealms.fandom.com/wiki/Ilmater)** | Ogólny | Faworyzowane | Neutralne | Dobroczynność, Wytrwałość, Dobro, Leczenie, Pokora, Prawo, Siła, Cierpienie, Wstrzemięźliwość | mnich |
+| **[Ilmater](https://forgottenrealms.fandom.com/wiki/Ilmater)** | Ogólny | Faworyzowane | Neutralne | Dobroczynność, Wytrwałość, Dobro, Leczenie, Pokora, Prawo, Siła, Cierpienie, Wstrzemięźliwość | paladyn, mnich |
 | **[Istishia](https://forgottenrealms.fandom.com/wiki/Istishia)** | Ogólny | Neutralne | Neutralne | Zniszczenie, Woda, Ocean, Burza, Podróż | żadne podstawowe, ani prestiżowe |
-| **[Jergal](https://forgottenrealms.fandom.com/wiki/Jergal)** | Ogólny | Neutralne | Neutralne | Śmierć, Przeznaczenie, Wieczny Spoczynek, Runy, Cierpienie | czarodziej (specjalista nekromancji), mnich |
+| **[Jergal](https://forgottenrealms.fandom.com/wiki/Jergal)** | Ogólny | Neutralne | Neutralne | Śmierć, Przeznaczenie, Wieczny Spoczynek, Runy, Cierpienie | czarodziej (specjalista nekromancji), paladyn, mnich |
 | **[Kelemvor](https://forgottenrealms.fandom.com/wiki/Kelemvor)** | Ogólny | Faworyzowane | Neutralne | Prawo, Przeznaczenie, Ochrona, Podróż, Wieczny Spoczynek | łowca (z Wróg Rasowy: Nieumarły), paladyn |
 | **[Kossuth](https://forgottenrealms.fandom.com/wiki/Kossuth)** | Ogólny | Neutralne | Neutralne | Zniszczenie, Ogień, Odnowienie, Cierpienie, Gniew | czarodziej (specjalista wywoływania), czarownik, mnich |
 | **[Lathander](https://forgottenrealms.fandom.com/wiki/Lathander)** | Ogólny | Faworyzowane | Neutralne | Czystość, Chwała, Dobro, Szlachectwo, Ochrona, Blask, Odnowienie, Siła, Słońce, Gorliwość | paladyn, mnich |
@@ -89,13 +89,13 @@ Postrzeganie różnych wyznań w Neverwinter i Luskan zostało przedstawione w c
 | **[Mystra](https://forgottenrealms.fandom.com/wiki/Mystra)** | Ogólny | Faworyzowane | Faworyzowane | Magia, Dobro, Iluzje, Wiedza, Runy, Zaklęcia | czarownik, czarodziej (dowolna specjalizacja) |
 | **[Oghma](https://forgottenrealms.fandom.com/wiki/Oghma)** | Ogólny | Faworyzowane | Neutralne | Równowaga, Wiedza, Urok, Szczęście, Oszustwa, Podróż, Duma | bard, czarodziej (dowolna specjalizacja) |
 | **[Savras](https://forgottenrealms.fandom.com/wiki/Savras)** | Ogólny | Neutralne | Neutralne | Przeznaczenie, Wiedza, Prawo, Zaklęcia | czarodziej, mnich |
-| **[Selune](https://forgottenrealms.fandom.com/wiki/Sel%C3%BBne)** | Ogólny | Faworyzowane | Faworyzowane | Czystość, Chaos, Dobro, Księżyc, Noc, Ochrona, Podróż | bard, czarownik |
+| **[Selune](https://forgottenrealms.fandom.com/wiki/Sel%C3%BBne)** | Ogólny | Faworyzowane | Faworyzowane | Czystość, Chaos, Dobro, Księżyc, Noc, Ochrona, Podróż | bard, czarownik, paladyn |
 | **[Shar](https://forgottenrealms.fandom.com/wiki/Shar)** | Ogólny | Zakazane | Niechętnie widziane | Jaskinie, Ciemność, Zło, Wiedza, Noc, Duma | łotrzyk, czarownik, czarodziej (specjalista iluzji, zaklinania lub nekromancji) |
 | **[Sharess](https://forgottenrealms.fandom.com/wiki/Sharess)** | Ogólny | Neutralne | Neutralne | Chaos, Urok, Zazdrość, Dobro, Pożądanie, Przyjemność, Lenistwo, Podróż, Oszustwa | bard |
 | **[Shaundakul](https://forgottenrealms.fandom.com/wiki/Shaundakul)** | Ogólny | Neutralne | Faworyzowane | Powietrze, Chaos, Portal, Ochrona, Handel, Podróż | łowca |
 | **[Siamorphe](https://forgottenrealms.fandom.com/wiki/Siamorphe)** | Ogólny | Faworyzowane | Neutralne | Wiedza, Prawo, Szlachectwo, Planowanie, Duma | wojownik, paladyn |
 | **[Silvanus](https://forgottenrealms.fandom.com/wiki/Silvanus)** | Ogólny | Neutralne | Neutralne | Zwierzęta, Rośliny, Ochrona, Odnowienie, Woda | druid, łowca |
-| **[Sune](https://forgottenrealms.fandom.com/wiki/Sune)** | Ogólny | Faworyzowane | Neutralne | Chaos, Urok, Dobro, Pożądanie, Przyjemność, Ochrona | bard, łotrzyk |
+| **[Sune](https://forgottenrealms.fandom.com/wiki/Sune)** | Ogólny | Faworyzowane | Neutralne | Chaos, Urok, Dobro, Pożądanie, Przyjemność, Ochrona | bard, łotrzyk, paladyn |
 | **[Talona](https://forgottenrealms.fandom.com/wiki/Talona)** | Ogólny | Zakazane | Niechętnie widziane | Plagi, Chaos, Zniszczenie, Zło, Zazdrość, Cierpienie | łotrzyk |
 | **[Talos](https://forgottenrealms.fandom.com/wiki/Talos)** | Ogólny | Niechętnie widziane | Neutralne | Chaos, Zniszczenie, Zło, Ogień, Burza, Gniew | barbarzyńca, czarownik, czarodziej (specjalista wywoływań) |
 | **[Tempus](https://forgottenrealms.fandom.com/wiki/Tempus)** | Ogólny | Faworyzowane | Faworyzowane | Chaos, Duma, Wojna, Siła, Ochrona, Gniew | barbarzyńca, wojownik |
@@ -143,7 +143,7 @@ Z uwagi na to, że drowy na serwerze Kroniki Neverwinter **opuściły Podmrok** 
 | Imię | Panteon | Postrzeganie w Neverwinter | Postrzeganie w Luskan | Domeny | Łączenie klas podstawowych dla kapłana |
 | --- | --- | --- | --- | --- | --- |
 | **[Abbathor](https://forgottenrealms.fandom.com/wiki/Abbathor)** | Krasnoludzki (Morndinsamman) | Neutralne | Neutralne | Chciwość, Krasnoludy, Szczęście, Handel, Oszustwa, Zachłanność | łotrzyk |
-| **[Berronar Czyste Srebro](https://forgottenrealms.fandom.com/wiki/Berronar_Truesilver)** | Krasnoludzki (Morndinsamman) | Neutralne | Neutralne | Społeczność, Krasnoludy, Rodzina, Dobro, Leczenie, Prawo | wojownik, bard |
+| **[Berronar Czyste Srebro](https://forgottenrealms.fandom.com/wiki/Berronar_Truesilver)** | Krasnoludzki (Morndinsamman) | Neutralne | Neutralne | Społeczność, Krasnoludy, Rodzina, Dobro, Leczenie, Prawo | wojownik, bard, paladyn |
 | **[Clangeddin Srebrnobrody](https://forgottenrealms.fandom.com/wiki/Clangeddin_Silverbeard)** | Krasnoludzki (Morndinsamman) | Neutralne | Neutralne | Krasnoludy, Dobro, Prawo, Siła, Wstrzemięźliwość, Wojna, Gniew | wojownik, mnich |
 | **[Duerra z Podziemi](https://forgottenrealms.fandom.com/wiki/Deep_Duerra)** | Krasnoludzki (Morndinsamman) | Zakazane | Zakazane | Krasnoludy, Zło, Prawo, Wojna | wojownik |
 | **[Dugmaren Jasny Płaszcz](https://forgottenrealms.fandom.com/wiki/Dugmaren_Brightmantle)** | Krasnoludzki (Morndinsamman) | Neutralne | Neutralne | Chaos, Rzemiosło, Krasnoludy, Dobro, Wiedz, Cierpliwość, Runy | czarodziej |
@@ -152,7 +152,7 @@ Z uwagi na to, że drowy na serwerze Kroniki Neverwinter **opuściły Podmrok** 
 | **[Haela Jasny Topór](https://forgottenrealms.fandom.com/wiki/Haela_Brightaxe)** | Krasnoludzki (Morndinsamman) | Neutralne | Neutralne | Chaos, Krasnoludy, Dobro, Szczęście, Wojna, Gorliwość | barbarzyńca, wojownik |
 | **[Laduguer](https://forgottenrealms.fandom.com/wiki/Laduguer)** | Krasnoludzki (Morndinsamman) | Zakazane | Zakazane | Rzemiosło, Krasnoludy, Zło, Prawo, Magia, Metal, Ochrona | wojownik, czarodziej |
 | **[Marthammor Duin](https://forgottenrealms.fandom.com/wiki/Marthammor_Duin)** | Krasnoludzki (Morndinsamman) | Neutralne | Neutralne | Krasnoludy, Dobro, Ochrona, Podróże | wojownik, łowca |
-| **[Moradin](https://forgottenrealms.fandom.com/wiki/Moradin)** | Krasnoludzki (Morndinsamman) | Faworyzowane | Neutralne | Chciwość, Rzemiosło, Krasnoludy, Ziemia, Dobro, Prawo, Duma, Ochrona, Gniew | wojownik |
+| **[Moradin](https://forgottenrealms.fandom.com/wiki/Moradin)** | Krasnoludzki (Morndinsamman) | Faworyzowane | Neutralne | Chciwość, Rzemiosło, Krasnoludy, Ziemia, Dobro, Prawo, Duma, Ochrona, Gniew | wojownik, paladyn |
 | **[Sharindlar](https://forgottenrealms.fandom.com/wiki/Sharindlar)** | Krasnoludzki (Morndinsamman) | Neutralne | Neutralne | Chaos, Czystość, Dobroczynność, Dobro, Krasnoludy, Księżyc, Leczenie, Lenistwo, Urok, Pożądanie | bard |
 | **[Thard Harr](https://forgottenrealms.fandom.com/wiki/Thard_Harr)** | Krasnoludzki (Morndinsamman) | Neutralne | Neutralne | Zwierzęta, Chaos, Krasnoludy, Dobro, Rośliny, Gniew | łowca, druid |
 | **[Vergadain](https://forgottenrealms.fandom.com/wiki/Vergadain)** | Krasnoludzki (Morndinsamman) | Neutralne | Faworyzowane | Chciwość, Krasnoludy, Obżarstwo, Szczęście, Handel, Oszustwa | łotrzyk |
@@ -164,7 +164,7 @@ Z uwagi na to, że drowy na serwerze Kroniki Neverwinter **opuściły Podmrok** 
 | **[Baravar Cienista Szata](https://forgottenrealms.fandom.com/wiki/Baravar_Cloakshadow)** | Gnomi (Władcy ze Złotych Wzgórz) | Neutralne | Neutralne | Gnomy, Dobro, Iluzje, Ochrona, Oszustwa | czarodziej (specjalista iluzji), łotrzyk |
 | **[Callarduran Gładkoręki](https://forgottenrealms.fandom.com/wiki/Callarduran_Smoothhands)** | Gnomi (Władcy ze Złotych Wzgórz) | Neutralne | Neutralne | Jaskinie, Rzemiosło, Ziemia, Gnomy | wojownik, czarodziej (specjalista iluzji) |
 | **[Flandal Stalowoskóry](https://forgottenrealms.fandom.com/wiki/Flandal_Steelskin)** | Gnomi (Władcy ze Złotych Wzgórz) | Neutralne | Neutralne | Rzemiosło, Gnomy, Dobro, Metal | wojownik |
-| **[Gaerdal Żelaznoręki](https://forgottenrealms.fandom.com/wiki/Gaerdal_Ironhand)** | Gnomi (Władcy ze Złotych Wzgórz) | Neutralne | Neutralne | Gnomy, Dobro, Prawo, Ochrona, Wojna | wojownik, mnich |
+| **[Gaerdal Żelaznoręki](https://forgottenrealms.fandom.com/wiki/Gaerdal_Ironhand)** | Gnomi (Władcy ze Złotych Wzgórz) | Neutralne | Neutralne | Gnomy, Dobro, Prawo, Ochrona, Wojna | wojownik, paladyn, mnich |
 | **[Garl Świetlistozłoty](https://forgottenrealms.fandom.com/wiki/Garl_Glittergold)** | Gnomi (Władcy ze Złotych Wzgórz) | Faworyzowane | Neutralne | Zachłanność, Rzemiosło, Zazdrość, Gnomy, Dobro, Prawo, Ochrona, Oszustwa | łotrzyk, czarodziej (specjalista iluzji) |
 | **[Segojan Herold Ziemi](https://forgottenrealms.fandom.com/wiki/Segojan_Earthcaller)** | Gnomi (Władcy ze Złotych Wzgórz) | Neutralne | Neutralne | Jaskinie, Ziemia, Gnomy, Dobro | wojownik, czarodziej (specjalista iluzji) |
 | **[Urdlen](https://forgottenrealms.fandom.com/wiki/Urdlen)** | Gnomi (Władcy ze Złotych Wzgórz) | Zakazane | Neutralne | Chaos, Zachłanność, Ziemia, Zazdrość, Zło, Obżarstwo, Gnomy, Nienawiść | łotrzyk |
@@ -172,7 +172,7 @@ Z uwagi na to, że drowy na serwerze Kroniki Neverwinter **opuściły Podmrok** 
 ### [Panteon niziołczy](https://forgottenrealms.fandom.com/wiki/Yondalla's_Children)
 | Imię | Panteon | Postrzeganie w Neverwinter | Postrzeganie w Luskan | Domeny | Łączenie klas podstawowych dla kapłana |
 | --- | --- | --- | --- | --- | --- |
-| **[Arvoreen](https://forgottenrealms.fandom.com/wiki/Arvoreen)** | Niziołczy (Dzieci Yondalli) | Neutralne | Neutralne | Dobro, Niziołki, Prawo, Ochrona, Wojna | wojownik, łowca |
+| **[Arvoreen](https://forgottenrealms.fandom.com/wiki/Arvoreen)** | Niziołczy (Dzieci Yondalli) | Neutralne | Neutralne | Dobro, Niziołki, Prawo, Ochrona, Wojna | wojownik, łowca, paladyn |
 | **[Brandobaris](https://forgottenrealms.fandom.com/wiki/Brandobaris)** | Niziołczy (Dzieci Yondalli) | Neutralne | Neutralne | Zachłanność, Niziołki, Szczęście, Lenistwo, Oszustwa | łotrzyk |
 | **[Cyrrollalee](https://forgottenrealms.fandom.com/wiki/Cyrrollalee)** | Niziołczy (Dzieci Yondalli) | Neutralne | Neutralne | Społeczność, Rodzina, Hojność, Obżarstwo, Dobro, Niziołi, Prawo, Lenistwo | brak |
 | **[Dallah Thaun](https://forgottenrealms.fandom.com/wiki/Dallah_Thaun)** | Niziołczy (Dzieci Yondalli) | Neutralne | Neutralne | Chaos, Wiedza, Szczęście, Oszustwa, Niziołki | łotrzyk |
