@@ -21,7 +21,7 @@ Bycie **Niewiernym**, czyli osobą nieoddającą czci żadnemu bogu, to sytuacja
 
 ## Magia objawień
 
-[Paladyni](https://wiki.nwn.net.pl/docs/Klasy/Zmiany%20w%20Klasach/Paladyn), [kapłani](https://wiki.nwn.net.pl/docs/Klasy/Zmiany%20w%20Klasach/Kaplan), druidzi i [łowcy](https://wiki.nwn.net.pl/docs/Klasy/Zmiany%20w%20Klasach/Lowca) czerpią swoją moc od bóstwa, które ich obdarzyło nią w zamian za szerzenie jego woli. Używanie magii objawionej nie jest tylko przywilejem – wiąże się z odpowiedzialnością i koniecznością przestrzegania zasad wiary. Otrzymane moce służą do walki z wrogami bóstwa, nawracania innych lub ochrony miejsc kultu. Nadużywanie ich lub działanie sprzeczne z wolą boga może prowadzić do utraty zdolności czarowania, a nawet boskiej kary.
+[Paladyni](https://wiki.nwn.net.pl/docs/Klasy/Zmiany%20w%20Klasach/Paladyn), [kapłani](https://wiki.nwn.net.pl/docs/Klasy/Zmiany%20w%20Klasach/Kaplan), [druidzi](https://wiki.nwn.net.pl/docs/Klasy/Zmiany%20w%20Klasach/Druid) i [łowcy](https://wiki.nwn.net.pl/docs/Klasy/Zmiany%20w%20Klasach/Lowca) czerpią swoją moc od bóstwa, które ich obdarzyło nią w zamian za szerzenie jego woli. Używanie magii objawionej nie jest tylko przywilejem – wiąże się z odpowiedzialnością i koniecznością przestrzegania zasad wiary. Otrzymane moce służą do walki z wrogami bóstwa, nawracania innych lub ochrony miejsc kultu. Nadużywanie ich lub działanie sprzeczne z wolą boga może prowadzić do utraty zdolności czarowania, a nawet boskiej kary.
 
 ### Bóstwa natury
 Poniżej rozpisana jest kompletna lista bóstw natury w Zapomnianych Krainach. Druidzi i łowcy muszą wybrać jedno z tych bóstw na patrona, by móc posługiwać się magią objawień. Druidzi mogą posługiwać się ulubioną bronią wybranego bóstwa bez łamania swoich spirytualistycznych przysiąg (jednak nie znaczy to, że automatycznie są wyszkoleni w używaniu ich). Pogrubiona czcionka wskazuje na bóstwa dostępne na naszym serwerze:\
@@ -43,7 +43,7 @@ W kontekście rozgrywki fabularnej, jeśli postać „umiera” na wyprawie lub 
 
 ## Społeczny stosunek do sług bogów
 
-Boscy wysłannicy – [kapłani](https://wiki.nwn.net.pl/docs/Klasy/Zmiany%20w%20Klasach/Kaplan), [paladyni](https://wiki.nwn.net.pl/docs/Klasy/Zmiany%20w%20Klasach/Paladyn), druidzi – są darzeni wielkim szacunkiem przez zwykłych ludzi. Dla przeciętnego mieszkańca Faerunu nawet drobna cudowna interwencja, jak uzdrowienie rany czy złagodzenie choroby, jest czymś niezwykłym i godnym podziwu. Większość społeczeństwa odnosi się do nich z czcią, respektem lub przynajmniej bojaźnią.
+Boscy wysłannicy – [kapłani](https://wiki.nwn.net.pl/docs/Klasy/Zmiany%20w%20Klasach/Kaplan), [paladyni](https://wiki.nwn.net.pl/docs/Klasy/Zmiany%20w%20Klasach/Paladyn), [druidzi](https://wiki.nwn.net.pl/docs/Klasy/Zmiany%20w%20Klasach/Druid) – są darzeni wielkim szacunkiem przez zwykłych ludzi. Dla przeciętnego mieszkańca Faerunu nawet drobna cudowna interwencja, jak uzdrowienie rany czy złagodzenie choroby, jest czymś niezwykłym i godnym podziwu. Większość społeczeństwa odnosi się do nich z czcią, respektem lub przynajmniej bojaźnią.
 Jednak nie wszyscy okazują im posłuch – szlachta, władcy, bogaci kupcy czy wpływowe organizacje nie zawsze przyjmują autorytet kleryków i paladynów bezkrytycznie. Osoba, która próbuje wywierać wpływ na możnych, może zostać uznana za problem, który należy rozwiązać – niekoniecznie w pokojowy sposób.
 
 ## Dostępne bóstwa
