@@ -2,35 +2,32 @@
 sidebar_label: 'Mistyczny Sztukmistrz'
 ---
 
-
-# Mistyczny Sztukmistrz
-
 ![mistyczny sztukmistrz](../../../static/img/wiki/mistyczny-sztukmistrz.png)
 
-### (KLASA PRESTIŻOWA)
-*-- Mam!*
-
-Mistyczny Sztukmistrz łączy ze sobą magiczną wiedzę ze zmysłem do intryg, umiejętnościami złodziejskimi, czy zwykłą smykałką do figli. Przedstawiciele tej klasy prestiżowej to poszukiwacze przygód, którzy potrafią odnaleźć się w każdej sytuacji.
-
-Mistyczny Sztukmistrz to osoba samodzielna, korzystająca głównie ze swoich własnych doświadczeń, która święcie wierzy w swoje umiejętności. Większość poszukiwaczy przygód z tej klasy prestiżowej skupia się na czarach zwiększających ich ruchliwość, zdolności krycia się lub manipulowania umysłami innych. Mistyczni Sztukmistrze BN to osoby w typie tych, które najczęściej wpadają na innych w zatłoczonej gospodzie (uwaga na sakiewki!).
+## (KLASA PRESTIŻOWA)
+> *-- Mam!*
+> 
+> Mistyczny Sztukmistrz łączy ze sobą magiczną wiedzę ze zmysłem do intryg, umiejętnościami złodziejskimi, czy zwykłą smykałką do figli. Przedstawiciele tej klasy prestiżowej to poszukiwacze przygód, którzy potrafią odnaleźć się w każdej sytuacji.
+> 
+> Mistyczny Sztukmistrz to osoba samodzielna, korzystająca głównie ze swoich własnych doświadczeń, która święcie wierzy w swoje umiejętności. Większość poszukiwaczy przygód z tej klasy prestiżowej skupia się na czarach zwiększających ich ruchliwość, zdolności krycia się lub manipulowania umysłami innych. Mistyczni Sztukmistrze BN to osoby w typie tych, które najczęściej wpadają na innych w zatłoczonej gospodzie (uwaga na sakiewki!).
 
 **Maksymalna ilość poziomów:** 30.\
 **Kość Wytrzymałości:** k4.\
 **Punkty Umiejętności:** 5 + Modyfikator Inteligencji.\
 **Bazowa premia do ataku:** niska (1/2)\
 **Wysoki rzut obronny:** Refleks, Wola\
-**Czary na dzień/znane czary:** Sztukmistrz otrzymuje co **1 poziom** zaklęcia w swojej klasie czarującej (dotyczy Czarodzieja) oraz +1 do poziomu rzucającego (czyli +30 na 30 poziomie Mistycznego Sztukmistrza).\
-_**Uwaga!** ze względu na ograniczenia silnika gry nie doradzamy łączenia tej klasy z klasami, które nie posiadają miejsc na zaklęcia (spellslots). Taka postać w klasie np. Czarownika uzyska jedynie bonus do poziomu zaklęć, NIE otrzyma zaklęć ani kręgów zaklęć. Przy łączeniu z klasami, które mają miesjca na zaklęcia (np. Czarodziej) te ograniczenia silnika gry nie obowiązują._
+**Czary na dzień/znane czary:** Sztukmistrz otrzymuje co **1 poziom** zaklęcia w swojej klasie czarującej oraz +1 do poziomu rzucającego (czyli +30 na 30 poziomie Mistycznego Sztukmistrza).
 
-### Wymagania
+_Dzięki [systemowi PCS](https://wiki.nwn.net.pl/docs/Systemy%20Autorskie/CzarowanieSpontaniczne) można bezpiecznie łączyć tę klasę prestiżową z podstawowymi klasami posługującymi się magią mistyczną w sposób spontaniczny._
+
+## Wymagania
 **Charakter:** dowolny niepraworządny\
-**Rzucanie zaklęć mistycznych 2 kręgu**\
+**Umiejętności:** Akrobatyka (7), Wiedza Tajemna (4), Rozbrajanie Pułapek (7)\
+**Rzucanie zaklęć mistycznych II kręgu**\
 **Atak z Zaskoczenia 2k6 (łotrzyk)**\
-**Talent Magiczny:** Iluzje\
-**Umiejętności:** Akrobatyka (7), Wiedza Tajemna (4), Rozbrajanie Pułapek (7)
+**Talent Magiczny:** Iluzje
 
-
-### Umiejętności
+## Umiejętności
 Akrobatyka\
 Blef\
 Cichy Chód\
@@ -56,8 +53,7 @@ Wycena\
 Wyczucie Pobudek\
 Zakładanie Pułapek
 
-
-### Zdolności klasowe
+## Zdolności klasowe
 
 **Atak z Zaskoczenia:** +1k6 co drugi poziom.
 
