@@ -2,8 +2,14 @@
 sidebar_label: 'Bard'
 ---
 
+## Pieśni
+Poniżej znajduje się rozpiska jakie premie otrzymuje Pieśń Barda zależnie od poziomu klasy i ilości punktów w umiejętności Aktorstwo.
 
-Poniżej rozpiska jakie premie otrzymuje pieśń barda zależnie od poziomu klasy i ilości punktów w umiejętności Aktorstwo.
+:::info
+
+Przeklęta Pieśń działa analogicznie - zdejmuje takie same wartości, jakie dodaje Pieśń Barda wedle tabeli.
+
+:::
 
 | Poziom barda | Minimalne Aktorstwo | Do trafienia | Do obrażeń | Do Siły Woli | Do Wytrwałości | Do Refleksu | Do KP | Do rzutów Umiejętności | Tyczasowe HP |
 |--------------|:-------------------:|:------------:|:----------:|:------------:|:--------------:|:-----------:|:-----:|:----------------------:|:------------:|
