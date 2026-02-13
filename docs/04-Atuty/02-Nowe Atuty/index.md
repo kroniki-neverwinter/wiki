@@ -3,11 +3,7 @@ id: index
 title: 'Nowe Atuty'
 ---
 
-
-
-### Nowy Atut
-
-#### Magia Cienistego Splotu
+## Magia Cienistego Splotu
 **Rodzaj atutu**: Ogólny\
 **Wymagania**:
 - Umiejętność rzucania zaklęć 1. poziomu
