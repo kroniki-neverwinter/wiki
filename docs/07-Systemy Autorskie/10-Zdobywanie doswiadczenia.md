@@ -1,9 +1,8 @@
 ---
 sidebar_label: 'Zdobywanie doświadczenia'
 ---
-
-
-# Podstawowe informacje
+# Zdobywanie doświadczenia
+Poza klasycznym zabijaniem potworów, postacie mogą zdobywać doświadcznie za różne inne aktywności, przede wszystkim skupiające się na odgrywaniu.
 
 ## System Autoexpa Mefisto (SAM)
 Czyli swego rodzaju ocena odgrywania, przyznawana poprzez punkty nadawane przez MG. Punkty SAM nie są nagrodą za udział w przygodach, a docenieniem takich aspektów jak: spójność postaci, odgrywanie zgodne z kartą/statystykami, czy zachowanie immersji świata przedstawionego.
@@ -39,7 +38,8 @@ Poziomy autoexpa zdobywa się dzięki punktom od MG przyznawanym za odgrywanie.
 - jeśli mam 10 punktów SAM, mogę uzyskać maksymalnie 20 poziom, po czym PD za potwory zostaną zablokowane
 
 #### Ratunku, nigdy nie miałem więcej niż 1 punkt SAM! Jak grać?!
-Dzięki nowemu systemowi, a.k.a. ["**Storytelling**"](https://wiki.nwn.net.pl/docs/Systemy%20Autorskie/Storytelling), MG mają wgląd w różne dodatkowe poczynania twojej postaci. Umożliwia to lepsze przyznawanie nagród i punktów SAM.
+Dzięki systemom ["Storytelling i Milestone"](https://wiki.nwn.net.pl/docs/Systemy%20Autorskie/StorytellingMilestone) MG mają wgląd w różne dodatkowe poczynania twojej postaci. Umożliwia to lepsze przyznawanie nagród i punktów SAM.\
+Punty SAM również można otrzymać za przesłanie [Karty Postaci](https://wiki.nwn.net.pl/docs/Podstawowe%20informacje/Regulamin%20gry%20na%20serwerze#8-karta-postaci).
 
 :::info
 
@@ -47,20 +47,19 @@ Blokada PD nie objemuje rzemiosła, odgrywania ani Autoexpa.
 
 :::
 
-## Status Gracza
+### Status Gracza
 
 Za każdy przyznany przez MG punkt SAM, na dowolnej postaci gracza (na tym samym kluczu gry), gracz otrzymuje 1 punkt do statusu. 
 **Przykład**: do uzyskania statusu "Srebrnego" wystarczy 5 punktów SAM na jednej postaci lub po 1 punkcie SAM na pięciu postaciach.
 
-Im wyższy status, tym lepsze premie zapewnia, zgodnie z tabelką poniżej.
+Im wyższy status, tym lepsze premie zapewnia, zgodnie z tabelką poniżej:
 
-| Status | Wymagane punkty | Premia |
-|--------|-----------------|--------|
-| Brąz   | 0               |-|
-| Srebrny   | 5            |Wszystkie twoje nowe postacie będą otrzymywać 2 pkt SAM na start.|
-| Złoty   | 10             |Wszystkie twoje nowe postacie będą otrzymywać 5 pkt SAM na start.|
-| Platynowy   | 20             |Wszystkie twoje nowe postacie będą otrzymywać 10 pkt SAM na start.|
-
+| Status    | Wymagane punkty | Premia |
+|-----------|-----------------|--------|
+| Brąz      | 0               | - |
+| Srebrny   | 5               | Wszystkie twoje nowe postacie będą otrzymywać 2 pkt SAM na start.|
+| Złoty     | 10              | Wszystkie twoje nowe postacie będą otrzymywać 5 pkt SAM na start.|
+| Platynowy | 20              | Wszystkie twoje nowe postacie będą otrzymywać 10 pkt SAM na start.|
 
 :::info
 
@@ -78,8 +77,7 @@ Punkty do statusu gracza nie są naliczane wstecz, na podstawie punktów SAM zdo
 ![book](../../static/img/wiki/wiki-systemy/player_status.png)
 
 ## Storytelling bonus
-
-Mistrzowie Gry mają możliwość obdarowania graczy dodatkowym doświadczeniem za rozwijanie swoich wątków poza grą. Taki bonus może być wydany za przesyłanie kontynuacji wątków fabularnych poprzez [Storytelling](https://wiki.nwn.net.pl/docs/Systemy%20Autorskie/Storytelling) bądź za pisanie pamiętanika czy historii postaci na [publiczym kanale Discord](https://discord.com/channels/752493729289601025/1287497301144633396).
+Mistrzowie Gry mają możliwość obdarowania graczy dodatkowym doświadczeniem za rozwijanie swoich wątków poza grą. Taki bonus może być wydany za przesyłanie kontynuacji wątków fabularnych poprzez [Storytelling](https://wiki.nwn.net.pl/docs/Systemy%20Autorskie/StorytellingMilestone#komenda-na-discord-storytelling) bądź za pisanie pamiętanika czy historii postaci na [publiczym kanale Discord](https://discord.com/channels/752493729289601025/1287497301144633396).
 
 - Storytellig bonus jest przydzielany manulanie przez MG, dla konkretnej postaci za konkretną notkę fabularną.
 - Postać otrzymuje doświadczenie w grze - jeśli jest zalogowana dostaje je od razu (informacja w logu).
@@ -87,11 +85,15 @@ Mistrzowie Gry mają możliwość obdarowania graczy dodatkowym doświadczeniem 
 - W przyszłości informacja w logu będzie precyzować za co dokładnie przyznany został dany Storytelling bonus.
 
 ## Doświadczenie za odgrywanie
-
 W miarę odgrywania w grze na kanale "Rozmowa" i "Szept", postać co jakiś czas dostaje trochę doświadczenia.\
 Częstość otrzymywania XP za odgrywanie zależy od wielu zmiennych, takich jak: ilość osób biorących udział w odgrywce oraz długość i częstotliwość pisanego tekstu (minimalnie 3 minuty, w praktyce 5-15 minut).
 
-## Limity doświadczenia za zabijanie potworów
+## Rzemiosło
+Zdobywając nowe poziomy w [systemie rzemiosł](https://wiki.nwn.net.pl/docs/category/systemy-rzemios%C5%82a), postać również dostaje nieco punktów doświadczenia.
+
+## Limity i ograniczenia
+
+### Limity doświadczenia za zabijanie potworów
 
 Po zabiciu **20 potworów** jednego rodzaju, otrzymywane doświadczenie jest zmniejszone o **50%**. Limit ten obowiązuje przez **2 godziny**. 
 
@@ -99,11 +101,11 @@ Dodatkowo, jeżeli postać przekroczy w ciągu dnia 5000 punktów doświadczenia
 
 Oba typy limitów sumują się, czyli 50% z 20% punktów daje 10% bazowej wartości. 
 
-## Kary za wieloklasowość
+### Kary za wieloklasowość
 
 Wieloklasowcy otrzymują karę -20% doświadczenia zdobywanego za potwory, zgodnie ze [**standardowaymi zasadami gry**](https://nwn.fandom.com/wiki/Multiclass_penalty).
 
-## Punkty doświadczenia wymagane do awansu
+### Punkty doświadczenia wymagane do awansu
 Ilość PD wymaganych do awansu została zwiększona o dodatkowe 10.000 na poziomach powyżej 10. Ponad to, każdy poziom powyżej 30 to dodatkowe 100.000. 
 
 Np. 11 poziom oryginalnie wymagał 55.000, obecnie wymaga 65.000. 13 poziom to już 108.000 (oryginalne 78.000 + 3 * 10.000).
@@ -142,11 +144,11 @@ Np. 11 poziom oryginalnie wymagał 55.000, obecnie wymaga 65.000. 13 poziom to j
 | 30     | 635000                        |
 | 31     | 775000                        |
 | 32     | 916000                        |
-| 33     | 1058000                        |
-| 34     | 1201000                        |
-| 35     | 1345000                        |
-| 36     | 1490000                        |
-| 37     | 1536000                        |
-| 38     | 1683000                        |
+| 33     | 1058000                       |
+| 34     | 1201000                       |
+| 35     | 1345000                       |
+| 36     | 1490000                       |
+| 37     | 1536000                       |
+| 38     | 1683000                       |
 | 39     | 1731000                       |
 | 40     | 1880000                       |
