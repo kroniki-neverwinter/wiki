@@ -13,7 +13,7 @@ Przed rozpoczęciem gry Uczniem Smoka należy wysłać [kartę postaci](https://
 
 ### Ogólne informacje
 **Bazowa premia do ataku**: niska (1/2)\
-**Zaklęcia**: Uczeń Smoka otrzymuje co **2 poziomy** poziom czarującego tak, jakby awansował jako bard lub czarownik. Dotyczy to tylko **siły** i **czasu trwania** zaklęć. W przyszłości będzie otrzymywał nowe zaklęcia i kręgi czarów (WIP).
+**Zaklęcia**: Uczeń Smoka otrzymuje co **2 poziomy** poziom czarującego tak, jakby awansował jako bard lub czarownik. Dotyczy to siły, czasu trwania zaklęć, jak również ilości nowych zaklęć i kręgów czarów dzięki [systemowi PCS](https://wiki.nwn.net.pl/docs/Systemy%20Autorskie/CzarowanieSpontaniczne).
 
 ### Dostępne rodzaje smoków
 
