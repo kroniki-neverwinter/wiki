@@ -2,7 +2,6 @@
 sidebar_label: 'Pieśniarz Klingi'
 ---
 
-
 # Pieśniarz Klingi
 
 ![pieśniarz klingi](../../../static/img/wiki/wiki-klasy/piesniarz-klingi.png)
@@ -22,15 +21,17 @@ sidebar_label: 'Pieśniarz Klingi'
 **Punkty Umiejętności:** 3 + Modyfikator Inteligencji.\
 **Bazowa premia do ataku:** wysoka\
 **Wysoki rzut obronny:** Refleks, Wola\
-**Czary:** Co drugi poziom Pieśniarza Klingi czas trwania rzucanych zaklęć oraz ich efektywny poziom zwiększa się tak, jakby zdobył poziom w klasie barda, czarodzieja lub czarownika. Liczba znany zaklęć się jednak nie powiększa.
+**Czary:** Pieśniarz Klingi otrzymuje co **2 poziomy** zaklęcia w swojej klasie czarującej oraz +1 do poziomu rzucającego (czyli +5 na 10 poziomie Pieśniarza Klingi).
+
+_Dzięki [systemowi PCS](https://wiki.nwn.net.pl/docs/Systemy%20Autorskie/CzarowanieSpontaniczne) można bezpiecznie łączyć tę klasę prestiżową z podstawowymi klasami posługującymi się magią mistyczną w sposób spontaniczny._
 
 ### Wymagania
 **Bazowa premia do ataku:** +5\
-**Rzucanie zaklęć mistycznych 1 kręgu**\
-**Atuty:** Magia w Walce, Wyspecjalizowanie, Ulubiona broń (rapier lub długi miecz), Uniki\
 **Umiejętności:** Koncentracja (4), Upadanie (3), Aktorstwo (3)\
+**Rzucanie zaklęć mistycznych I kręgu**\
+**Atuty:** Magia w Walce, Wyspecjalizowanie, Ulubiona broń (rapier lub długi miecz), Uniki\
 **Rasa:** Elf lub półelf\
-**Specjalne:** Musi wyznawać bóstwo z Panteonu Elfów
+**Specjalne:** Postać musi być wychowana w kulturze elfów
 
 ### Umiejętności
 Akrobatyka\
