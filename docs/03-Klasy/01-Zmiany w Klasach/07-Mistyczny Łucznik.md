@@ -2,10 +2,9 @@
 sidebar_label: 'Mistyczny Łucznik'
 ---
 
-
-### Wymagania
+## Wymagania
 **Bazowa premia do ataku:** +6\
-**Rzucanie zaklęć mistycznych 1 kręgu**\
+**Rzucanie zaklęć mistycznych I kręgu**\
 **Atuty:** Ulubiona broń (Długi łuk lub Krótki łuk), Szybki Strzał\
 **Rasa:** Elf lub półelf\
-**Specjalne:** Musi wyznawać bóstwo z Panteonu Elfów
+**Specjalne:** Postać musi być wychowana w kulturze elfów
