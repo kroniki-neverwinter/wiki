@@ -6,7 +6,7 @@ sidebar_label: 'Pieśniarz Klingi'
 
 ![pieśniarz klingi](../../../static/img/wiki/wiki-klasy/piesniarz-klingi.png)
 
-### (KLASA PRESTIŻOWA)
+## (KLASA PRESTIŻOWA)
 
 > _Pieśniarze Klingi to elfy lub półelfy wychowane wśród elfiej społeczności, które łączą sztukę, szermierkę i magię mistyczną w harmonijną całość. Zwodnicze piękno ich zwinnych ruchów i subtelnych manewrów bojowych skrywa zabójczą skuteczność bojową. Pieśniarze Klingi cieszą się specjalną pozycją w elfiej społeczności łącząc piękno magii i sztuki z mistrzowskimi zdolnościami bojowymi, co sprawia, że są oni szanowani przez inne elfy. Zazwyczaj służą jako wędrowni strażnicy i obrońcy elfiej społeczności jako całości, zamiast być związanymi z jedną konkretną osadą. Każdy elf potrafiący władać długim mieczem bądź rapierem oraz posiadający umiejętność rzucania zaklęć mistycznych może stać się Pieśniarzem Klingi._
 >
@@ -14,7 +14,7 @@ sidebar_label: 'Pieśniarz Klingi'
 
 ---
 
-### Podstawowe informacje
+## Podstawowe informacje
 
 **Maksymalna ilość poziomów:** 10.\
 **Kość Wytrzymałości:** k8.\
@@ -25,7 +25,7 @@ sidebar_label: 'Pieśniarz Klingi'
 
 _Dzięki [systemowi PCS](https://wiki.nwn.net.pl/docs/Systemy%20Autorskie/CzarowanieSpontaniczne) można bezpiecznie łączyć tę klasę prestiżową z podstawowymi klasami posługującymi się magią mistyczną w sposób spontaniczny._
 
-### Wymagania
+## Wymagania
 **Bazowa premia do ataku:** +5\
 **Umiejętności:** Koncentracja (4), Upadanie (3), Aktorstwo (3)\
 **Rzucanie zaklęć mistycznych I kręgu**\
@@ -33,7 +33,7 @@ _Dzięki [systemowi PCS](https://wiki.nwn.net.pl/docs/Systemy%20Autorskie/Czarow
 **Rasa:** Elf lub półelf\
 **Specjalne:** Postać musi być wychowana w kulturze elfów
 
-### Umiejętności
+## Umiejętności
 Akrobatyka\
 Aktorstwo\
 Czaroznastwo\
@@ -44,7 +44,7 @@ Prowokacja\
 Wiedza (Szlachta i Władcy)\
 Wiedza (Tajemna)
 
-### Zdolności klasowe
+## Zdolności klasowe
 
 **Poziom 1: Pieśń Klingi**
 
