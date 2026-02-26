@@ -103,52 +103,51 @@ Oba typy limitów sumują się, czyli 50% z 20% punktów daje 10% bazowej warto�
 
 ### Kary za wieloklasowość
 
-Wieloklasowcy otrzymują karę -20% doświadczenia zdobywanego za potwory, zgodnie ze [**standardowaymi zasadami gry**](https://nwn.fandom.com/wiki/Multiclass_penalty).
+Wieloklasowcy otrzymują karę -20% doświadczenia zdobywanego za potwory, zgodnie ze [standardowaymi zasadami gry](https://nwn.fandom.com/wiki/Multiclass_penalty).
 
 ### Punkty doświadczenia wymagane do awansu
-Ilość PD wymaganych do awansu została zwiększona o dodatkowe 10.000 na poziomach powyżej 10. Ponad to, każdy poziom powyżej 30 to dodatkowe 100.000. 
-
+Ilość PD wymaganych do awansu została zwiększona o dodatkowe 10.000 na poziomach powyżej 10. Ponad to, każdy poziom powyżej 30 to dodatkowe 100.000.\
 Np. 11 poziom oryginalnie wymagał 55.000, obecnie wymaga 65.000. 13 poziom to już 108.000 (oryginalne 78.000 + 3 * 10.000).
 
 | Poziom | Wymagane punkty doświadczenia |
 |--------|-------------------------------|
 | 1      | 0                             |
-| 2      | 1000                          |
-| 3      | 3000                          |
-| 4      | 6000                          |
-| 5      | 10000                         |
-| 6      | 15000                         |
-| 7      | 21000                         |
-| 8      | 28000                         |
-| 9      | 36000                         |
-| 10     | 45000                         |
-| 11     | 65000                         |
-| 12     | 86000                         |
-| 13     | 108000                        |
-| 14     | 131000                        |
-| 15     | 155000                        |
-| 16     | 180000                        |
-| 17     | 206000                        |
-| 18     | 233000                        |
-| 19     | 261000                        |
-| 20     | 290000                        |
-| 21     | 320000                        |
-| 22     | 351000                        |
-| 23     | 383000                        |
-| 24     | 416000                        |
-| 25     | 450000                        |
-| 26     | 485000                        |
-| 27     | 521000                        |
-| 28     | 558000                        |
-| 29     | 596000                        |
-| 30     | 635000                        |
-| 31     | 775000                        |
-| 32     | 916000                        |
-| 33     | 1058000                       |
-| 34     | 1201000                       |
-| 35     | 1345000                       |
-| 36     | 1490000                       |
-| 37     | 1536000                       |
-| 38     | 1683000                       |
-| 39     | 1731000                       |
-| 40     | 1880000                       |
+| 2      | 1 000                         |
+| 3      | 3 000                         |
+| 4      | 6 000                         |
+| 5      | 10 000                        |
+| 6      | 15 000                        |
+| 7      | 21 000                        |
+| 8      | 28 000                        |
+| 9      | 36 000                        |
+| 10     | 45 000                        |
+| 11     | 65 000                        |
+| 12     | 86 000                        |
+| 13     | 108 000                       |
+| 14     | 131 000                       |
+| 15     | 155 000                       |
+| 16     | 180 000                       |
+| 17     | 206 000                       |
+| 18     | 233 000                       |
+| 19     | 261 000                       |
+| 20     | 290 000                       |
+| 21     | 320 000                       |
+| 22     | 351 000                       |
+| 23     | 383 000                       |
+| 24     | 416 000                       |
+| 25     | 450 000                       |
+| 26     | 485 000                       |
+| 27     | 521 000                       |
+| 28     | 558 000                       |
+| 29     | 596 000                       |
+| 30     | 635 000                       |
+| 31     | 775 000                       |
+| 32     | 916 000                       |
+| 33     | 1 058 000                     |
+| 34     | 1 201 000                     |
+| 35     | 1 345 000                     |
+| 36     | 1 490 000                     |
+| 37     | 1 636 000                     |
+| 38     | 1 783 000                     |
+| 39     | 1 931 000                     |
+| 40     | 2 080 000                     |
