@@ -10,6 +10,7 @@ const sidebars = {
       },
       items: [
         'bogowie-i-religia',
+        'prawa-neverwinter',
       ],
     },
     {
