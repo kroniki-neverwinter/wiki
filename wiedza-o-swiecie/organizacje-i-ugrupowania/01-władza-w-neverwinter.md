@@ -36,4 +36,13 @@ Zostanie rekrutem Szarych Płaszczy jest stosunkowo proste, jednak wspięcie si�
 
 ## Wielogwiezdne Płaszcze
 
-TBD
+Wielogwiezdne Płaszcze to gildia użytkowników magii mistycznej, którzy poświęcili się obronie miasta i wspieraniu jego władców swoją magią. Często uważa się ich za jedyną grupę zdolną zapewnić miastu bezpieczeństwo przed Tajemnym Bractwem.\
+Ich siedzibą jest Skrytowieża w Dzielnicy Mistyków, która może również pełnić funkcje obronne. Członkowie są łatwo rozpoznawalni właśnie przez charakterystyczne płaszcze. Powszechnie wiadome jest, że obecną Arcymistrzynią Wielogwiezdnych jest Eltoora Sarptyl. Ofala Cheldarstorn z Dziewiątki Neverwinter również należy do bardziej rozpoznawalnych członków gildii wyższej rangi.
+
+Zostanie adeptem Wielogiwezdnych Płaszczy nie jest jednak prostą ścieżką. Gildia cieszy się dużym prestiżem i nie przyłączają w swoje szeregi kogokolwiek bez uprzedniego sprawdzenia czy osoba dobrze wpasuje się do organizacji.
+
+**MG prowadzący:** DM Talulah, DM Nimo\
+**Zalecany charakter:** dowolny nie-zły\
+**Zalecana klasa:** czarodziej lub czarownik\
+**Zalecana rasa:** dowolna\
+**Przystąpienie:** poprzez Kartę Postaci, zgłoszenie się do MG prowadzącego lub zwrócenie się w grze do obecnych członków
