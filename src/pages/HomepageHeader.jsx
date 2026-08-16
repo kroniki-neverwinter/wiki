@@ -1,32 +1,47 @@
-import clsx from 'clsx';
-import Link from '@docusaurus/Link';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import logo  from '../../static/img/KN_logo_transparent_2.png';
+import clsx from "clsx";
+import Link from "@docusaurus/Link";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import Heading from "@theme/Heading";
+import logo from "../../static/img/KN_logo_transparent_2.png";
+import styles from "./index.module.css";
 
-import Heading from '@theme/Heading';
-import styles from './index.module.css';
+const serverDetails = [
+  ["Moduł", "KronikiNeverwinter"],
+  ["Setting", "Zapomniane Krainy, Wybrzeże Mieczy"],
+  ["Adres serwera", "4.185.28.160"],
+  ["Port", "30121"],
+];
 
+export default function HomepageHeader() {
+  const { siteConfig } = useDocusaurusContext();
 
-export default function HomepageHeader () {
-    const {siteConfig} = useDocusaurusContext();
-    return (
-      <header className={clsx('hero hero--primary', styles.heroBanner)}>
-        <div className="container">
+  return (
+    <header className={clsx("hero hero--primary", styles.heroBanner)}>
+      <div className="container">
         <Heading as="h1" className="hero__title">
-            {siteConfig.title}
-          </Heading> <img src={logo} alt="logo kronik neverwinter" width={512} height={512}/>
-          <div>
-            <h2>Moduł:</h2><p>KronikiNeverwinter</p>
-            <h2>Setting:</h2><p>Zapomniane Krainy, Wybrzeże Mieczy</p>
-            <h2>Adres serwera:</h2><p>4.185.28.160</p>
-            <h2>Port:</h2><p>30121</p>
-          </div>
-            <Link
-              className="button button--secondary button--lg"
-              to="/docs/category/podstawowe-informacje">
-              Więcej informacji
-            </Link>
-        </div>
-      </header>
-    );
-  }
+          {siteConfig.title}
+        </Heading>
+        <img
+          src={logo}
+          alt="Kroniki Neverwinter logo"
+          width={512}
+          height={512}
+        />
+        <dl className={styles.serverDetails}>
+          {serverDetails.map(([label, value]) => (
+            <div key={label} className={styles.serverDetail}>
+              <dt>{label}</dt>
+              <dd>{value}</dd>
+            </div>
+          ))}
+        </dl>
+        <Link
+          className="button button--secondary button--lg"
+          to="/docs/category/podstawowe-informacje"
+        >
+          Więcej informacji
+        </Link>
+      </div>
+    </header>
+  );
+}

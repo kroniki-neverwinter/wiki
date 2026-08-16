@@ -1,423 +1,310 @@
 import React, { useState } from "react";
+import FormField from "./character-form/FormField";
+import TextInput from "./character-form/TextInput";
+import Tooltip from "./character-form/Tooltip";
 import styles from "./styles.module.css";
-import { apiUrl } from "./const/urls";
 
 const MAX_INPUT_LENGTH = 100;
 const MAX_TEXT_AREA_LENGTH = 2000;
 
-const CharacterFormContent = ({ discordUserName, accessToken }) => {
+const basicFields = [
+  {
+    id: "characterName",
+    label: "Imię Postaci:",
+    required: true,
+  },
+  {
+    id: "gameLogin",
+    label: "Login w grze:",
+    required: true,
+  },
+  {
+    id: "characterClass",
+    label: "Klasy Postaci:",
+    tooltip: "Planowane klasy postaci.",
+    required: true,
+  },
+  {
+    id: "characterRace",
+    label: "Rasa postaci:",
+    required: true,
+  },
+  {
+    id: "characterAge",
+    label: "Wiek postaci:",
+    type: "number",
+    min: "18",
+    max: "300",
+    required: true,
+  },
+  {
+    id: "characterReligion",
+    label: "Wyznanie postaci:",
+    required: true,
+  },
+  {
+    id: "characterOrigin",
+    label: "Pochodzenie postaci:",
+    tooltip: "Region lub miasto, np. Waterdeep",
+    required: true,
+  },
+  {
+    id: "characterLanguages",
+    label: "Znane języki:",
+    tooltip:
+      "Nie musisz pisać, że krasnolud zna język krasnoludzki. Czy postać zna jakieś niestandardowe języki? Nie zapomnij podać uzasadnienia!",
+  },
+];
+
+const statFields = [
+  { id: "strength", label: "Siła:" },
+  { id: "dexterity", label: "Zręczność:" },
+  { id: "constitution", label: "Kondycja:" },
+  { id: "intelligence", label: "Inteligencja:" },
+  { id: "wisdom", label: "Mądrość:" },
+  { id: "charisma", label: "Charyzma:" },
+];
+
+const storyFields = [
+  {
+    id: "characterHistory",
+    label: "Historia:",
+    tooltip:
+      "Życiorys, edukacja, osiągnięcia, porażki, traumy, relacje rodzinne, kontakty społeczne.",
+    placeholder:
+      "Maksymalnie 2000 znaków. Dłuższe historie lub opowiadania załącz jako PDF w sekcji Załącznik",
+  },
+  {
+    id: "characterAppearance",
+    label: "Opis Wyglądu:",
+    tooltip:
+      "Ogólny stan zdrowia, twarz, ciało, mowa ciała, odzienie i rekwizyty, manieryzmy, higiena, głos, zapach",
+  },
+  {
+    id: "characterPsychology",
+    label: "Rys psychologiczny:",
+    tooltip:
+      "Moralność i filozofia, charakterystyka intelektualna, motywacje, co postać lubi/nie lubi, wady, zalety, hobby, stosunek do innych, co wywołuje w postaci silne emocje, stosunek do innych ras, klas czy wyznań, sposób radzenia sobie z problemami.",
+  },
+  {
+    id: "deityView",
+    label: "Spojrzenie na bóstwo: (Tylko dla kapłana i paladyna)",
+    tooltip:
+      "Religijność, historia wiary, czemu to bóstwo jest opiekunem, czy i jak często modli się do kogoś innego, ogólne zrozumienie dogmatu.",
+  },
+];
+
+const alignmentOptions = [
+  "Praworządny Dobry",
+  "Neutralny Dobry",
+  "Chaotyczny Dobry",
+  "Praworządny Neutralny",
+  "Prawdziwie Neutralny",
+  "Chaotyczny Neutralny",
+  "Praworządny Zły",
+  "Neutralny Zły",
+  "Chaotyczny Zły",
+];
+
+function BasicTextField({ field }) {
+  return (
+    <FormField id={field.id} label={field.label} tooltip={field.tooltip}>
+      <TextInput
+        id={field.id}
+        type={field.type}
+        min={field.min}
+        max={field.max}
+        maxLength={field.type === "number" ? undefined : MAX_INPUT_LENGTH}
+        required={field.required}
+      />
+    </FormField>
+  );
+}
+
+function DiscordField({ discordUserName }) {
+  return (
+    <FormField
+      id="discordUsername"
+      label="Discord:"
+      tooltip="Twój właściwy nick zostanie uzupełniony automatycznie, zgodnie z tym co masz ustawione na serwerze Discord."
+    >
+      <TextInput
+        id="discordUsername"
+        value={discordUserName || ""}
+        readOnly
+      />
+    </FormField>
+  );
+}
+
+function GenderField() {
+  return (
+    <div className={styles.formField}>
+      <span className={styles.fieldLabel}>Płeć postaci:</span>
+      <div className={styles.radioGroup}>
+        <label htmlFor="genderFemale">
+          <input
+            type="radio"
+            id="genderFemale"
+            name="characterGender"
+            value="Kobieta"
+            required
+          />{" "}
+          Kobieta
+        </label>
+        <label htmlFor="genderMale">
+          <input
+            type="radio"
+            id="genderMale"
+            name="characterGender"
+            value="Mężczyzna"
+            required
+          />{" "}
+          Mężczyzna
+        </label>
+      </div>
+    </div>
+  );
+}
+
+function AlignmentField() {
+  return (
+    <FormField id="characterPersonality" label="Charakter:">
+      <select id="characterPersonality" name="characterPersonality" required>
+        <option value="">Wybierz charakter</option>
+        {alignmentOptions.map((alignment) => (
+          <option key={alignment} value={alignment}>
+            {alignment}
+          </option>
+        ))}
+      </select>
+    </FormField>
+  );
+}
+
+function StatField({ field }) {
+  return (
+    <FormField id={field.id} label={field.label}>
+      <TextInput
+        id={field.id}
+        type="number"
+        min="6"
+        max="20"
+        required
+      />
+    </FormField>
+  );
+}
+
+function StoryField({ field }) {
+  return (
+    <FormField id={field.id} label={field.label} tooltip={field.tooltip}>
+      <textarea
+        id={field.id}
+        name={field.id}
+        rows="6"
+        maxLength={MAX_TEXT_AREA_LENGTH}
+        placeholder={field.placeholder}
+      />
+    </FormField>
+  );
+}
+
+function AttachmentField({ fileName, onFileChange }) {
+  const labelClassName = fileName ? styles.fileUploaded : styles.uploadButton;
+
+  return (
+    <div className={styles.formField}>
+      <label htmlFor="attachment" className={labelClassName}>
+        Załącznik:
+        <Tooltip>
+          Miejsce na portret postaci, concept art lub opowiadanie. Wspierane
+          formaty: JPEG, PNG, PDF. Maksymalnie 10 MB.
+        </Tooltip>
+        <input
+          className={styles.uploadInput}
+          type="file"
+          id="attachment"
+          name="attachment"
+          accept=".jpeg,.jpg,.png,.pdf"
+          onChange={onFileChange}
+        />
+        <span>
+          {fileName ? `Wybrany plik: ${fileName}` : "Nie wybrano pliku"}
+        </span>
+      </label>
+    </div>
+  );
+}
+
+export default function CharacterFormContent({
+  discordUserName,
+  accessToken,
+  apiUrl,
+}) {
   const [fileName, setFileName] = useState("");
 
   const handleFileChange = ({ target }) => {
     const file = target?.files?.[0];
-    if (file) {
-      setFileName(file.name);
-    } else {
-      setFileName("");
-    }
+    setFileName(file?.name || "");
   };
 
   return (
-    <body className={styles.body}>
+    <section className={styles.body} aria-label="Character form">
       <div className={styles.container}>
-        <div styles={styles.formContainer}>
+        <div className={styles.formContainer}>
           <form
             id="characterForm"
             action={apiUrl}
             method="post"
-            enctype="multipart/form-data"
+            encType="multipart/form-data"
           >
             <input
               type="hidden"
               id="accessTokenField"
               name="accessToken"
               value={accessToken}
+              readOnly
             />
+
             <fieldset>
               <legend>Dane postaci:</legend>
-              <div className={styles.formField}>
-                <label for="characterName">Imię Postaci:</label>
-                <input
-                  type="text"
-                  id="characterName"
-                  name="characterName"
-                  required
-                  maxLength={MAX_INPUT_LENGTH}
-                />
-              </div>
-              <div className={styles.formField}>
-                <label for="gameLogin">Login w grze:</label>
-                <input
-                  type="text"
-                  id="gameLogin"
-                  name="gameLogin"
-                  maxLength={MAX_INPUT_LENGTH}
-                  required
-                />
-              </div>
-              <div className={styles.formField}>
-                <label for="discordUsername">
-                  Discord:
-                  <span className={styles.tooltipContainer}>
-                    <button type="button" className={styles.tooltipButton}>
-                      ?
-                    </button>
-                    <span className={styles.tooltipText}>
-                      Twój właściwy nick zostanie uzupełniony automatycznie,
-                      zgodnie z tym co masz ustawione na serwerze Discord.
-                    </span>
-                  </span>
-                </label>
-                <input
-                  type="text"
-                  id="discordUsername"
-                  name="discordUsername"
-                  value={discordUserName || ""}
-                  readOnly
-                />
-              </div>
-              <div className={styles.formField}>
-                <label for="characterClass">
-                  Klasy Postaci:
-                  <span className={styles.tooltipContainer}>
-                    <button type="button" className={styles.tooltipButton}>
-                      ?
-                    </button>
-                    <span className={styles.tooltipText}>
-                      Planowane klasy postaci.
-                    </span>
-                  </span>
-                </label>
-                <input
-                  type="text"
-                  id="characterClass"
-                  name="characterClass"
-                  maxLength={MAX_INPUT_LENGTH}
-                  required
-                />
-              </div>
-              <div className={styles.formField}>
-                <label>Płeć postaci:</label>
-                <div className={styles.radioGroup}>
-                  <label for="genderFemale">
-                    <input
-                      type="radio"
-                      id="genderFemale"
-                      name="characterGender"
-                      value="Kobieta"
-                      required
-                    />{" "}
-                    Kobieta
-                  </label>
-                  <label for="genderMale">
-                    <input
-                      type="radio"
-                      id="genderMale"
-                      name="characterGender"
-                      value="Mężczyzna"
-                      required
-                    />{" "}
-                    Mężczyzna
-                  </label>
-                </div>
-              </div>
-              <div className={styles.formField}>
-                <label for="characterRace">Rasa postaci:</label>
-                <input
-                  type="text"
-                  id="characterRace"
-                  name="characterRace"
-                  maxLength={MAX_INPUT_LENGTH}
-                  required
-                />
-              </div>
-              <div className={styles.formField}>
-                <label for="characterAge">Wiek postaci:</label>
-                <input
-                  type="number"
-                  id="characterAge"
-                  name="characterAge"
-                  min="18"
-                  max="300"
-                  required
-                />
-              </div>
-              <div className={styles.formField}>
-                <label for="characterReligion">Wyznanie postaci:</label>
-                <input
-                  type="text"
-                  id="characterReligion"
-                  name="characterReligion"
-                  maxLength={MAX_INPUT_LENGTH}
-                  required
-                />
-              </div>
-              <div className={styles.formField}>
-                <label for="characterOrigin">
-                  Pochodzenie postaci:
-                  <span className={styles.tooltipContainer}>
-                    <button type="button" className={styles.tooltipButton}>
-                      ?
-                    </button>
-                    <span className={styles.tooltipText}>
-                      Region lub miasto, np. Waterdeep
-                    </span>
-                  </span>
-                </label>
-                <input
-                  type="text"
-                  id="characterOrigin"
-                  name="characterOrigin"
-                  maxLength={MAX_INPUT_LENGTH}
-                  required
-                />
-              </div>
-              <div className={styles.formField}>
-                <label for="characterPersonality">Charakter:</label>
-                <select
-                  id="characterPersonality"
-                  name="characterPersonality"
-                  required
-                >
-                  <option value="">Wybierz charakter</option>
-                  <option value="Praworządny Dobry">Praworządny Dobry</option>
-                  <option value="Neutralny Dobry">Neutralny Dobry</option>
-                  <option value="Chaotyczny Dobry">Chaotyczny Dobry</option>
-                  <option value="Praworządny Neutralny">
-                    Praworządny Neutralny
-                  </option>
-                  <option value="Prawdziwie Neutralny">
-                    Prawdziwie Neutralny
-                  </option>
-                  <option value="Chaotyczny Neutralny">
-                    Chaotyczny Neutralny
-                  </option>
-                  <option value="Praworządny Zły">Praworządny Zły</option>
-                  <option value="Neutralny Zły">Neutralny Zły</option>
-                  <option value="Chaotyczny Zły">Chaotyczny Zły</option>
-                </select>
-              </div>
-              <div className={styles.formField}>
-                <label for="characterLanguages">
-                  Znane języki:
-                  <span className={styles.tooltipContainer}>
-                    <button type="button" className={styles.tooltipButton}>
-                      ?
-                    </button>
-                    <span className={styles.tooltipText}>
-                      Nie musisz pisać, że krasnolud zna język krasonludzki. Czy
-                      postać zna jakieś niestandardowe języki? Nie zapomnij
-                      podać uzasadnienia!
-                    </span>
-                  </span>
-                </label>
-                <input
-                  type="text"
-                  id="characterLanguages"
-                  name="characterLanguages"
-                  maxLength={MAX_INPUT_LENGTH}
-                />
-              </div>
+              <BasicTextField field={basicFields[0]} />
+              <BasicTextField field={basicFields[1]} />
+              <DiscordField discordUserName={discordUserName} />
+              <BasicTextField field={basicFields[2]} />
+              <GenderField />
+              {basicFields.slice(3, 7).map((field) => (
+                <BasicTextField key={field.id} field={field} />
+              ))}
+              <AlignmentField />
+              <BasicTextField field={basicFields[7]} />
             </fieldset>
+
             <fieldset>
               <legend>Cechy postaci:</legend>
-              <div className={styles.formField}>
-                <label for="strength">Siła:</label>
-                <input
-                  type="number"
-                  id="strength"
-                  name="strength"
-                  min="6"
-                  max="20"
-                  required
-                />
-              </div>
-              <div className={styles.formField}>
-                <label for="dexterity">Zręczność:</label>
-                <input
-                  type="number"
-                  id="dexterity"
-                  name="dexterity"
-                  min="6"
-                  max="20"
-                  required
-                />
-              </div>
-              <div className={styles.formField}>
-                <label for="constitution">Kondycja:</label>
-                <input
-                  type="number"
-                  id="constitution"
-                  name="constitution"
-                  min="6"
-                  max="20"
-                  required
-                />
-              </div>
-              <div className={styles.formField}>
-                <label for="intelligence">Inteligencja:</label>
-                <input
-                  type="number"
-                  id="intelligence"
-                  name="intelligence"
-                  min="6"
-                  max="20"
-                  required
-                />
-              </div>
-              <div className={styles.formField}>
-                <label for="wisdom">Mądrość:</label>
-                <input
-                  type="number"
-                  id="wisdom"
-                  name="wisdom"
-                  min="6"
-                  max="20"
-                  required
-                />
-              </div>
-              <div className={styles.formField}>
-                <label for="charisma">Charyzma:</label>
-                <input
-                  type="number"
-                  id="charisma"
-                  name="charisma"
-                  min="6"
-                  max="20"
-                  required
-                />
-              </div>
+              {statFields.map((field) => (
+                <StatField key={field.id} field={field} />
+              ))}
             </fieldset>
+
             <fieldset className={styles.wideSection}>
               <legend>Historia i opis:</legend>
-              <div className={styles.formField}>
-                <label for="characterHistory">
-                  Historia:
-                  <span className={styles.tooltipContainer}>
-                    <button type="button" className={styles.tooltipButton}>
-                      ?
-                    </button>
-                    <span className={styles.tooltipText}>
-                      Życiorys, edukacja, osiągnięcia, porażki, traumy, relacje
-                      rodzinne, kontakty społeczne.
-                    </span>
-                  </span>
-                </label>
-                <textarea
-                  id="characterHistory"
-                  name="characterHistory"
-                  rows="6"
-                  maxLength={MAX_TEXT_AREA_LENGTH}
-                  placeholder="Maksymalnie 2000 znaków. Dłuższe historie lub opowiadania załącz jako PDF w sekcji Załącznik"
-                ></textarea>
-              </div>
-              <div className={styles.formField}>
-                <label for="characterAppearance">
-                  Opis Wyglądu:
-                  <span className={styles.tooltipContainer}>
-                    <button type="button" className={styles.tooltipButton}>
-                      ?
-                    </button>
-                    <span className={styles.tooltipText}>
-                      Ogólny stan zdrowia, twarz, ciało, mowa ciała, odzienie i
-                      rekwizyty, manieryzmy, higiena, głos, zapach
-                    </span>
-                  </span>
-                </label>
-                <textarea
-                  id="characterAppearance"
-                  name="characterAppearance"
-                  maxLength={MAX_TEXT_AREA_LENGTH}
-                  rows="6"
-                ></textarea>
-              </div>
-              <div className={styles.formField}>
-                <label for="characterPsychology">
-                  Rys psychologiczny:
-                  <span className={styles.tooltipContainer}>
-                    <button type="button" className={styles.tooltipButton}>
-                      ?
-                    </button>
-                    <span className={styles.tooltipText}>
-                      Moralność i filozofia, charakterystyka intelektualna,
-                      motywacje, co postać lubi/nie lubi, wady, zalety, hobby,
-                      stosunek do innych, co wywołuje w postaci silne emocje
-                      (strach, wściekłość, euforię), stosunek do innych ras,
-                      klas czy wyznań, sposób radzenia sobie z problemami
-                      (siłowo, sprytem, magią, stopień zaradności i
-                      samodzielności życiowej)
-                    </span>
-                  </span>
-                </label>
-                <textarea
-                  id="characterPsychology"
-                  name="characterPsychology"
-                  maxLength={MAX_TEXT_AREA_LENGTH}
-                  rows="6"
-                ></textarea>
-              </div>
-              <div className={styles.formField}>
-                <label for="deityView">
-                  Spojrzenie na bóstwo: (Tylko dla kapłana i paladyna)
-                  <span className={styles.tooltipContainer}>
-                    <button type="button" className={styles.tooltipButton}>
-                      ?
-                    </button>
-                    <span className={styles.tooltipText}>
-                      Religijność, historia wiary, czemu to bóstwo jest
-                      opiekunem, czy i jak często modli się do kogoś innego,
-                      ogólne zrozumienie dogmatu
-                    </span>
-                  </span>
-                </label>
-                <textarea
-                  id="deityView"
-                  name="deityView"
-                  maxLength={MAX_TEXT_AREA_LENGTH}
-                  rows="6"
-                ></textarea>
-              </div>
-              <div className={styles.formField}>
-                <label
-                  for="attachment"
-                  className={
-                    fileName ? styles.fileUploaded : styles.uploadButton
-                  }
-                >
-                  Załącznik:
-                  <span className={styles.tooltipContainer}>
-                    <button type="button" className={styles.tooltipButton}>
-                      ?
-                    </button>
-                    <span className={styles.tooltipText}>
-                      Miejsce na portret postaci, concept art lub opowiadanie.
-                      Wspierane formaty: JPEG, PNG, PDF. Maksymalnie 10 MB.
-                    </span>
-                  </span>
-                  <input
-                    className={styles.uploadInput}
-                    type="file"
-                    id="attachment"
-                    name="attachment"
-                    accept=".jpeg,.jpg,.png,.pdf"
-                    onChange={handleFileChange}
-                  />
-                  <p>
-                    {fileName
-                      ? `Wybrany plik: ${fileName}`
-                      : "Nie wybrano pliku"}
-                  </p>
-                </label>
-              </div>
+              {storyFields.map((field) => (
+                <StoryField key={field.id} field={field} />
+              ))}
+              <AttachmentField
+                fileName={fileName}
+                onFileChange={handleFileChange}
+              />
             </fieldset>
+
             <div className={styles.submitContainer}>
               <button type="submit">Wyślij</button>
             </div>
           </form>
         </div>
       </div>
-    </body>
+    </section>
   );
-};
-
-export default CharacterFormContent;
+}

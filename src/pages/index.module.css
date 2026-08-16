@@ -21,3 +21,18 @@
   align-items: center;
   justify-content: center;
 }
+
+.serverDetails {
+  display: grid;
+  gap: 0.75rem;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
+.serverDetail dt {
+  font-weight: 700;
+}
+
+.serverDetail dd {
+  margin: 0;
+}
