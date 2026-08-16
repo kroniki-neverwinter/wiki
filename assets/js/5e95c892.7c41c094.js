@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkroniki_neverwinter_wiki=self.webpackChunkkroniki_neverwinter_wiki||[]).push([[9661],{1892:(e,r,i)=>{i.r(r),i.d(r,{default:()=>c});i(7294);var n=i(512),s=i(1667),k=i(5281),t=i(8790),u=i(1395),a=i(5893);function c(e){return(0,a.jsx)(s.FG,{className:(0,n.Z)(k.k.wrapper.docsPages),children:(0,a.jsx)(u.Z,{children:(0,t.H)(e.route.routes)})})}}}]);
