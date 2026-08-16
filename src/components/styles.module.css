@@ -27,9 +27,7 @@
     padding: 0 5px;
   }
 }
-/* Form Container Styling */
 .formContainer {
-  display: none;
   background-color: #2f3136;
   padding: 20px;
   border-radius: 5px;
@@ -38,7 +36,7 @@
 }
 
 .wideSection {
-  width: 800px;
+  width: min(800px, 100%);
 }
 
 fieldset.wideSection {
@@ -47,7 +45,8 @@ fieldset.wideSection {
 .formField {
   margin-bottom: 15px;
 }
-.formField label {
+.formField label,
+.fieldLabel {
   display: block;
   margin-bottom: 5px;
   font-weight: bold;
@@ -65,7 +64,6 @@ fieldset.wideSection {
   color: #dcddde;
   box-sizing: border-box;
 }
-/* Increase text area height in the wide section */
 .wideSection textarea {
   min-height: 150px;
 }
@@ -77,7 +75,6 @@ fieldset.wideSection {
 .radioGroup input[type="radio"] {
   margin-right: 5px;
 }
-/* Tooltip styling */
 .tooltipContainer {
   position: relative;
   display: inline-block;
@@ -117,7 +114,6 @@ fieldset.wideSection {
   visibility: visible;
   opacity: 1;
 }
-/* Center the submit button */
 .submitContainer {
   text-align: center;
 }

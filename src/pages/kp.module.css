@@ -9,12 +9,11 @@
   min-height: 100vh;
   padding: 20px;
 }
-#container {
+.container {
   width: 100%;
 }
 
-/* Login Button Styling */
-button {
+.loginButton {
   background-color: #5865f2;
   color: #fff;
   border: none;
@@ -23,15 +22,14 @@ button {
   border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.2s ease;
-}
-button:hover {
-  background-color: #4752c4;
-}
-button:active {
-  background-color: #3c43a1;
-}
-/* Center login button */
-#loginButton {
   display: block;
   margin: 20px auto;
+}
+
+.loginButton:hover {
+  background-color: #4752c4;
+}
+
+.loginButton:active {
+  background-color: #3c43a1;
 }
