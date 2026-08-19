@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import FormField from "./character-form/FormField";
-import TextInput from "./character-form/TextInput";
-import Tooltip from "./character-form/Tooltip";
+import FormField from "../FormField";
+import TextInput from "../TextInput";
+import Tooltip from "../Tooltip";
 import styles from "./styles.module.css";
 
 const MAX_INPUT_LENGTH = 100;
