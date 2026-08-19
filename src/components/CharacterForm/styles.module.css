@@ -114,6 +114,8 @@ fieldset.wideSection {
   visibility: visible;
   opacity: 1;
 }
+
+/* Moved component-specific styles to their own files if needed */
 .submitContainer {
   text-align: center;
 }

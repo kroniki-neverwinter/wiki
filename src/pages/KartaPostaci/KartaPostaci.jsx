@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import clsx from "clsx";
 import { CharacterForm } from "../components/CharacterForm";
-import { getAppUrls } from "../components/const/urls";
+import { getAppUrls } from "../config/urls";
 import styles from "./kp.module.css";
 
 export const KartaPostaci = () => {
