@@ -12,7 +12,7 @@ const serverDetails = [
   ["Port", "30121"],
 ];
 
-export default function HomepageHeader() {
+export const HomepageHeader = () => {
   const { siteConfig } = useDocusaurusContext();
 
   return (

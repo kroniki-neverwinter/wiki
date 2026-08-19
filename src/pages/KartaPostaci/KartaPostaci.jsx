@@ -5,7 +5,7 @@ import { CharacterForm } from "../components/CharacterForm";
 import { getAppUrls } from "../components/const/urls";
 import styles from "./kp.module.css";
 
-export default function CharacterForm() {
+export const KartaPostaci = () => {
   const { siteConfig } = useDocusaurusContext();
   const { apiUrl, discordAuthUrl, discordMeUrl } = getAppUrls(
     siteConfig.customFields,
