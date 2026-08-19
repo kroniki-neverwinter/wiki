@@ -3,7 +3,7 @@
 import { createRequire } from "node:module";
 import { themes as prismThemes } from "prism-react-renderer";
 import "dotenv/config";
-import { defaultAppUrls } from "./src/components/const/urls.js";
+import { defaultAppUrls } from "./src/config/urls.js";
 
 const require = createRequire(import.meta.url);
 

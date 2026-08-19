@@ -1,8 +1,8 @@
 import React from "react";
-import Tooltip from "./Tooltip";
-import styles from "../styles.module.css";
+import { Tooltip } from "../Tooltip";
+import styles from "../CharacterForm/styles.module.css";
 
-export default function FormField({ id, label, tooltip, children }) {
+export const FormField = ({ id, label, tooltip, children }) => {
   return (
     <div className={styles.formField}>
       <label htmlFor={id}>

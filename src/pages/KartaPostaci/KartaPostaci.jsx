@@ -1,11 +1,11 @@
 import React, { useEffect, useState } from "react";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import clsx from "clsx";
-import CharacterFormContent from "../components/CharacterFormContent";
-import { getAppUrls } from "../components/const/urls";
+import { CharacterForm } from "../components/CharacterForm";
+import { getAppUrls } from "../config/urls";
 import styles from "./kp.module.css";
 
-export default function CharacterForm() {
+export const KartaPostaci = () => {
   const { siteConfig } = useDocusaurusContext();
   const { apiUrl, discordAuthUrl, discordMeUrl } = getAppUrls(
     siteConfig.customFields,
@@ -42,7 +42,7 @@ export default function CharacterForm() {
           Login with Discord
         </button>
       ) : (
-        <CharacterFormContent
+        <CharacterForm
           discordUserName={userData?.username}
           accessToken={accessToken}
           apiUrl={apiUrl}
