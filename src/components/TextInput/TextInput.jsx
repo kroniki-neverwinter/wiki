@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function TextInput({
+export const TextInput = (
   id,
   name = id,
   type = "text",

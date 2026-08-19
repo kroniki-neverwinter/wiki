@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import FormField from "../FormField";
-import TextInput from "../TextInput";
-import Tooltip from "../Tooltip";
+import { FormField } from "../FormField";
+import { TextInput } from "../TextInput";
+import { Tooltip } from "../Tooltip";
 import styles from "./styles.module.css";
 
 const MAX_INPUT_LENGTH = 100;
@@ -237,7 +237,7 @@ function AttachmentField({ fileName, onFileChange }) {
   );
 }
 
-export default function CharacterFormContent({
+export const CharacterForm = (
   discordUserName,
   accessToken,
   apiUrl,

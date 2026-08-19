@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "../CharacterForm/styles.module.css";
 
-export default function Tooltip({ children }) {
+export const Tooltip = ({ children }) => {
   if (!children) {
     return null;
   }

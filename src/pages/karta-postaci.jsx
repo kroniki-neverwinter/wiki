@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import clsx from "clsx";
-import CharacterFormContent from "../components/CharacterForm";
+import { CharacterForm } from "../components/CharacterForm";
 import { getAppUrls } from "../components/const/urls";
 import styles from "./kp.module.css";
 
@@ -42,7 +42,7 @@ export default function CharacterForm() {
           Login with Discord
         </button>
       ) : (
-        <CharacterFormContent
+        <CharacterForm
           discordUserName={userData?.username}
           accessToken={accessToken}
           apiUrl={apiUrl}
