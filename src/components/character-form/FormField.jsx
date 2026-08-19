@@ -1,6 +1,6 @@
 import React from "react";
 import Tooltip from "./Tooltip";
-import styles from "../styles.module.css";
+import styles from "./styles.module.css";
 
 export default function FormField({ id, label, tooltip, children }) {
   return (

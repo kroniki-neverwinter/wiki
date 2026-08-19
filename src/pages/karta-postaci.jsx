@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import clsx from "clsx";
-import CharacterFormContent from "../components/CharacterFormContent";
+import CharacterFormContent from "../components/character-form";
 import { getAppUrls } from "../components/const/urls";
 import styles from "./kp.module.css";
 
